@@ -1,109 +1,109 @@
-Doculect	Branch	iso
-Jahai	ASLIAN	jhi
-JahHut	ASLIAN	
-Kensiw	ASLIAN	kns
-Semai	ASLIAN	sea
-Semelai	ASLIAN	sza
-SemoqBeri	ASLIAN	
-Temiar	ASLIAN	
-Arak	BAHNARIC	
-Bahnar	BAHNARIC	bdq
-Chrau	BAHNARIC	crw
-Didra	BAHNARIC	tdr
-Hadang	BAHNARIC	sed
-Halang	BAHNARIC	hal
-Hre	BAHNARIC	hre
-Je	BAHNARIC	
-Jeh	BAHNARIC	jeh
-Jru	BAHNARIC	lbo W
-Kadong	BAHNARIC	
-KahoChil	BAHNARIC	
-KorCua	BAHNARIC	cua
-M.Bunong	BAHNARIC	cma
-M.Dip	BAHNARIC	cma
-M.Rolom	BAHNARIC	mng
-Ma1	BAHNARIC	
-Ma2	BAHNARIC	
-Nhaheun	BAHNARIC	nev W
-Oy	BAHNARIC	oyb W
-Panong	BAHNARIC	
-Rengao	BAHNARIC	ren
-Sedang	BAHNARIC	sed
-Sre	BAHNARIC	
-Stieng	BAHNARIC	
-Tariang	BAHNARIC	tdf
-Tempuan	BAHNARIC	tpu
-Veh	BAHNARIC	
-Bru	KATUIC	
-BruVK	KATUIC	
-Dakkang	KATUIC	
-Kantu	KATUIC	
-Katu	KATUIC	
-Kui	KATUIC	
-LaoKatu	KATUIC	
-Mak	KATUIC	
-Neu	KATUIC	
-Nge	KATUIC	
-Ong	KATUIC	
-Pakoh	KATUIC	
-So	KATUIC	
-Taoi	KATUIC	
-Taoih	KATUIC	
-Tri	KATUIC	
-Khasi	KHASI	kha
-K.Surin	KHMERIC	
-Khmer	KHMERIC	
-Bit	KHMUIC	bgk
-Iduh	KHMUIC	
-Khang	KHMUIC	kjm
-Khmu	KHMUIC	kjg
-Ksinmul	KHMUIC	
-KxinhMul	KHMUIC	
-Mlabri	KHMUIC	mra
-Phong	KHMUIC	pnx
-Pray	KHMUIC	pry
-Bugan	MANGIC	
-Mang	MANGIC	zng
-Paliu	MANGIC	
-Mon	MONIC	mon
-Nyakur	MONIC	
-Bonda	MUNDA	bfw
-Juang	MUNDA	jun
-Kharia	MUNDA	khr
-Korku	MUNDA	kfq
-Mundari	MUNDA	unr
-Parengi	MUNDA	pcj
-Santali	MUNDA	sat
-Sora	MUNDA	srb
-Car	NICOBARIC	caq
-Nancawri	NICOBARIC	
-Deang	PALAUNGWA	
-Gantang	PALAUNGWA	
-Guanshuang	PALAUNGWA	
-Hu	PALAUNGWA	huo
-Khamet	PALAUNGWA	
-Khme	PALAUNGWA	
-Mane	PALAUNGWA	
-Mangan	PALAUNGWA	
-Pangpin	PALAUNGWA	
-Plang	PALAUNGWA	
-Rumai	PALAUNGWA	rbb
-Shuangdiang	PALAUNGWA	
-Wa	PALAUNGWA	
-Yongde	PALAUNGWA	
-Chong	PEARIC	cog
-ChongH	PEARIC	cog
-Kasong	PEARIC	cog
-Samre	PEARIC	sxm
-Arem	VIETIC	
-Cuoi	VIETIC	
-KhaPhong	VIETIC	
-Liha	VIETIC	
-Malieng	VIETIC	
-MuongKoi	VIETIC	
-PhongV	VIETIC	
-Ruc	VIETIC	
-Thavung	VIETIC	
-ThavungSo	VIETIC	
-Tuum	VIETIC	
-Vietnamese	VIETIC	
+ID	Glottocode	ISO639P3code	Name	Latitude	Longitude	Source
+ASLIAN_Jahai	jeha1242	jhi	Jahai	5.63695	101.54145	Burenhult
+ASLIAN_JahHut	jahh1242	jah	Jah-Hut	3.67619	102.2913	Burenhult
+ASLIAN_Kensiw	kens1248	kns	Kensiw	6.02922	101.16023	Bishop1993
+ASLIAN_Semai	sema1266	sea	Semai	4.13257	101.47651	Means1987
+ASLIAN_Semelai	seme1247	sza	Semelai	2.82799	102.8062	Kruspe2004
+ASLIAN_SemoqBeri						
+ASLIAN_Temiar	temi1246	tea	Temiar	4.974	101.43761	Means1998
+BAHNARIC_Arak						
+BAHNARIC_Bahnar						
+BAHNARIC_Chrau	chra1242	crw	Chrau	10.80208	107.29291	Thomas1961
+BAHNARIC_Didra						
+BAHNARIC_Hadang						
+BAHNARIC_Halang	hala1252	hal	Halang	14.60822	107.57379	Cooper1976
+BAHNARIC_Hre						
+BAHNARIC_Je						
+BAHNARIC_Jeh	jehh1245	jeh	Jeh	15.19845	107.89563	Gradin1979
+BAHNARIC_Jru						
+BAHNARIC_Kadong						
+BAHNARIC_KahoChil						
+BAHNARIC_KorCua						
+BAHNARIC_M.Bunong						
+BAHNARIC_M.Dip						
+BAHNARIC_M.Rolom						
+BAHNARIC_Ma1						
+BAHNARIC_Ma2						
+BAHNARIC_Nhaheun						
+BAHNARIC_Oy						
+BAHNARIC_Panong						
+BAHNARIC_Rengao	reng1252	ren	Rengao	14.6066	107.85923	Gregerson1977
+BAHNARIC_Sedang	seda1262	sed	Sedang	14.77933	108.02703	Smith2000
+BAHNARIC_Sre	sree1244	kpm	Sre	11.64436	108.05721	Dournes1950
+BAHNARIC_Stieng	bulo1242	sti	Stieng	11.81581	107.04075	Huffmann1971
+BAHNARIC_Tariang						
+BAHNARIC_Tempuan						
+BAHNARIC_Veh						
+KATUIC_Bru						
+KATUIC_BruVK						
+KATUIC_Dakkang						
+KATUIC_Kantu						
+KATUIC_Katu						
+KATUIC_Kui						
+KATUIC_LaoKatu						
+KATUIC_Mak						
+KATUIC_Neu						
+KATUIC_Nge	ngeq1245	ngt	Nge'	15.62109	106.8773	Smith1970
+KATUIC_Ong						
+KATUIC_Pakoh						
+KATUIC_So						
+KATUIC_Taoi						
+KATUIC_Taoih						
+KATUIC_Tri						
+KHASI_Khasi						
+KHMERIC_K.Surin						
+KHMERIC_Khmer						
+KHMUIC_Bit						
+KHMUIC_Iduh						
+KHMUIC_Khang						
+KHMUIC_Khmu						
+KHMUIC_Ksinmul	puoc1238	puo	Ksinmul	21.02809	104.0259	Pogibenko1990
+KHMUIC_KxinhMul						
+KHMUIC_Mlabri						
+KHMUIC_Phong	phon1246	pnx	Phong	19.96217	104.08797	The2000
+KHMUIC_Pray						
+MANGIC_Bugan	buga1247	bbh	Bugan	23.61242	104.96286	Jinfang2015
+MANGIC_Mang	mang1378	zng	Mang	22.37722	103.14238	Nguyen2008
+MANGIC_Paliu						
+MONIC_Mon	monn1252	mnw	Mon	15.81271	97.89369	Huffmann1971
+MONIC_Nyakur						
+MUNDA_Bonda						
+MUNDA_Juang	juan1238	jun	Juang	21.26064	85.58452	Pinnow1960
+MUNDA_Kharia	khar1287	khr	Kharia	22.35712	84.39219	Pinnow1959
+MUNDA_Korku	kork1243	kfq	Korku	21.83579	77.55409	Nagaraja1999
+MUNDA_Mundari						
+MUNDA_Parengi						
+MUNDA_Santali	sant1410	sat	Santali	23.9076	87.11775	Minegishi2001
+MUNDA_Sora	sora1254	srb	Sora	19.12127	84.19005	Zide1982
+NICOBARIC_Car	carn1240	caq	Car	9.18853	92.76706	Whitehead1925
+NICOBARIC_Nancawri						
+PALAUNGWA_Deang						
+PALAUNGWA_Gantang						
+PALAUNGWA_Guanshuang						
+PALAUNGWA_Hu						
+PALAUNGWA_Khamet						
+PALAUNGWA_Khme						
+PALAUNGWA_Mane						
+PALAUNGWA_Mangan						
+PALAUNGWA_Pangpin						
+PALAUNGWA_Plang						
+PALAUNGWA_Rumai						
+PALAUNGWA_Shuangdiang						
+PALAUNGWA_Wa						
+PALAUNGWA_Yongde						
+PEARIC_Chong						
+PEARIC_ChongH						
+PEARIC_Kasong						
+PEARIC_Samre						
+VIETIC_Arem						
+VIETIC_Cuoi						
+VIETIC_KhaPhong						
+VIETIC_Liha						
+VIETIC_Malieng	mali1278	pkt	Malieng	17.94469	105.67464	Ferlus2007
+VIETIC_MuongKoi						
+VIETIC_PhongV						
+VIETIC_Ruc	rucc1239	scb	Ruc	17.986	105.658	Nguyen1998
+VIETIC_Thavung						
+VIETIC_ThavungSo						
+VIETIC_Tuum						
+VIETIC_Vietnamese	viet1252	vie	Vietnamese	17.11945	106.91747	SidwellND2
