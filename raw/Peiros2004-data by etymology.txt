@@ -1,5 +1,4 @@
-
-'all	BAHNARIC	Stieng	lɛʔ	1508
+'all'	BAHNARIC	Stieng	lɛʔ	1508
 'all'	BAHNARIC	Chrau	lɛʔ lawʌn	1508
 'all'	BAHNARIC	M.Rolom	lɛ mət	1508
 'all'	BAHNARIC	M.Bunong	lɛʔ rŋoc	1508

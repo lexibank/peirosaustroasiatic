@@ -1,110 +1,110 @@
-ID	Doculect	Glottocode	ISO639P3code	Latitude	Longitude
-ASLIAN_Jahai	Jahai	jeha1242	jhi	5.63695	101.54145
-ASLIAN_JahHut	Jah-Hut	jahh1242	jah	3.67619	102.2913
-ASLIAN_Kensiw	Kensiw	kens1248	kns	6.02922	101.16023
-ASLIAN_Semai	Semai	sema1266	sea	4.13257	101.47651
-ASLIAN_Semelai	Semelai	seme1247	sza	2.82799	102.8062
-ASLIAN_SemoqBeri	SemoqBeri				
-ASLIAN_Temiar	Temiar	temi1246	tea	4.974	101.43761
-BAHNARIC_Arak	Arak				
-BAHNARIC_Bahnar	Bahnar				
-BAHNARIC_Chrau	Chrau	chra1242	crw	10.80208	107.29291
-BAHNARIC_Didra	Didra				
-BAHNARIC_Hadang	Hadang				
-BAHNARIC_Halang	Halang	hala1252	hal	14.60822	107.57379
-BAHNARIC_Hre	Hre		hre		
-BAHNARIC_Je	Je				
-BAHNARIC_Jeh	Jeh	jehh1245	jeh	15.19845	107.89563
-BAHNARIC_Jru	Jru	lave1248	lbo	15.27261	106.32196
-BAHNARIC_Kadong	Kadong				
-BAHNARIC_KahoChil	KahoChil				
-BAHNARIC_KorCua	Kor=Cua	cuaa1241	cua	15.16883	108.43092
-BAHNARIC_M.Bunong	M.Bunong	maaa1253	cma	11.52	107.34
-BAHNARIC_M.Dip	M.Dip	maaa1253	cma	11.52	107.34
-BAHNARIC_M.Rolom	M.Rolom	east2333	mng	12.39385	108.35351
-BAHNARIC_Ma1	Ma1				
-BAHNARIC_Ma2	Ma2				
-BAHNARIC_Nhaheun	Nhaheun	nyah1249	nev	15.10343	106.54295
-BAHNARIC_Oy	Oy		oyb		
-BAHNARIC_Panong	Panong				
-BAHNARIC_Rengao	Rengao	reng1252	ren	14.6066	107.85923
-BAHNARIC_Sedang	Sedang	seda1262	sed	14.77933	108.02703
-BAHNARIC_Sre	Sre	sree1244	kpm	11.64436	108.05721
-BAHNARIC_Stieng	Stieng	bulo1242	sti	11.81581	107.04075
-BAHNARIC_Tariang	Tariang	tali1257	tdf	16.53	106.10
-BAHNARIC_Tempuan	Tempuan	tamp1251	tpu	13.56447	107.24544
-BAHNARIC_Veh	Veh				
-KATUIC_Bru	Bru				
-KATUIC_BruVK	BruVK				
-KATUIC_Dakkang	Dakkang				
-KATUIC_Kantu	Kantu				
-KATUIC_Katu	Katu				
-KATUIC_Kui	Kui				
-KATUIC_LaoKatu	Lao-Katu				
-KATUIC_Mak	Mak				
-KATUIC_Neu	Neu				
-KATUIC_Nge	Nge	ngeq1245	ngt	15.62109	106.8773
-KATUIC_Ong	Ong				
-KATUIC_Pakoh	Pakoh	paco1243	pac	16.44399	107.12868
-KATUIC_So	So				
-KATUIC_Taoi	Taoi	lowe1395	tto	15.9083	106.87347
-KATUIC_Taoih	Taoih				
-KATUIC_Tri	Tri				
-KHASI_Khasi	Khasi	khas1269	kha	25.56573	92.00194
-KHMERIC_K.Surin	K.Surin	nort2684	kxm	14.46743	103.86313
-KHMERIC_Khmer	Khmer	cent1989	khm	11.4549	104.49337
-KHMUIC_Bit	Bit	bitt1240	bgk	21.44574	102.03513
-KHMUIC_Iduh	Iduh				
-KHMUIC_Khang	Khang	khan1274	kjm	21.66243	103.73637
-KHMUIC_Khmu	Khmu		kjg		
-KHMUIC_Ksinmul	Ksinmul	puoc1238	puo	21.02809	104.0259
-KHMUIC_KxinhMul	KxinhMul				
-KHMUIC_Mlabri	Mlabri	mlab1235	mra	18.46712	101.03731
-KHMUIC_Phong	Phong	phon1246	pnx	19.96217	104.08797
-KHMUIC_Pray	Pray		pry		
-MANGIC_Bugan	Bugan	buga1247	bbh	23.61242	104.96286
-MANGIC_Mang	Mang	mang1378	zng	22.37722	103.14238
-MANGIC_Paliu	Paliu				
-MONIC_Mon	Mon	monn1252	mnw	15.81271	97.89369
-MONIC_Nyakur	Nyakur	nyah1250		15.89091	101.51465
-MUNDA_Bonda	Bonda	bond1245	bfw	19.15124	83.81415
-MUNDA_Juang	Juang	juan1238	jun	21.26064	85.58452
-MUNDA_Kharia	Kharia	khar1287	khr	22.35712	84.39219
-MUNDA_Korku	Korku	kork1243	kfq	21.83579	77.55409
-MUNDA_Mundari	Mundari	mund1320	unr	22.5517	85.09258
-MUNDA_Parengi	Parengi	pare1266	pcj	19.07501	83.97234
-MUNDA_Santali	Santali	sant1410	sat	23.9076	87.11775
-MUNDA_Sora	Sora	sora1254	srb	19.12127	84.19005
-NICOBARIC_Car	Car	carn1240	caq	9.18853	92.76706
-NICOBARIC_Nancawri	Nancawri	nanc1247	ncb	7.94812	93.39208
-PALAUNGWA_Deang	De'ang				
-PALAUNGWA_Gantang	Gantang				
-PALAUNGWA_Guanshuang	Guanshuang				
-PALAUNGWA_Hu	Hu	huuu1240	huo	23.37	101.75
-PALAUNGWA_Khamet	Khamet				
-PALAUNGWA_Khme	Khme				
-PALAUNGWA_Mane	Man'e				
-PALAUNGWA_Mangan	Mang'an				
-PALAUNGWA_Pangpin	Pangpin				
-PALAUNGWA_Plang	Plang				
-PALAUNGWA_Rumai	Rumai	ruma1248	rbb	23.13363	96.67992
-PALAUNGWA_Shuangdiang	Shuangdiang				
-PALAUNGWA_Wa	Wa				
-PALAUNGWA_Yongde	Yongde				
-PEARIC_Chong	Chong	chon1284	cog	12.7267	102.232
-PEARIC_ChongH	Chong-H	chon1284	cog	12.7267	102.232
-PEARIC_Kasong	Kasong	cent2314	cog	12.87518	102.16769
-PEARIC_Samre	Samre	somr1240	sxm	13.47899	103.978
-VIETIC_Arem	Arem				
-VIETIC_Cuoi	Cuoi				
-VIETIC_KhaPhong	KhaPhong				
-VIETIC_Liha	Liha				
-VIETIC_Malieng	Malieng	mali1278	pkt	17.94469	105.67464
-VIETIC_MuongKoi	MuongKoi				
-VIETIC_PhongV	Phong(V)				
-VIETIC_Ruc	Ruc	rucc1239	scb	17.986	105.658
-VIETIC_Thavung	Thavung		thm		
-VIETIC_ThavungSo	ThavungSo		thm		
-VIETIC_Tuum	Tuum				
-VIETIC_Vietnamese	Vietnamese	viet1252	vie	17.11945	106.91747
-VIETIC_ThoMon	Tho Mon				
+ID	Name	SubGroup	Glottocode	ISO639P3code	Latitude	Longitude
+Jahai	Jahai	ASLIAN	jeha1242	jhi	5.63695	101.54145
+JahHut	Jah-Hut	ASLIAN	jahh1242	jah	3.67619	102.2913
+Kensiw	Kensiw	ASLIAN	kens1248	kns	6.02922	101.16023
+Semai	Semai	ASLIAN	sema1266	sea	4.13257	101.47651
+Semelai	Semelai	ASLIAN	seme1247	sza	2.82799	102.8062
+SemoqBeri	SemoqBeri	ASLIAN				
+Temiar	Temiar	ASLIAN	temi1246	tea	4.974	101.43761
+Arak	Arak	BAHNARIC				
+Bahnar	Bahnar	BAHNARIC				
+Chrau	Chrau	BAHNARIC	chra1242	crw	10.80208	107.29291
+Didra	Didra	BAHNARIC				
+Hadang	Hadang	BAHNARIC				
+Halang	Halang	BAHNARIC	hala1252	hal	14.60822	107.57379
+Hre	Hre	BAHNARIC		hre		
+Je	Je	BAHNARIC				
+Jeh	Jeh	BAHNARIC	jehh1245	jeh	15.19845	107.89563
+Jru	Jru	BAHNARIC	lave1248	lbo	15.27261	106.32196
+Kadong	Kadong	BAHNARIC				
+KahoChil	KahoChil	BAHNARIC				
+KorCua	Kor=Cua	BAHNARIC	cuaa1241	cua	15.16883	108.43092
+MBunong	M.Bunong	BAHNARIC	maaa1253	cma	11.52	107.34
+MDip	M.Dip	BAHNARIC	maaa1253	cma	11.52	107.34
+MRolom	M.Rolom	BAHNARIC	east2333	mng	12.39385	108.35351
+Ma1	Ma1	BAHNARIC				
+Ma2	Ma2	BAHNARIC				
+Nhaheun	Nhaheun	BAHNARIC	nyah1249	nev	15.10343	106.54295
+Oy	Oy	BAHNARIC		oyb		
+Panong	Panong	BAHNARIC				
+Rengao	Rengao	BAHNARIC	reng1252	ren	14.6066	107.85923
+Sedang	Sedang	BAHNARIC	seda1262	sed	14.77933	108.02703
+Sre	Sre	BAHNARIC	sree1244	kpm	11.64436	108.05721
+Stieng	Stieng	BAHNARIC	bulo1242	sti	11.81581	107.04075
+Tariang	Tariang	BAHNARIC	tali1257	tdf	16.53	106.10
+Tempuan	Tempuan	BAHNARIC	tamp1251	tpu	13.56447	107.24544
+Veh	Veh	BAHNARIC				
+Bru	Bru	KATUIC				
+BruVK	BruVK	KATUIC				
+Dakkang	Dakkang	KATUIC				
+Kantu	Kantu	KATUIC				
+Katu	Katu	KATUIC				
+Kui	Kui	KATUIC				
+LaoKatu	Lao-Katu	KATUIC				
+Mak	Mak	KATUIC				
+Neu	Neu	KATUIC				
+Nge	Nge	KATUIC	ngeq1245	ngt	15.62109	106.8773
+Ong	Ong	KATUIC				
+Pakoh	Pakoh	KATUIC	paco1243	pac	16.44399	107.12868
+So	So	KATUIC				
+Taoi	Taoi	KATUIC	lowe1395	tto	15.9083	106.87347
+Taoih	Taoih	KATUIC				
+Tri	Tri	KATUIC				
+Khasi	Khasi	KHASI	khas1269	kha	25.56573	92.00194
+KSurin	K.Surin	KHMERIC	nort2684	kxm	14.46743	103.86313
+Khmer	Khmer	KHMERIC	cent1989	khm	11.4549	104.49337
+Bit	Bit	KHMUIC	bitt1240	bgk	21.44574	102.03513
+Iduh	Iduh	KHMUIC				
+Khang	Khang	KHMUIC	khan1274	kjm	21.66243	103.73637
+Khmu	Khmu	KHMUIC		kjg		
+Ksinmul	Ksinmul	KHMUIC	puoc1238	puo	21.02809	104.0259
+KxinhMul	KxinhMul	KHMUIC				
+Mlabri	Mlabri	KHMUIC	mlab1235	mra	18.46712	101.03731
+Phong	Phong	KHMUIC	phon1246	pnx	19.96217	104.08797
+Pray	Pray	KHMUIC		pry		
+Bugan	Bugan	MANGIC	buga1247	bbh	23.61242	104.96286
+Mang	Mang	MANGIC	mang1378	zng	22.37722	103.14238
+Paliu	Paliu	MANGIC				
+Mon	Mon	MONIC	monn1252	mnw	15.81271	97.89369
+Nyakur	Nyakur	MONIC	nyah1250		15.89091	101.51465
+Bonda	Bonda	MUNDA	bond1245	bfw	19.15124	83.81415
+Juang	Juang	MUNDA	juan1238	jun	21.26064	85.58452
+Kharia	Kharia	MUNDA	khar1287	khr	22.35712	84.39219
+Korku	Korku	MUNDA	kork1243	kfq	21.83579	77.55409
+Mundari	Mundari	MUNDA	mund1320	unr	22.5517	85.09258
+Parengi	Parengi	MUNDA	pare1266	pcj	19.07501	83.97234
+Santali	Santali	MUNDA	sant1410	sat	23.9076	87.11775
+Sora	Sora	MUNDA	sora1254	srb	19.12127	84.19005
+Car	Car	NICOBARIC	carn1240	caq	9.18853	92.76706
+Nancawri	Nancawri	NICOBARIC	nanc1247	ncb	7.94812	93.39208
+Deang	De'ang	PALAUNGWA				
+Gantang	Gantang	PALAUNGWA				
+Guanshuang	Guanshuang	PALAUNGWA				
+Hu	Hu	PALAUNGWA	huuu1240	huo	23.37	101.75
+Khamet	Khamet	PALAUNGWA				
+Khme	Khme	PALAUNGWA				
+Mane	Man'e	PALAUNGWA				
+Mangan	Mang'an	PALAUNGWA				
+Pangpin	Pangpin	PALAUNGWA				
+Plang	Plang	PALAUNGWA				
+Rumai	Rumai	PALAUNGWA	ruma1248	rbb	23.13363	96.67992
+Shuangdiang	Shuangdiang	PALAUNGWA				
+Wa	Wa	PALAUNGWA				
+Yongde	Yongde	PALAUNGWA				
+Chong	Chong	PEARIC	chon1284	cog	12.7267	102.232
+ChongH	Chong-H	PEARIC	chon1284	cog	12.7267	102.232
+Kasong	Kasong	PEARIC	cent2314	cog	12.87518	102.16769
+Samre	Samre	PEARIC	somr1240	sxm	13.47899	103.978
+Arem	Arem	VIETIC				
+Cuoi	Cuoi	VIETIC				
+KhaPhong	KhaPhong	VIETIC				
+Liha	Liha	VIETIC				
+Malieng	Malieng	VIETIC	mali1278	pkt	17.94469	105.67464
+MuongKoi	MuongKoi	VIETIC				
+PhongV	Phong(V)	VIETIC				
+Ruc	Ruc	VIETIC	rucc1239	scb	17.986	105.658
+Thavung	Thavung	VIETIC		thm		
+ThavungSo	ThavungSo	VIETIC		thm		
+Tuum	Tuum	VIETIC				
+Vietnamese	Vietnamese	VIETIC	viet1252	vie	17.11945	106.91747
+ThoMon	Tho Mon	VIETIC				
