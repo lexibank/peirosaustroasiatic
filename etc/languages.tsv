@@ -15,7 +15,7 @@ BAHNARIC_Halang	Halang	hala1252	hal	14.60822	107.57379
 BAHNARIC_Hre	Hre		hre		
 BAHNARIC_Je	Je				
 BAHNARIC_Jeh	Jeh	jehh1245	jeh	15.19845	107.89563
-BAHNARIC_Jru	Jru	lave1248	lbo w	15.27261	106.32196
+BAHNARIC_Jru	Jru	lave1248	lbo	15.27261	106.32196
 BAHNARIC_Kadong	Kadong				
 BAHNARIC_KahoChil	KahoChil				
 BAHNARIC_KorCua	Kor=Cua	cuaa1241	cua	15.16883	108.43092
@@ -24,8 +24,8 @@ BAHNARIC_M.Dip	M.Dip	maaa1253	cma	11.52	107.34
 BAHNARIC_M.Rolom	M.Rolom	east2333	mng	12.39385	108.35351
 BAHNARIC_Ma1	Ma1				
 BAHNARIC_Ma2	Ma2				
-BAHNARIC_Nhaheun	Nhaheun	nyah1249	nev w	15.10343	106.54295
-BAHNARIC_Oy	oyb				
+BAHNARIC_Nhaheun	Nhaheun	nyah1249	nev	15.10343	106.54295
+BAHNARIC_Oy	Oy		oyb		
 BAHNARIC_Panong	Panong				
 BAHNARIC_Rengao	Rengao	reng1252	ren	14.6066	107.85923
 BAHNARIC_Sedang	Sedang	seda1262	sed	14.77933	108.02703
@@ -66,7 +66,7 @@ MANGIC_Bugan	Bugan	buga1247	bbh	23.61242	104.96286
 MANGIC_Mang	Mang	mang1378	zng	22.37722	103.14238
 MANGIC_Paliu	Paliu				
 MONIC_Mon	Mon	monn1252	mnw	15.81271	97.89369
-MONIC_Nyakur	Nyakur	nyah1250	nyah1250	15.89091	101.51465
+MONIC_Nyakur	Nyakur	nyah1250		15.89091	101.51465
 MUNDA_Bonda	Bonda	bond1245	bfw	19.15124	83.81415
 MUNDA_Juang	Juang	juan1238	jun	21.26064	85.58452
 MUNDA_Kharia	Kharia	khar1287	khr	22.35712	84.39219
@@ -83,7 +83,7 @@ PALAUNGWA_Guanshuang	Guanshuang
 PALAUNGWA_Hu	Hu	huuu1240	huo	23.37	101.75
 PALAUNGWA_Khamet	Khamet				
 PALAUNGWA_Khme	Khme				
-PALAUNGWA_Mane	Man’e				
+PALAUNGWA_Mane	Man'e				
 PALAUNGWA_Mangan	Mang'an				
 PALAUNGWA_Pangpin	Pangpin				
 PALAUNGWA_Plang	Plang				
