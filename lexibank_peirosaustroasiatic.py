@@ -53,7 +53,7 @@ class Dataset(BaseDataset):
         for language in self.languages:
             args.writer.add_language(**language)
             languages[language['Name']] = language['ID']
-        args.log.info('added languges')
+        args.log.info('added languages')
         missing = set()
         for row_ in progressbar(self.raw_dir.read_csv('Peiros2004-data by etymology.txt',
             delimiter='\t')):
