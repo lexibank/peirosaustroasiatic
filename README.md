@@ -15,6 +15,8 @@ Available online at https://rusneb.ru/catalog/000199_000009_002728473/
 ![Glottolog: 50%](https://img.shields.io/badge/Glottolog-50%25-red.svg "Glottolog: 50%")
 ![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 62%](https://img.shields.io/badge/BIPA-62%25-orange.svg "BIPA: 62%")
+![CLTS SoundClass: 62%](https://img.shields.io/badge/CLTS%20SoundClass-62%25-orange.svg "CLTS SoundClass: 62%")
 
 - **Varieties:** 109
 - **Concepts:** 100
@@ -23,3 +25,7 @@ Available online at https://rusneb.ru/catalog/000199_000009_002728473/
 - **Synonymy:** 1.01
 - **Cognacy:** 10,654 cognates in 1,936 cognate sets (811 singletons)
 - **Cognate Diversity:** 0.17
+- **Invalid lexemes:** 0
+- **Tokens:** 45,096
+- **Segments:** 166 (63 BIPA errors, 63 CTLS sound class errors, 103 CLTS modified)
+- **Inventory size (avg):** 33.74
