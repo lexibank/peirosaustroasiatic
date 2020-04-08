@@ -354,13 +354,13 @@
         },
         "Arem": {
             "bipa_errors": [
-                "\u0161",
+                "\u00f9h",
                 "<?>",
-                "<<)>>",
-                "\u00f2h",
                 "<<(>>",
+                "\u0161",
                 "\u00e8h",
-                "\u00f9h"
+                "\u00f2h",
+                "<<)>>"
             ],
             "general_errors": 50,
             "replacements": {
@@ -675,13 +675,13 @@
                 ]
             },
             "sclass_errors": [
-                "\u0161",
+                "\u00f9h",
                 "<?>",
-                "<<)>>",
-                "\u00f2h",
                 "<<(>>",
+                "\u0161",
                 "\u00e8h",
-                "\u00f9h"
+                "\u00f2h",
+                "<<)>>"
             ],
             "segments": {
                 "<<(>>": 3,
@@ -1082,9 +1082,9 @@
         },
         "Bit": {
             "bipa_errors": [
-                "<?>",
+                "mm",
                 "\u014b\u014b",
-                "mm"
+                "<?>"
             ],
             "general_errors": 16,
             "replacements": {
@@ -1399,9 +1399,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "mm",
                 "\u014b\u014b",
-                "mm"
+                "<?>"
             ],
             "segments": {
                 "<?>": 14,
@@ -1444,9 +1444,9 @@
         },
         "Bonda": {
             "bipa_errors": [
+                "\u1e0d",
                 "\u1e5b",
                 "\u1e6d",
-                "\u1e0d",
                 "<?>"
             ],
             "general_errors": 29,
@@ -1762,9 +1762,9 @@
                 ]
             },
             "sclass_errors": [
+                "\u1e0d",
                 "\u1e5b",
                 "\u1e6d",
-                "\u1e0d",
                 "<?>"
             ],
             "segments": {
@@ -1803,9 +1803,9 @@
         },
         "Bru": {
             "bipa_errors": [
-                "<?>",
                 "\u00e2h",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 175,
             "replacements": {
@@ -2120,9 +2120,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u00e2h",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 171,
@@ -2164,9 +2164,9 @@
         },
         "BruVK": {
             "bipa_errors": [
-                "<?>",
                 "\u00e2h",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 75,
             "replacements": {
@@ -2481,9 +2481,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u00e2h",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 70,
@@ -2526,9 +2526,9 @@
         },
         "Bugan": {
             "bipa_errors": [
-                "<?>",
+                "<<(>>",
                 "<<)>>",
-                "<<(>>"
+                "<?>"
             ],
             "general_errors": 257,
             "replacements": {
@@ -2843,9 +2843,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "<<(>>",
                 "<<)>>",
-                "<<(>>"
+                "<?>"
             ],
             "segments": {
                 "<<(>>": 1,
@@ -2889,8 +2889,8 @@
         },
         "Car": {
             "bipa_errors": [
-                "<?>",
-                "<<~>>"
+                "<<~>>",
+                "<?>"
             ],
             "general_errors": 88,
             "replacements": {
@@ -3205,8 +3205,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "<<~>>"
+                "<<~>>",
+                "<?>"
             ],
             "segments": {
                 "<<~>>": 1,
@@ -3591,10 +3591,10 @@
         },
         "ChongH": {
             "bipa_errors": [
-                "<?>",
                 "\u0294w",
                 "<<)>>",
-                "<<(>>"
+                "<<(>>",
+                "<?>"
             ],
             "general_errors": 200,
             "replacements": {
@@ -3909,10 +3909,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u0294w",
                 "<<)>>",
-                "<<(>>"
+                "<<(>>",
+                "<?>"
             ],
             "segments": {
                 "<<(>>": 2,
@@ -3953,10 +3953,10 @@
         },
         "Chrau": {
             "bipa_errors": [
-                "<?>",
-                "rh",
                 "cw",
-                "jh"
+                "rh",
+                "jh",
+                "<?>"
             ],
             "general_errors": 4,
             "replacements": {
@@ -4271,10 +4271,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "rh",
                 "cw",
-                "jh"
+                "rh",
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -5023,9 +5023,9 @@
         },
         "Deang": {
             "bipa_errors": [
-                "<?>",
                 "lh",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "general_errors": 11,
             "replacements": {
@@ -5340,9 +5340,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "lh",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 6,
@@ -5387,9 +5387,9 @@
         },
         "Didra": {
             "bipa_errors": [
-                "<?>",
                 "\u0294w",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 68,
             "replacements": {
@@ -5704,9 +5704,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u0294w",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 65,
@@ -5746,11 +5746,11 @@
         },
         "Gantang": {
             "bipa_errors": [
-                "\u0161",
-                "\u010dh",
                 "<?>",
-                "\u010d",
-                "lh"
+                "\u0161",
+                "lh",
+                "\u010dh",
+                "\u010d"
             ],
             "general_errors": 185,
             "replacements": {
@@ -6065,11 +6065,11 @@
                 ]
             },
             "sclass_errors": [
-                "\u0161",
-                "\u010dh",
                 "<?>",
-                "\u010d",
-                "lh"
+                "\u0161",
+                "lh",
+                "\u010dh",
+                "\u010d"
             ],
             "segments": {
                 "<?>": 174,
@@ -6104,10 +6104,10 @@
         },
         "Guanshuang": {
             "bipa_errors": [
-                "<?>",
                 "lh",
                 "rh",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 180,
             "replacements": {
@@ -6422,10 +6422,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "lh",
                 "rh",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 172,
@@ -6468,10 +6468,10 @@
         "Hadang": {
             "bipa_errors": [
                 "nw",
+                "pw",
                 "cw",
                 "dw",
-                "lw",
-                "pw"
+                "lw"
             ],
             "general_errors": 9,
             "replacements": {
@@ -6787,10 +6787,10 @@
             },
             "sclass_errors": [
                 "nw",
+                "pw",
                 "cw",
                 "dw",
-                "lw",
-                "pw"
+                "lw"
             ],
             "segments": {
                 "a": 38,
@@ -6836,9 +6836,9 @@
         },
         "Halang": {
             "bipa_errors": [
-                "<?>",
+                "jh",
                 "\u014bw",
-                "jh"
+                "<?>"
             ],
             "general_errors": 69,
             "replacements": {
@@ -7153,9 +7153,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "jh",
                 "\u014bw",
-                "jh"
+                "<?>"
             ],
             "segments": {
                 "<?>": 66,
@@ -7193,8 +7193,8 @@
         },
         "Hre": {
             "bipa_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 73,
             "replacements": {
@@ -7509,8 +7509,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 72,
@@ -7900,10 +7900,10 @@
         "Iduh": {
             "bipa_errors": [
                 "<?>",
-                "<<)>>",
-                "\u00e2w",
                 "<<(>>",
-                "mm"
+                "\u00e2w",
+                "mm",
+                "<<)>>"
             ],
             "general_errors": 19,
             "replacements": {
@@ -8219,10 +8219,10 @@
             },
             "sclass_errors": [
                 "<?>",
-                "<<)>>",
-                "\u00e2w",
                 "<<(>>",
-                "mm"
+                "\u00e2w",
+                "mm",
+                "<<)>>"
             ],
             "segments": {
                 "<<(>>": 3,
@@ -8270,10 +8270,10 @@
         "JahHut": {
             "bipa_errors": [
                 "nw",
-                "<?>",
                 "\u0292w",
-                "rw",
-                "cw"
+                "<?>",
+                "cw",
+                "rw"
             ],
             "general_errors": 8,
             "replacements": {
@@ -8589,10 +8589,10 @@
             },
             "sclass_errors": [
                 "nw",
-                "<?>",
                 "\u0292w",
-                "rw",
-                "cw"
+                "<?>",
+                "cw",
+                "rw"
             ],
             "segments": {
                 "<?>": 2,
@@ -8636,9 +8636,9 @@
         },
         "Jahai": {
             "bipa_errors": [
-                "<?>",
+                "lw",
                 "mw",
-                "lw"
+                "<?>"
             ],
             "general_errors": 5,
             "replacements": {
@@ -8953,9 +8953,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "lw",
                 "mw",
-                "lw"
+                "<?>"
             ],
             "segments": {
                 "<?>": 3,
@@ -9354,8 +9354,8 @@
         },
         "Jeh": {
             "bipa_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 166,
             "replacements": {
@@ -9670,8 +9670,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 162,
@@ -10063,9 +10063,9 @@
         },
         "Juang": {
             "bipa_errors": [
-                "<?>",
+                "\u1e0d",
                 "\u1e6d",
-                "\u1e0d"
+                "<?>"
             ],
             "general_errors": 42,
             "replacements": {
@@ -10380,9 +10380,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "\u1e0d",
                 "\u1e6d",
-                "\u1e0d"
+                "<?>"
             ],
             "segments": {
                 "<?>": 15,
@@ -10416,10 +10416,10 @@
         },
         "KSurin": {
             "bipa_errors": [
-                "<?>",
-                "\u00e2h",
                 "\u00eew",
-                "mm"
+                "mm",
+                "\u00e2h",
+                "<?>"
             ],
             "general_errors": 5,
             "replacements": {
@@ -10734,10 +10734,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u00e2h",
                 "\u00eew",
-                "mm"
+                "mm",
+                "\u00e2h",
+                "<?>"
             ],
             "segments": {
                 "<?>": 2,
@@ -10787,11 +10787,11 @@
         },
         "Kadong": {
             "bipa_errors": [
+                "pw",
                 "mw",
                 "cw",
-                "lw",
-                "pw",
-                "tw"
+                "tw",
+                "lw"
             ],
             "general_errors": 6,
             "replacements": {
@@ -11106,11 +11106,11 @@
                 ]
             },
             "sclass_errors": [
+                "pw",
                 "mw",
                 "cw",
-                "lw",
-                "pw",
-                "tw"
+                "tw",
+                "lw"
             ],
             "segments": {
                 "a": 35,
@@ -11510,9 +11510,9 @@
         },
         "Kantu": {
             "bipa_errors": [
-                "<?>",
+                "jh",
                 "tw",
-                "jh"
+                "<?>"
             ],
             "general_errors": 3,
             "replacements": {
@@ -11827,9 +11827,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "jh",
                 "tw",
-                "jh"
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -12225,8 +12225,8 @@
         },
         "Katu": {
             "bipa_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 4,
             "replacements": {
@@ -12541,8 +12541,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -12584,8 +12584,8 @@
         },
         "Kensiw": {
             "bipa_errors": [
-                "<?>",
-                "mw"
+                "mw",
+                "<?>"
             ],
             "general_errors": 3,
             "replacements": {
@@ -12900,8 +12900,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "mw"
+                "mw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 2,
@@ -12944,9 +12944,9 @@
         },
         "KhaPhong": {
             "bipa_errors": [
-                "<?>",
+                "<<(>>",
                 "<<)>>",
-                "<<(>>"
+                "<?>"
             ],
             "general_errors": 207,
             "replacements": {
@@ -13261,9 +13261,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
+                "<<(>>",
                 "<<)>>",
-                "<<(>>"
+                "<?>"
             ],
             "segments": {
                 "<<(>>": 3,
@@ -13653,8 +13653,8 @@
         },
         "Khang": {
             "bipa_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 195,
             "replacements": {
@@ -13969,8 +13969,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 194,
@@ -14008,12 +14008,12 @@
         },
         "Kharia": {
             "bipa_errors": [
-                "\u1e6d",
                 "<?>",
-                "\u1e5b",
                 "\u0292h",
+                "\u1e5b",
+                "\u1e6dh",
                 "\u1e0d",
-                "\u1e6dh"
+                "\u1e6d"
             ],
             "general_errors": 42,
             "replacements": {
@@ -14328,12 +14328,12 @@
                 ]
             },
             "sclass_errors": [
-                "\u1e6d",
                 "<?>",
-                "\u1e5b",
                 "\u0292h",
+                "\u1e5b",
+                "\u1e6dh",
                 "\u1e0d",
-                "\u1e6dh"
+                "\u1e6d"
             ],
             "segments": {
                 "<?>": 15,
@@ -14380,10 +14380,10 @@
         "Khasi": {
             "bipa_errors": [
                 "rs",
-                "<?>",
-                "ll",
                 "sh",
-                "mm"
+                "<?>",
+                "mm",
+                "ll"
             ],
             "general_errors": 15,
             "replacements": {
@@ -14699,10 +14699,10 @@
             },
             "sclass_errors": [
                 "rs",
-                "<?>",
-                "ll",
                 "sh",
-                "mm"
+                "<?>",
+                "mm",
+                "ll"
             ],
             "segments": {
                 "<?>": 2,
@@ -15092,9 +15092,9 @@
         },
         "Khmer": {
             "bipa_errors": [
-                "<?>",
                 "\u0292h",
-                "\u1e6d"
+                "\u1e6d",
+                "<?>"
             ],
             "general_errors": 16,
             "replacements": {
@@ -15409,9 +15409,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u0292h",
-                "\u1e6d"
+                "\u1e6d",
+                "<?>"
             ],
             "segments": {
                 "<?>": 2,
@@ -15458,8 +15458,8 @@
         },
         "Khmu": {
             "bipa_errors": [
-                "<?>",
-                "mm"
+                "mm",
+                "<?>"
             ],
             "general_errors": 2,
             "replacements": {
@@ -15774,8 +15774,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "mm"
+                "mm",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -15815,9 +15815,9 @@
         },
         "KorCua": {
             "bipa_errors": [
-                "<?>",
                 "cw",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 3,
             "replacements": {
@@ -16132,9 +16132,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "cw",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -16175,10 +16175,10 @@
         "Korku": {
             "bipa_errors": [
                 "<?>",
-                "ll",
-                "<<)>>",
+                "<<(>>",
                 "\u1e5b",
-                "<<(>>"
+                "<<)>>",
+                "ll"
             ],
             "general_errors": 10,
             "replacements": {
@@ -16494,10 +16494,10 @@
             },
             "sclass_errors": [
                 "<?>",
-                "ll",
-                "<<)>>",
+                "<<(>>",
                 "\u1e5b",
-                "<<(>>"
+                "<<)>>",
+                "ll"
             ],
             "segments": {
                 "<<(>>": 2,
@@ -16892,8 +16892,8 @@
         },
         "Kui": {
             "bipa_errors": [
-                "<?>",
-                "tw"
+                "tw",
+                "<?>"
             ],
             "general_errors": 201,
             "replacements": {
@@ -17208,8 +17208,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "tw"
+                "tw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 200,
@@ -17252,8 +17252,8 @@
         },
         "KxinhMul": {
             "bipa_errors": [
-                "<?>",
-                "khw"
+                "khw",
+                "<?>"
             ],
             "general_errors": 206,
             "replacements": {
@@ -17568,8 +17568,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "khw"
+                "khw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 205,
@@ -18319,12 +18319,12 @@
         },
         "MBunong": {
             "bipa_errors": [
-                "jh",
+                "\u0294w",
                 "rs",
                 "\u010d",
+                "\u014bw",
                 "rw",
-                "\u0294w",
-                "\u014bw"
+                "jh"
             ],
             "general_errors": 9,
             "replacements": {
@@ -18639,12 +18639,12 @@
                 ]
             },
             "sclass_errors": [
-                "jh",
+                "\u0294w",
                 "rs",
                 "\u010d",
+                "\u014bw",
                 "rw",
-                "\u0294w",
-                "\u014bw"
+                "jh"
             ],
             "segments": {
                 "a": 32,
@@ -18689,9 +18689,9 @@
         "MDip": {
             "bipa_errors": [
                 "pw",
-                "rw",
                 "mw",
-                "jh"
+                "jh",
+                "rw"
             ],
             "general_errors": 5,
             "replacements": {
@@ -19007,9 +19007,9 @@
             },
             "sclass_errors": [
                 "pw",
-                "rw",
                 "mw",
-                "jh"
+                "jh",
+                "rw"
             ],
             "segments": {
                 "a": 34,
@@ -19051,8 +19051,8 @@
         "MRolom": {
             "bipa_errors": [
                 "<?>",
-                "\u0292h",
-                "<<~>>"
+                "<<~>>",
+                "\u0292h"
             ],
             "general_errors": 3,
             "replacements": {
@@ -19368,8 +19368,8 @@
             },
             "sclass_errors": [
                 "<?>",
-                "\u0292h",
-                "<<~>>"
+                "<<~>>",
+                "\u0292h"
             ],
             "segments": {
                 "<<~>>": 1,
@@ -19410,10 +19410,10 @@
         },
         "Ma1": {
             "bipa_errors": [
-                "\u1e6d",
-                "jh",
+                "<<(>>",
                 "<<)>>",
-                "<<(>>"
+                "jh",
+                "\u1e6d"
             ],
             "general_errors": 5,
             "replacements": {
@@ -19728,10 +19728,10 @@
                 ]
             },
             "sclass_errors": [
-                "\u1e6d",
-                "jh",
+                "<<(>>",
                 "<<)>>",
-                "<<(>>"
+                "jh",
+                "\u1e6d"
             ],
             "segments": {
                 "<<(>>": 1,
@@ -19778,9 +19778,9 @@
         },
         "Ma2": {
             "bipa_errors": [
-                "<?>",
                 "sw",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 9,
             "replacements": {
@@ -20095,9 +20095,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "sw",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 4,
@@ -20141,8 +20141,8 @@
         },
         "Mak": {
             "bipa_errors": [
-                "<?>",
-                "\u014bw"
+                "\u014bw",
+                "<?>"
             ],
             "general_errors": 3,
             "replacements": {
@@ -20457,8 +20457,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u014bw"
+                "\u014bw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 2,
@@ -20499,9 +20499,9 @@
         },
         "Malieng": {
             "bipa_errors": [
-                "<?>",
                 "\u1e6d",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 209,
             "replacements": {
@@ -20816,9 +20816,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u1e6d",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 203,
@@ -20857,11 +20857,11 @@
         },
         "Mane": {
             "bipa_errors": [
-                "\u010dh",
-                "jh",
                 "<?>",
+                "lh",
+                "\u010dh",
                 "\u010d",
-                "lh"
+                "jh"
             ],
             "general_errors": 190,
             "replacements": {
@@ -21176,11 +21176,11 @@
                 ]
             },
             "sclass_errors": [
-                "\u010dh",
-                "jh",
                 "<?>",
+                "lh",
+                "\u010dh",
                 "\u010d",
-                "lh"
+                "jh"
             ],
             "segments": {
                 "<?>": 182,
@@ -21221,9 +21221,9 @@
         },
         "Mang": {
             "bipa_errors": [
-                "<?>",
                 "\u010d",
-                "\u0430"
+                "\u0430",
+                "<?>"
             ],
             "general_errors": 206,
             "replacements": {
@@ -21538,9 +21538,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u010d",
-                "\u0430"
+                "\u0430",
+                "<?>"
             ],
             "segments": {
                 "<?>": 204,
@@ -21578,9 +21578,9 @@
         },
         "Mangan": {
             "bipa_errors": [
-                "<?>",
                 "lh",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "general_errors": 212,
             "replacements": {
@@ -21895,9 +21895,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "lh",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 208,
@@ -22292,8 +22292,8 @@
         },
         "Mon": {
             "bipa_errors": [
-                "mw",
-                "\u1e0d"
+                "\u1e0d",
+                "mw"
             ],
             "general_errors": 4,
             "replacements": {
@@ -22608,8 +22608,8 @@
                 ]
             },
             "sclass_errors": [
-                "mw",
-                "\u1e0d"
+                "\u1e0d",
+                "mw"
             ],
             "segments": {
                 "a": 65,
@@ -22648,10 +22648,10 @@
         },
         "Mundari": {
             "bipa_errors": [
-                "<?>",
-                "\u1e0d",
                 "\u1e5b",
-                "\u1e6d"
+                "\u1e6d",
+                "\u1e0d",
+                "<?>"
             ],
             "general_errors": 19,
             "replacements": {
@@ -22966,10 +22966,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u1e0d",
                 "\u1e5b",
-                "\u1e6d"
+                "\u1e6d",
+                "\u1e0d",
+                "<?>"
             ],
             "segments": {
                 "<?>": 10,
@@ -23360,15 +23360,15 @@
         },
         "Nancawri": {
             "bipa_errors": [
-                "\u00e9w",
-                "<?>",
-                "<<)>>",
                 "\u0113h",
-                "sh",
                 "\u00e9h",
-                "<<~>>",
+                "sh",
+                "\u00e2h",
+                "<?>",
                 "<<(>>",
-                "\u00e2h"
+                "<<~>>",
+                "<<)>>",
+                "\u00e9w"
             ],
             "general_errors": 69,
             "replacements": {
@@ -23683,15 +23683,15 @@
                 ]
             },
             "sclass_errors": [
-                "\u00e9w",
-                "<?>",
-                "<<)>>",
                 "\u0113h",
-                "sh",
                 "\u00e9h",
-                "<<~>>",
+                "sh",
+                "\u00e2h",
+                "<?>",
                 "<<(>>",
-                "\u00e2h"
+                "<<~>>",
+                "<<)>>",
+                "\u00e9w"
             ],
             "segments": {
                 "<<(>>": 1,
@@ -23747,9 +23747,9 @@
         },
         "Neu": {
             "bipa_errors": [
-                "<?>",
                 "\u1e33",
-                "jw"
+                "jw",
+                "<?>"
             ],
             "general_errors": 6,
             "replacements": {
@@ -24064,9 +24064,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u1e33",
-                "jw"
+                "jw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 4,
@@ -24106,11 +24106,11 @@
         },
         "Nge": {
             "bipa_errors": [
-                "jh",
-                "ll",
-                "jw",
                 "rh",
-                "mm"
+                "mm",
+                "jw",
+                "ll",
+                "jh"
             ],
             "general_errors": 8,
             "replacements": {
@@ -24425,11 +24425,11 @@
                 ]
             },
             "sclass_errors": [
-                "jh",
-                "ll",
-                "jw",
                 "rh",
-                "mm"
+                "mm",
+                "jw",
+                "ll",
+                "jh"
             ],
             "segments": {
                 "a": 50,
@@ -24472,10 +24472,10 @@
         "Nhaheun": {
             "bipa_errors": [
                 "nw",
-                "jh",
+                "dw",
                 "rw",
                 "nn",
-                "dw"
+                "jh"
             ],
             "general_errors": 7,
             "replacements": {
@@ -24791,10 +24791,10 @@
             },
             "sclass_errors": [
                 "nw",
-                "jh",
+                "dw",
                 "rw",
                 "nn",
-                "dw"
+                "jh"
             ],
             "segments": {
                 "a": 30,
@@ -24838,9 +24838,9 @@
         },
         "Nyakur": {
             "bipa_errors": [
-                "<?>",
                 "lh",
-                "hw"
+                "hw",
+                "<?>"
             ],
             "general_errors": 191,
             "replacements": {
@@ -25155,9 +25155,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "lh",
-                "hw"
+                "hw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 189,
@@ -25198,9 +25198,9 @@
         },
         "Ong": {
             "bipa_errors": [
-                "<?>",
                 "nn",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 72,
             "replacements": {
@@ -25515,9 +25515,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "nn",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 67,
@@ -25559,8 +25559,8 @@
         },
         "Oy": {
             "bipa_errors": [
-                "wh",
-                "jh"
+                "jh",
+                "wh"
             ],
             "general_errors": 4,
             "replacements": {
@@ -25875,8 +25875,8 @@
                 ]
             },
             "sclass_errors": [
-                "wh",
-                "jh"
+                "jh",
+                "wh"
             ],
             "segments": {
                 "a": 43,
@@ -25916,12 +25916,12 @@
         },
         "Pakoh": {
             "bipa_errors": [
-                "rr",
-                "jh",
                 "<?>",
-                "ll",
+                "mm",
+                "rr",
                 "nn",
-                "mm"
+                "ll",
+                "jh"
             ],
             "general_errors": 76,
             "replacements": {
@@ -26236,12 +26236,12 @@
                 ]
             },
             "sclass_errors": [
-                "rr",
-                "jh",
                 "<?>",
-                "ll",
+                "mm",
+                "rr",
                 "nn",
-                "mm"
+                "ll",
+                "jh"
             ],
             "segments": {
                 "<?>": 68,
@@ -26282,8 +26282,8 @@
         },
         "Paliu": {
             "bipa_errors": [
-                "<?>",
-                "\u010d"
+                "\u010d",
+                "<?>"
             ],
             "general_errors": 202,
             "replacements": {
@@ -26598,8 +26598,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u010d"
+                "\u010d",
+                "<?>"
             ],
             "segments": {
                 "<?>": 200,
@@ -26640,13 +26640,13 @@
         },
         "Pangpin": {
             "bipa_errors": [
-                "\u0161",
-                "\u010dh",
+                "rh",
                 "<?>",
-                "\u010d",
+                "\u0161",
                 "lh",
-                "\u0292h",
-                "rh"
+                "\u010dh",
+                "\u010d",
+                "\u0292h"
             ],
             "general_errors": 185,
             "replacements": {
@@ -26961,13 +26961,13 @@
                 ]
             },
             "sclass_errors": [
-                "\u0161",
-                "\u010dh",
+                "rh",
                 "<?>",
-                "\u010d",
+                "\u0161",
                 "lh",
-                "\u0292h",
-                "rh"
+                "\u010dh",
+                "\u010d",
+                "\u0292h"
             ],
             "segments": {
                 "<?>": 168,
@@ -27013,8 +27013,8 @@
         "Panong": {
             "bipa_errors": [
                 "<?>",
-                "cw",
                 "\u1e0d",
+                "cw",
                 "lw",
                 "sw"
             ],
@@ -27332,8 +27332,8 @@
             },
             "sclass_errors": [
                 "<?>",
-                "cw",
                 "\u1e0d",
+                "cw",
                 "lw",
                 "sw"
             ],
@@ -27379,8 +27379,8 @@
         },
         "Parengi": {
             "bipa_errors": [
-                "<?>",
-                "\u1e0d"
+                "\u1e0d",
+                "<?>"
             ],
             "general_errors": 18,
             "replacements": {
@@ -27695,8 +27695,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u1e0d"
+                "\u1e0d",
+                "<?>"
             ],
             "segments": {
                 "<?>": 5,
@@ -28425,9 +28425,9 @@
         },
         "Plang": {
             "bipa_errors": [
-                "<?>",
                 "lh",
-                "c\u0323"
+                "c\u0323",
+                "<?>"
             ],
             "general_errors": 207,
             "replacements": {
@@ -28742,9 +28742,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "lh",
-                "c\u0323"
+                "c\u0323",
+                "<?>"
             ],
             "segments": {
                 "<?>": 204,
@@ -29132,9 +29132,9 @@
         },
         "Rengao": {
             "bipa_errors": [
-                "<?>",
                 "\u0294w",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 197,
             "replacements": {
@@ -29449,9 +29449,9 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u0294w",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 194,
@@ -29486,8 +29486,8 @@
         },
         "Ruc": {
             "bipa_errors": [
-                "<?>",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "general_errors": 157,
             "replacements": {
@@ -29802,8 +29802,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 154,
@@ -29842,11 +29842,11 @@
         },
         "Rumai": {
             "bipa_errors": [
+                "\u00e2h",
+                "rh",
                 "<?>",
                 "lh",
-                "\u00e2h",
-                "\u0292\u0301",
-                "rh"
+                "\u0292\u0301"
             ],
             "general_errors": 201,
             "replacements": {
@@ -30161,11 +30161,11 @@
                 ]
             },
             "sclass_errors": [
+                "\u00e2h",
+                "rh",
                 "<?>",
                 "lh",
-                "\u00e2h",
-                "\u0292\u0301",
-                "rh"
+                "\u0292\u0301"
             ],
             "segments": {
                 "<?>": 196,
@@ -30561,12 +30561,12 @@
         },
         "Santali": {
             "bipa_errors": [
-                "\u1e6d",
-                "<?>",
                 "<<)>>",
+                "<?>",
+                "<<(>>",
                 "\u1e5b",
                 "\u1e0d",
-                "<<(>>"
+                "\u1e6d"
             ],
             "general_errors": 25,
             "replacements": {
@@ -30881,12 +30881,12 @@
                 ]
             },
             "sclass_errors": [
-                "\u1e6d",
-                "<?>",
                 "<<)>>",
+                "<?>",
+                "<<(>>",
                 "\u1e5b",
                 "\u1e0d",
-                "<<(>>"
+                "\u1e6d"
             ],
             "segments": {
                 "<<(>>": 4,
@@ -31992,8 +31992,8 @@
         },
         "SemoqBeri": {
             "bipa_errors": [
-                "lh",
                 "sw",
+                "lh",
                 "<<~>>"
             ],
             "general_errors": 3,
@@ -32309,8 +32309,8 @@
                 ]
             },
             "sclass_errors": [
-                "lh",
                 "sw",
+                "lh",
                 "<<~>>"
             ],
             "segments": {
@@ -32352,16 +32352,16 @@
         },
         "Shuangdiang": {
             "bipa_errors": [
-                "\u0292\u0323",
-                "c\u0323h",
-                "<?>",
-                "<<)>>",
-                "c\u0323",
-                "lh",
                 "\u1e63",
-                "\u0292\u0301h",
+                "c\u0323h",
+                "\u0292\u0301",
+                "c\u0323",
+                "<?>",
                 "<<(>>",
-                "\u0292\u0301"
+                "lh",
+                "\u0292\u0323",
+                "<<)>>",
+                "\u0292\u0301h"
             ],
             "general_errors": 233,
             "replacements": {
@@ -32676,16 +32676,16 @@
                 ]
             },
             "sclass_errors": [
-                "\u0292\u0323",
-                "c\u0323h",
-                "<?>",
-                "<<)>>",
-                "c\u0323",
-                "lh",
                 "\u1e63",
-                "\u0292\u0301h",
+                "c\u0323h",
+                "\u0292\u0301",
+                "c\u0323",
+                "<?>",
                 "<<(>>",
-                "\u0292\u0301"
+                "lh",
+                "\u0292\u0323",
+                "<<)>>",
+                "\u0292\u0301h"
             ],
             "segments": {
                 "<<(>>": 4,
@@ -32733,8 +32733,8 @@
         },
         "So": {
             "bipa_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 4,
             "replacements": {
@@ -33049,8 +33049,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 3,
@@ -33087,12 +33087,12 @@
         },
         "Sora": {
             "bipa_errors": [
-                "rr",
                 "\u0292\u0292",
                 "<?>",
-                "<<)>>",
                 "<<(>>",
-                "mm"
+                "mm",
+                "rr",
+                "<<)>>"
             ],
             "general_errors": 23,
             "replacements": {
@@ -33407,12 +33407,12 @@
                 ]
             },
             "sclass_errors": [
-                "rr",
                 "\u0292\u0292",
                 "<?>",
-                "<<)>>",
                 "<<(>>",
-                "mm"
+                "mm",
+                "rr",
+                "<<)>>"
             ],
             "segments": {
                 "<<(>>": 1,
@@ -33454,10 +33454,10 @@
         },
         "Sre": {
             "bipa_errors": [
-                "<?>",
                 "\u00e0s",
                 "rh",
-                "mhw"
+                "mhw",
+                "<?>"
             ],
             "general_errors": 4,
             "replacements": {
@@ -33772,10 +33772,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "\u00e0s",
                 "rh",
-                "mhw"
+                "mhw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -33817,10 +33817,10 @@
         },
         "Stieng": {
             "bipa_errors": [
-                "<?>",
-                "rw",
+                "\u0292h",
                 "rh",
-                "\u0292h"
+                "rw",
+                "<?>"
             ],
             "general_errors": 5,
             "replacements": {
@@ -34135,10 +34135,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "rw",
+                "\u0292h",
                 "rh",
-                "\u0292h"
+                "rw",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -34181,10 +34181,10 @@
         },
         "Taoi": {
             "bipa_errors": [
-                "<?>",
                 "<<(>>",
                 "<<)>>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 191,
             "replacements": {
@@ -34499,10 +34499,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "<<(>>",
                 "<<)>>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<<(>>": 1,
@@ -34540,12 +34540,12 @@
         },
         "Taoih": {
             "bipa_errors": [
-                "\u1e6d",
-                "rr",
                 "<?>",
-                "ll",
+                "mm",
+                "rr",
                 "nn",
-                "mm"
+                "ll",
+                "\u1e6d"
             ],
             "general_errors": 82,
             "replacements": {
@@ -34860,12 +34860,12 @@
                 ]
             },
             "sclass_errors": [
-                "\u1e6d",
-                "rr",
                 "<?>",
-                "ll",
+                "mm",
+                "rr",
                 "nn",
-                "mm"
+                "ll",
+                "\u1e6d"
             ],
             "segments": {
                 "<?>": 74,
@@ -35259,8 +35259,8 @@
         },
         "Temiar": {
             "bipa_errors": [
-                "<?>",
-                "\u00f6h"
+                "\u00f6h",
+                "<?>"
             ],
             "general_errors": 2,
             "replacements": {
@@ -35575,8 +35575,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u00f6h"
+                "\u00f6h",
+                "<?>"
             ],
             "segments": {
                 "<?>": 1,
@@ -35616,12 +35616,12 @@
         },
         "Tempuan": {
             "bipa_errors": [
-                "\u1e6d",
-                "jh",
-                "<?>",
                 "\u0294w",
+                "<?>",
+                "<<~>>",
                 "wh",
-                "<<~>>"
+                "\u1e6d",
+                "jh"
             ],
             "general_errors": 8,
             "replacements": {
@@ -35936,12 +35936,12 @@
                 ]
             },
             "sclass_errors": [
-                "\u1e6d",
-                "jh",
-                "<?>",
                 "\u0294w",
+                "<?>",
+                "<<~>>",
                 "wh",
-                "<<~>>"
+                "\u1e6d",
+                "jh"
             ],
             "segments": {
                 "<<~>>": 2,
@@ -36342,8 +36342,8 @@
         },
         "ThavungSo": {
             "bipa_errors": [
-                "<?>",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "general_errors": 150,
             "replacements": {
@@ -36658,8 +36658,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "rh"
+                "rh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 149,
@@ -36697,8 +36697,8 @@
         },
         "ThoMon": {
             "bipa_errors": [
-                "<?>",
-                "\u1e6d"
+                "\u1e6d",
+                "<?>"
             ],
             "general_errors": 210,
             "replacements": {
@@ -37013,8 +37013,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "\u1e6d"
+                "\u1e6d",
+                "<?>"
             ],
             "segments": {
                 "<?>": 204,
@@ -37054,8 +37054,8 @@
         },
         "Tri": {
             "bipa_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 14,
             "replacements": {
@@ -37370,8 +37370,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 13,
@@ -37762,8 +37762,8 @@
         },
         "Veh": {
             "bipa_errors": [
-                "\u1e6d",
-                "\u00e2h"
+                "\u00e2h",
+                "\u1e6d"
             ],
             "general_errors": 2,
             "replacements": {
@@ -38078,8 +38078,8 @@
                 ]
             },
             "sclass_errors": [
-                "\u1e6d",
-                "\u00e2h"
+                "\u00e2h",
+                "\u1e6d"
             ],
             "segments": {
                 "a": 24,
@@ -38123,11 +38123,11 @@
         "Vietnamese": {
             "bipa_errors": [
                 "<?>",
-                "<<)>>",
-                "\u1ea1",
-                "<<~>>",
                 "<<(>>",
-                "\u0111"
+                "\u1ea1",
+                "\u0111",
+                "<<~>>",
+                "<<)>>"
             ],
             "general_errors": 54,
             "replacements": {
@@ -38443,11 +38443,11 @@
             },
             "sclass_errors": [
                 "<?>",
-                "<<)>>",
-                "\u1ea1",
-                "<<~>>",
                 "<<(>>",
-                "\u0111"
+                "\u1ea1",
+                "\u0111",
+                "<<~>>",
+                "<<)>>"
             ],
             "segments": {
                 "<<(>>": 1,
@@ -38497,10 +38497,10 @@
         },
         "Wa": {
             "bipa_errors": [
-                "<?>",
                 "lh",
                 "rh",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "general_errors": 61,
             "replacements": {
@@ -38815,10 +38815,10 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
                 "lh",
                 "rh",
-                "jh"
+                "jh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 53,
@@ -38860,8 +38860,8 @@
         },
         "Yongde": {
             "bipa_errors": [
-                "<?>",
-                "lh"
+                "lh",
+                "<?>"
             ],
             "general_errors": 206,
             "replacements": {
@@ -39176,8 +39176,8 @@
                 ]
             },
             "sclass_errors": [
-                "<?>",
-                "lh"
+                "lh",
+                "<?>"
             ],
             "segments": {
                 "<?>": 203,
@@ -39920,69 +39920,69 @@
         ],
         "bad_words_count": 4702,
         "bipa_errors": [
-            "\u0292\u0323",
-            "nw",
-            "jh",
-            "\u00e9w",
-            "\u014b\u014b",
+            "\u1e63",
+            "pw",
+            "\u0292w",
+            "\u0161",
+            "lh",
+            "\u0430",
             "\u0111",
             "\u1e5b",
-            "sh",
-            "nn",
-            "\u0292\u0301h",
             "<<~>>",
-            "<<(>>",
-            "\u00eew",
-            "\u1e6d",
-            "mw",
-            "\u010dh",
-            "\u0161",
-            "rr",
-            "\u00e2s",
-            "ll",
-            "\u0292w",
-            "\u00e0s",
-            "c\u0323",
-            "\u0294w",
-            "\u0430",
-            "khw",
-            "\u0292h",
-            "dw",
-            "\u1e0d",
-            "pw",
-            "rh",
-            "mm",
-            "tw",
-            "\u0292\u0301",
-            "\u00f2h",
-            "\u00e8h",
-            "\u1e33",
-            "\u00f6h",
-            "<?>",
-            "rw",
-            "<<)>>",
-            "\u1ea1",
-            "wh",
-            "\u00e9h",
             "\u014bw",
-            "\u1e63",
-            "jw",
-            "lw",
-            "\u0292\u0292",
-            "c\u0323h",
-            "\u1e6dh",
-            "\u00f9h",
-            "rs",
-            "\u010d",
-            "cw",
-            "\u0113h",
-            "lh",
             "\u0266w",
-            "\u00e2w",
+            "\u0292\u0323",
+            "\u1e6dh",
+            "\u00e9w",
+            "rw",
+            "\u00e9h",
+            "rh",
+            "c\u0323",
+            "<?>",
+            "khw",
+            "mm",
+            "mw",
+            "\u014b\u014b",
+            "\u00e8h",
+            "\u00e0s",
+            "\u0292h",
+            "\u1e33",
             "sw",
+            "\u00e2s",
+            "jh",
+            "\u0292\u0301",
+            "\u0292\u0301h",
+            "rs",
+            "\u00f9h",
             "\u00e2h",
+            "<<(>>",
+            "\u1ea1",
+            "\u00e2w",
+            "cw",
+            "rr",
+            "tw",
+            "jw",
+            "\u010dh",
+            "\u010d",
+            "dw",
+            "lw",
+            "wh",
+            "<<)>>",
+            "nn",
+            "\u1e6d",
             "hw",
-            "mhw"
+            "\u0294w",
+            "nw",
+            "\u0113h",
+            "sh",
+            "c\u0323h",
+            "\u0292\u0292",
+            "mhw",
+            "\u00eew",
+            "\u00f2h",
+            "\u1e0d",
+            "\u00f6h",
+            "ll"
         ],
         "general_errors": 9118,
         "invalid_words": [],
@@ -40300,69 +40300,69 @@
             ]
         },
         "sclass_errors": [
-            "\u0292\u0323",
-            "nw",
-            "jh",
-            "\u00e9w",
-            "\u014b\u014b",
+            "\u1e63",
+            "pw",
+            "\u0292w",
+            "\u0161",
+            "lh",
+            "\u0430",
             "\u0111",
             "\u1e5b",
-            "sh",
-            "nn",
-            "\u0292\u0301h",
             "<<~>>",
-            "<<(>>",
-            "\u00eew",
-            "\u1e6d",
-            "mw",
-            "\u010dh",
-            "\u0161",
-            "rr",
-            "\u00e2s",
-            "ll",
-            "\u0292w",
-            "\u00e0s",
-            "c\u0323",
-            "\u0294w",
-            "\u0430",
-            "khw",
-            "\u0292h",
-            "dw",
-            "\u1e0d",
-            "pw",
-            "rh",
-            "mm",
-            "tw",
-            "\u0292\u0301",
-            "\u00f2h",
-            "\u00e8h",
-            "\u1e33",
-            "\u00f6h",
-            "<?>",
-            "rw",
-            "<<)>>",
-            "\u1ea1",
-            "wh",
-            "\u00e9h",
             "\u014bw",
-            "\u1e63",
-            "jw",
-            "lw",
-            "\u0292\u0292",
-            "c\u0323h",
-            "\u1e6dh",
-            "\u00f9h",
-            "rs",
-            "\u010d",
-            "cw",
-            "\u0113h",
-            "lh",
             "\u0266w",
-            "\u00e2w",
+            "\u0292\u0323",
+            "\u1e6dh",
+            "\u00e9w",
+            "rw",
+            "\u00e9h",
+            "rh",
+            "c\u0323",
+            "<?>",
+            "khw",
+            "mm",
+            "mw",
+            "\u014b\u014b",
+            "\u00e8h",
+            "\u00e0s",
+            "\u0292h",
+            "\u1e33",
             "sw",
+            "\u00e2s",
+            "jh",
+            "\u0292\u0301",
+            "\u0292\u0301h",
+            "rs",
+            "\u00f9h",
             "\u00e2h",
+            "<<(>>",
+            "\u1ea1",
+            "\u00e2w",
+            "cw",
+            "rr",
+            "tw",
+            "jw",
+            "\u010dh",
+            "\u010d",
+            "dw",
+            "lw",
+            "wh",
+            "<<)>>",
+            "nn",
+            "\u1e6d",
             "hw",
-            "mhw"
+            "\u0294w",
+            "nw",
+            "\u0113h",
+            "sh",
+            "c\u0323h",
+            "\u0292\u0292",
+            "mhw",
+            "\u00eew",
+            "\u00f2h",
+            "\u1e0d",
+            "\u00f6h",
+            "ll"
         ],
         "segments": {
             "<<(>>": 27,

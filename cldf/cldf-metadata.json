@@ -4,6 +4,9 @@
     "dc:bibliographicCitation": "Peiros, I. I. (2004): Geneti\u010deskaja klassifikacija avstroaziatskix jazykov [Genetic classification of Austro-Asiatic languages]. Russian State University for the Humanities, Russian State University for the Humanities, Moscow.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Lexicostatistic classification of a larger range of Austro-Asiatic languages.",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Starostin-1991-110"
+    ],
     "dc:identifier": "https://rusneb.ru/catalog/000199_000009_002728473/",
     "dc:isVersionOf": null,
     "dc:related": null,
@@ -15,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/peirosaustroasiatic",
-            "dc:created": "16716d7"
+            "dc:created": "893644a"
         },
         {
             "rdf:type": "prov:Entity",
