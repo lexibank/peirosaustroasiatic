@@ -4,12 +4,12 @@ JahHut,Jah-Hut,jahh1242,Jah Hut,jah,Eurasia,3.67619,102.2913,Austroasiatic,ASLIA
 Kensiw,Kensiw,kens1248,Kensiu,kns,Eurasia,6.02922,101.16023,Austroasiatic,ASLIAN
 Semai,Semai,sema1266,Semai,sea,Eurasia,4.13257,101.47651,Austroasiatic,ASLIAN
 Semelai,Semelai,seme1247,Semelai,sza,Eurasia,2.82799,102.8062,Austroasiatic,ASLIAN
-SemoqBeri,SemoqBeri,,,,,,,Austro-Asiatic,ASLIAN
+SemoqBeri,SemoqBeri,sema1265,Semaq Beri,szc,Eurasia,4.12,102.82,Austroasiatic,ASLIAN
 Temiar,Temiar,temi1246,Temiar,tea,Eurasia,4.974,101.43761,Austroasiatic,ASLIAN
-Arak,Arak,,,,,,,Austro-Asiatic,BAHNARIC
-Bahnar,Bahnar,,,,,,,Austro-Asiatic,BAHNARIC
+Arak,Arak,alak1253,Alak,alk,Eurasia,15.5565,106.597,Austroasiatic,BAHNARIC
+Bahnar,Bahnar,,,bdq,,,,Austro-Asiatic,BAHNARIC
 Chrau,Chrau,chra1242,Chrau,crw,Eurasia,10.80208,107.29291,Austroasiatic,BAHNARIC
-Didra,Didra,,,,,,,Austro-Asiatic,BAHNARIC
+Didra,Didra,todr1244,Todrah,tdr,Eurasia,14.57,108.11,Austroasiatic,BAHNARIC
 Hadang,Hadang,,,,,,,Austro-Asiatic,BAHNARIC
 Halang,Halang,hala1252,Halang,hal,Eurasia,14.60822,107.57379,Austroasiatic,BAHNARIC
 Hre,Hre,,,hre,,,,Austro-Asiatic,BAHNARIC
@@ -17,7 +17,7 @@ Je,Je,,,,,,,Austro-Asiatic,BAHNARIC
 Jeh,Jeh,jehh1245,Jeh,jeh,Eurasia,15.19845,107.89563,Austroasiatic,BAHNARIC
 Jru,Jru,lave1248,Laven,lbo,Eurasia,15.27261,106.32196,Austroasiatic,BAHNARIC
 Kadong,Kadong,,,,,,,Austro-Asiatic,BAHNARIC
-KahoChil,KahoChil,,,,,,,Austro-Asiatic,BAHNARIC
+KahoChil,KahoChil,chil1279,Chil (Koho),,Eurasia,,,Austroasiatic,BAHNARIC
 KorCua,Kor=Cua,cuaa1241,Cua,cua,Eurasia,15.16883,108.43092,Austroasiatic,BAHNARIC
 MBunong,M.Bunong,maaa1253,Maa,cma,Eurasia,11.52,107.34,Austroasiatic,BAHNARIC
 MDip,M.Dip,maaa1253,Maa,cma,Eurasia,11.52,107.34,Austroasiatic,BAHNARIC
@@ -25,7 +25,7 @@ MRolom,M.Rolom,east2333,Eastern Mnong,mng,Eurasia,12.39385,108.35351,Austroasiat
 Ma1,Ma1,,,,,,,Austro-Asiatic,BAHNARIC
 Ma2,Ma2,,,,,,,Austro-Asiatic,BAHNARIC
 Nhaheun,Nhaheun,nyah1249,Nyaheun,nev,Eurasia,15.10343,106.54295,Austroasiatic,BAHNARIC
-Oy,Oy,,,oyb,,,,Austro-Asiatic,BAHNARIC
+Oy,Oy,oyyy1238,Oy,oyb,Eurasia,15.42,106.66,Austroasiatic,BAHNARIC
 Panong,Panong,,,,,,,Austro-Asiatic,BAHNARIC
 Rengao,Rengao,reng1252,Rengao,ren,Eurasia,14.6066,107.85923,Austroasiatic,BAHNARIC
 Sedang,Sedang,seda1262,Sedang,sed,Eurasia,14.77933,108.02703,Austroasiatic,BAHNARIC
@@ -34,22 +34,22 @@ Stieng,Stieng,bulo1242,Bulo Stieng,sti,Eurasia,11.81581,107.04075,Austroasiatic,
 Tariang,Tariang,tali1257,Talieng,tdf,Eurasia,16.53,106.10,Austroasiatic,BAHNARIC
 Tempuan,Tempuan,tamp1251,Tampuan,tpu,Eurasia,13.56447,107.24544,Austroasiatic,BAHNARIC
 Veh,Veh,,,,,,,Austro-Asiatic,BAHNARIC
-Bru,Bru,,,,,,,Austro-Asiatic,KATUIC
-BruVK,BruVK,,,,,,,Austro-Asiatic,KATUIC
+Bru,Bru,,,bru,,,,Austro-Asiatic,KATUIC
+BruVK,BruVK,,,xhv,,,,Austro-Asiatic,KATUIC
 Dakkang,Dakkang,,,,,,,Austro-Asiatic,KATUIC
 Kantu,Kantu,,,,,,,Austro-Asiatic,KATUIC
-Katu,Katu,,,,,,,Austro-Asiatic,KATUIC
-Kui,Kui,,,,,,,Austro-Asiatic,KATUIC
-LaoKatu,Lao-Katu,,,,,,,Austro-Asiatic,KATUIC
+Katu,Katu,katu1272,Katu,,,,,Austroasiatic,KATUIC
+Kui,Kui,kuyy1240,Kuy,kdt,Eurasia,,,Austroasiatic,KATUIC
+LaoKatu,Lao-Katu,west2398,Western Katu,kuf,Eurasia,15.79,107.17,Austroasiatic,KATUIC
 Mak,Mak,,,,,,,Austro-Asiatic,KATUIC
 Neu,Neu,,,,,,,Austro-Asiatic,KATUIC
 Nge,Nge,ngeq1245,Kriang-Khlor,ngt,Eurasia,15.62109,106.8773,Austroasiatic,KATUIC
 Ong,Ong,,,,,,,Austro-Asiatic,KATUIC
 Pakoh,Pakoh,paco1243,Pacoh,pac,Eurasia,16.44399,107.12868,Austroasiatic,KATUIC
-So,So,,,,,,,Austro-Asiatic,KATUIC
+So,So,sooo1254,Sô,sss,Eurasia,,,Austroasiatic,KATUIC
 Taoi,Taoi,lowe1395,Lower Ta'oih,tto,Eurasia,15.9083,106.87347,Austroasiatic,KATUIC
 Taoih,Taoih,,,,,,,Austro-Asiatic,KATUIC
-Tri,Tri,,,,,,,Austro-Asiatic,KATUIC
+Tri,Tri,trii1240,Tri,,Eurasia,,,Austroasiatic,KATUIC
 Khasi,Khasi,khas1269,Khasi,kha,Eurasia,25.56573,92.00194,Austroasiatic,KHASI
 KSurin,K.Surin,nort2684,Northern Khmer,kxm,Eurasia,14.46743,103.86313,Austroasiatic,KHMERIC
 Khmer,Khmer,cent1989,Central Khmer,khm,Eurasia,11.4549,104.49337,Austroasiatic,KHMERIC
@@ -77,7 +77,7 @@ Santali,Santali,sant1410,Santali,sat,Eurasia,23.9076,87.11775,Austroasiatic,MUND
 Sora,Sora,sora1254,Sora,srb,Eurasia,19.12127,84.19005,Austroasiatic,MUNDA
 Car,Car,carn1240,Car Nicobarese,caq,Eurasia,9.18853,92.76706,Austroasiatic,NICOBARIC
 Nancawri,Nancawri,nanc1247,Nancowry,ncb,Eurasia,7.94812,93.39208,Austroasiatic,NICOBARIC
-Deang,De'ang,,,,,,,Austro-Asiatic,PALAUNGWA
+Deang,De'ang,ruch1235,Ruching Palaung,,Eurasia,,,Austroasiatic,PALAUNGWA
 Gantang,Gantang,,,,,,,Austro-Asiatic,PALAUNGWA
 Guanshuang,Guanshuang,,,,,,,Austro-Asiatic,PALAUNGWA
 Hu,Hu,huuu1240,Hu,huo,Eurasia,23.37,101.75,Austroasiatic,PALAUNGWA
@@ -103,8 +103,8 @@ Malieng,Malieng,mali1278,Malieng,pkt,Eurasia,17.94469,105.67464,Austroasiatic,VI
 MuongKoi,MuongKoi,,,,,,,Austro-Asiatic,VIETIC
 PhongV,Phong(V),,,,,,,Austro-Asiatic,VIETIC
 Ruc,Ruc,rucc1239,Ruc,scb,Eurasia,17.986,105.658,Austroasiatic,VIETIC
-Thavung,Thavung,,,thm,,,,Austro-Asiatic,VIETIC
-ThavungSo,ThavungSo,,,thm,,,,Austro-Asiatic,VIETIC
+Thavung,Thavung,aheu1239,Thavung,thm,Eurasia,,,Austroasiatic,VIETIC
+ThavungSo,ThavungSo,aheu1239,Thavung,thm,Eurasia,,,Austroasiatic,VIETIC
 Tuum,Tuum,,,,,,,Austro-Asiatic,VIETIC
 Vietnamese,Vietnamese,viet1252,Vietnamese,vie,Eurasia,17.11945,106.91747,Austroasiatic,VIETIC
 ThoMon,Tho Mon,,,,,,,Austro-Asiatic,VIETIC
