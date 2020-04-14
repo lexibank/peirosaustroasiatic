@@ -103,7 +103,7 @@ kh	kʰ	mat khaj, mat khalaŋ	Mangan, Khamet, Plang, Hu, Yongde, Pray, Khasi, MBu
 ə$	ə	plə, ʔə	Car, Ksinmul, MBunong, Nhaheun, MDip, KSurin, Mlabri, Iduh, Mak, Khmer, Bahnar, Jru, Neu, Tariang, Kadong, Phong, Dakkang, Nge, Deang, So, Khmu, Bit, Chrau, Sre, Hadang, Arem, Pray, Ma2, KorCua, Panong	65	U+0259 U+0024
 ɛ$	ɛ	rɛ, nɛ	Taoih, KahoChil, Oy, MDip, Deang, LaoKatu, Iduh, MBunong, Semelai, Khmer, Veh, SemoqBeri, Dakkang, Neu, KSurin, Tariang, Mlabri, Chrau, Pakoh, Kharia, Katu, KorCua, Arak, Rumai, Nhaheun, Kantu, Phong, Nge, Jru, Bit, Sre, Ruc, MRolom, Pray	65	U+025b U+0024
 24$	²⁴	tət.24, la.24	PhongV, Liha, Cuoi, Malieng, Thavung, Tuum	61	U+0032 U+0034 U+0024
-́	<?>	ćeŋ.31 koŋ.51, ćeŋ.33	Mangan, Shuangdiang, Yongde, Bit, Khamet, Khme, Plang, Hu	55	U+0301
+́	́	ćeŋ.31 koŋ.51, ćeŋ.33	Mangan, Shuangdiang, Yongde, Bit, Khamet, Khme, Plang, Hu	55	U+0301
 ^i	i	iɲ, idaw	Khasi, Santali, Rumai, Mundari, Sora, Khamet, Car, Juang, Mangan, Hu, Bahnar, Parengi, Arem, Kharia, Halang, Didra, Taoih, Ruc, Korku, Pakoh, Rengao, Guanshuang, Hre	54	U+005e U+0069
 =	+	si=ku, ʔi=mih.A	Bonda, Kharia, Mundari, Sora, Juang, Parengi, Santali, Nyakur, Chong, KSurin, Nancawri, Korku, Jahai, Kui, Wa, KxinhMul, Stieng, Didra, Bit, Temiar, Jeh	53	U+003d
 th	tʰ	ɔt.33 theʔ.55, uthUk	Hu, Mangan, Pray, Kui, Chong, Arem, Khamet, Yongde, Thavung, ThavungSo, Gantang, Khasi, Shuangdiang, Korku, ThoMon, Kasong, Khme, Mlabri, Kharia, Pangpin	51	U+0074 U+0068
@@ -121,7 +121,7 @@ A	NULL	< MALAY, ʔaj.A mih.A	Kasong, Taoi, Chong, ChongH, JahHut, Samre, Arem, V
 á	á	ʔuál=fáŋ, kári	Nancawri, Sora, Vietnamese	35	U+00e1
 ^v	v	vaŋ, vil	Vietnamese, KorCua, KxinhMul, Deang, Arem, Khamet, Rumai, Cuoi, Mak, ThoMon, Wa, Kantu, Khme, Thavung, Ma1, MuongKoi, ThavungSo, Taoih, Hadang, Mang, Ruc, Liha, Korku, Iduh, Panong, Hre, BruVK	34	U+005e U+0076
 412$	⁴¹²	kə.55 aŋ.412, rhaŋ.412	Rumai	33	U+0034 U+0031 U+0032 U+0024
-^ć	ć	ćeŋ.31 koŋ.51, ćeŋ.33	Bit, Khamet, Shuangdiang, Mangan, Yongde, Plang, Hu, Khme	33	U+005e U+0107
+^ć	tɕ	ćeŋ.31 koŋ.51, ćeŋ.33	Bit, Khamet, Shuangdiang, Mangan, Yongde, Plang, Hu, Khme	33	U+005e U+0107
 434$	⁴³⁴	lɔm.434, mat.33 kol.434	ThoMon, KhaPhong, Je, Liha, Malieng	33	U+0034 U+0033 U+0034 U+0024
 ʒ	ʒ	mat ʒis, hiʒuʔ	Kantu, Kensiw, Semai, Santali, Jahai, Mundari, Je, Hadang, Mon, Nhaheun, Juang, Khmer, Bahnar, Ma1, Sora, Mlabri, Ruc, Ma2, KorCua	33	U+0292
 ^z	z	ziet.13, zəm.434	Ksinmul, MuongKoi, ThoMon, Khang, KxinhMul, Parengi, KhaPhong, Cuoi, Yongde, Liha, Malieng, Thavung, Chrau	32	U+005e U+007a
@@ -153,7 +153,7 @@ ch	ch	dʌm chə, daʔ nha chi	Chong, KahoChil, KSurin, Samre, Sre, Mak, Nancawri
 5$	NULL	ko.3 laj.5, khu.5	MuongKoi, Hu, Malieng, Mangan, KxinhMul, Yongde	18	U+0035 U+0024
 35	³⁵	mat.35 ṭəj.43, nhej.35 la.33	Je, Khang, ThoMon, Bugan, Khamet, Mane, Malieng, KxinhMul, Pangpin, Mang	18	U+0033 U+0035
 L	NULL	biʔ.L ...oh.L, < MALAY	Rengao, Hre, Didra, JahHut, Jeh, Juang, BruVK	17	U+004c
-	ɸ	tuək, hitɨj	Nancawri, Vietnamese, Je, Panong, KorCua	17	U+f301
+	́		tuək, hitɨj	Nancawri, Vietnamese, Je, Panong, KorCua	17	U+f301
 ^e	e	ese, e.55 e.55	Juang, Nancawri, Kharia, Hu, Gantang, Sora, Bugan, Khasi, Parengi, Santali	17	U+005e U+0065
 ṭ	ʈ	hoṭoʔ, goṭoŋ	Juang, Mundari, ThoMon, Malieng, Khmer, Kharia, Bonda, Santali	17	U+1e6d
 î	î	dî mîən, rîə	Iduh, Bit, KSurin	16	U+00ee
@@ -163,7 +163,7 @@ L	NULL	biʔ.L ...oh.L, < MALAY	Rengao, Hre, Didra, JahHut, Jeh, Juang, BruVK	17	
 ó	ó	taŋór, ʔók	Vietnamese, Sora, Nancawri	15	U+00f3
 û	û	plâ gûŋ, kûn kwɛ̂	Iduh, Thavung, KSurin	15	U+00fb
 ^ɔ	ɔ	ɔn=ḍɔr, ɔt.33 theʔ.55	Bonda, Hu, Khamet, MuongKoi, Kharia, Bugan, Car	15	U+005e U+0254
-^č	č	čeŋ.51, čip.55	Gantang, MBunong, Paliu, Pangpin, Mane, Mang	14	U+005e U+010d
+^č	tʃ	čeŋ.51, čip.55	Gantang, MBunong, Paliu, Pangpin, Mane, Mang	14	U+005e U+010d
 'a	a	m'andra, b'aŋsa	Sora, Kharia	14	U+0027 U+0061
 D$	NULL	moj.D, mɔŋ.A pi.D	Kasong, Chong	14	U+0044 U+0024
 ph	pʰ	khuan.55 phɨt.5, phə=phraw.2	Pray, Khamet, Mangan, Hu, Neu, ThavungSo, Korku, Khme, Nyakur	13	U+0070 U+0068
@@ -177,9 +177,9 @@ v	v	ćəl vial, cu-vi	Car, Mang, Veh, Korku, Yongde, Bit, Kadong	13	U+0076
 24	²⁴	muot.24 cuo.33, mʌt.24 kon.33	PhongV, Cuoi, Malieng, Liha	12	U+0032 U+0034
 324$	³²⁴	ʔal.33 ɲɨ.324, mon.324	Khang	12	U+0033 U+0032 U+0034 U+0024
 ^ʒh	dzʰ	ʒhi, ʒhɨ	Pangpin, Khmer, Stieng, Kharia, MRolom, Semai	12	U+005e U+0292 U+0068
-	ɸ	nhie^u, liəh	Arem, Vietnamese	12	U+f300
+	̀		nhie^u, liəh	Arem, Vietnamese	12	U+f300
 ɣ	ɣ	ɣaʔ.55 ɣak.35, a ɣɔŋ.31	Hu, Malieng, Mang, Khamet, Paliu	12	U+0263
-^ćh	ʈsʰ	ćhiaŋ.51, ćhet.33	Mangan, Shuangdiang, Yongde	11	U+005e U+0107 U+0068
+^ćh	tɕʰ	ćhiaŋ.51, ćhet.33	Mangan, Shuangdiang, Yongde	11	U+005e U+0107 U+0068
 y$	y	đầy, mày	Vietnamese, Bonda, MRolom	11	U+0079 U+0024
 ll	ll	palluŋ, kalləŋ.L	Khasi, Taoih, Korku, Pakoh, Sora, Dakkang, Nge	11	U+006c U+006c
 ù	ù	ŋùəj, tlùŋ	Arem, Vietnamese	11	U+00f9
@@ -192,9 +192,9 @@ ll	ll	palluŋ, kalləŋ.L	Khasi, Taoih, Korku, Pakoh, Sora, Dakkang, Nge	11	U+00
 â$	â	hantâ, plâ	Iduh, KSurin, Neu, Katu	11	U+00e2 U+0024
 ầ	ấ	mầt karæŋ, đầy	Arem, Vietnamese	11	U+1ea7
 âh$	â h	tarâh, kapâh	Nancawri, KSurin, BruVK, Veh, LaoKatu	10	U+00e2 U+0068 U+0024
-	ɸ	ɲəʌp.4, lhɛʔ çoʔ	Deang, Iduh, Ruc, Malieng, Tri, Bit	10	U+f306
+	̌		ɲəʌp.4, lhɛʔ çoʔ	Deang, Iduh, Ruc, Malieng, Tri, Bit	10	U+f306
 ^ɣ	ɣ	ɣaʔ.55 ɣak.35, ɣə.33	Hu, Bugan, Malieng, Khamet, Deang, Mang	10	U+005e U+0263
-^čh	čh	čhim.51, čhɔʔ.55	Pangpin, Gantang, Mane	10	U+005e U+010d U+0068
+^čh	tʃʰ	čhim.51, čhɔʔ.55	Pangpin, Gantang, Mane	10	U+005e U+010d U+0068
 á$	á	ará, wá	Nancawri, Vietnamese, Sora	10	U+00e1 U+0024
 =s	+ s	saŋ=saŋ, sumu=siŋ	Bonda, Juang, Sora, Parengi	10	U+003d U+0073
 ^gh	gʰ	ghaəɲ, ghɔʔ.55	Shuangdiang, Korku, Pangpin, Stieng, Khmer	10	U+005e U+0067 U+0068
@@ -215,7 +215,7 @@ U	u	uthUk, ulUk	Arem, Deang, Malieng	9	U+0055
 mm	mm	təmmɛ, həmmeʔ	Iduh, Pakoh, Sora, Khmu, Khasi, Bit, Taoih, Nge	9	U+006d U+006d
 ^ɛ	ɛ	ɛl-vaŋ, ɛl-mɛh	Khamet, Car, Rumai, Mak, Tri	8	U+005e U+025b
 ö	ö	blaʔög, hö.35	Mang, Nancawri, Temiar, Liha	8	U+00f6
-	<?>	gəndŋ, ʔidŋ	Bit, Cuoi, ChongH, Kantu	8	U+f1e4
+	ä	gəndŋ, ʔidŋ	Bit, Cuoi, ChongH, Kantu	8	U+f1e4
 ĩ	ĩ	kəlwĩl, tĩah	Nancawri, Jahai, Bugan, Didra, Hre	8	U+0129
 22$	<?>	ləm.22, kəhnɛj.22	Malieng, KhaPhong, Je	8	U+0032 U+0032 U+0024
 ^bh	bh	bhənɛk, bhliəŋ	Khmer, Guanshuang, Kharia, Semai, Pangpin	8	U+005e U+0062 U+0068
@@ -227,11 +227,11 @@ mm	mm	təmmɛ, həmmeʔ	Iduh, Pakoh, Sora, Khmu, Khasi, Bit, Taoih, Nge	9	U+006d
 ^kw	kʷ	kwa, kwaŋ	JahHut, MDip, ThoMon, Je, Nhaheun, Kadong, Hadang	7	U+005e U+006b U+0077
 0	NULL	kəl.0 khlaŋ.33, ka.0 a.33	Hu, Tuum, Rumai, PhongV	7	U+0030
 2	NULL	si.2 kiat.2, al.2 miʔ.2	Guanshuang, MuongKoi, ThavungSo	7	U+0032
-âw$	âw	batâw, haŋgâw	Iduh	7	U+00e2 U+0077 U+0024
+âw$	â w	batâw, haŋgâw	Iduh	7	U+00e2 U+0077 U+0024
 ^ɫ	lˠ	ɫai.53 mat.31, ɫin.53	Paliu, Liha	7	U+005e U+026b
 ă	ă	kloŋ.43 măt.31, m blăm	Vietnamese, Deang, Liha	7	U+0103
 é	é	kajéd, baléŋ	Sora, Nancawri	7	U+00e9
-^cw	cw	cwaŋ, cwa	Kadong, JahHut, KorCua, Chrau, Panong, Hadang	7	U+005e U+0063 U+0077
+^cw	cʷ	cwaŋ, cwa	Kadong, JahHut, KorCua, Chrau, Panong, Hadang	7	U+005e U+0063 U+0077
 11	¹¹	lam.11 khɔʔ.53, səʔ.11 ɣɔn.33	Paliu, Hu, Khamet, Shuangdiang	7	U+0031 U+0031
 rh	rʰ	pərhe, pərhi	Ruc, Stieng, Chrau, Sre, Nge	7	U+0072 U+0068
 ə̂	ə̂	lə̂ŋ, mə̂h	KSurin, LaoKatu	7	U+0259 U+0302
@@ -246,27 +246,27 @@ N	NULL	kəal.N pahəm.N, kuj.N thol.B	Kui, Mundari, BruVK, Khmer	6	U+004e
 ^š	š	šeŋ.51, šɔr.51	Gantang, Pangpin	6	U+005e U+0161
 ns	ns	hɨnsaj.33, hansɛm.B	KxinhMul, Sora, Kharia, Ong	6	U+006e U+0073
 ^ɟ	ɟ	ɟuh, ɟʌŋ	Hu, Jru	6	U+005e U+025f
-ć	ć	tɔp.53 ćeŋ.31, sɨŋ.55 ćan.31	Khamet, Shuangdiang, Khme, Yongde, Plang	6	U+0107
-^nn	nn	nnujh, nniah	Nhaheun, Pakoh, Taoih, Ong	5	U+005e U+006e U+006e
+ć	tɕ	tɔp.53 ćeŋ.31, sɨŋ.55 ćan.31	Khamet, Shuangdiang, Khme, Yongde, Plang	6	U+0107
+^nn	ŋ	nnujh, nniah	Nhaheun, Pakoh, Taoih, Ong	5	U+005e U+006e U+006e
 gh	gh	mogher, khuə.51 ghɔ.51	Vietnamese, Shuangdiang, Khme, Kharia, Pangpin	5	U+0067 U+0068
 'h	h	m'ham, m'hal	MDip	5	U+0027 U+0068
-lh$	lh	ʔulh, pənulh	Dakkang, Mlabri	5	U+006c U+0068 U+0024
+lh$	lʰ	ʔulh, pənulh	Dakkang, Mlabri	5	U+006c U+0068 U+0024
 ^q	q	qa.55 li.11, qai.55	Paliu	5	U+005e U+0071
 F$	NULL	lajʔ.F, ciŋ.F	Thavung	5	U+0046 U+0024
 ɦw	ɦw	cɦwɔk, kɦwɔr	Arak	5	U+0266 U+0077
 4	NULL	məʌt.4 pləi.2, kuluok.4 təkol.	Ruc, Mane, MuongKoi	5	U+0034
 ɲʒ	ɲʒ	aɲʒum, koleɲʒa	Korku, Jahai, Semai	5	U+0272 U+0292
 à	à	mày, này	Vietnamese	5	U+00e0
-^sw	sw	swaʔ, sweh	Ma2, Pray, SemoqBeri	4	U+005e U+0073 U+0077
+^sw	s w	swaʔ, sweh	Ma2, Pray, SemoqBeri	4	U+005e U+0073 U+0077
 ŋs	ŋs	pəŋsɛŋ, b'aŋsa	Jahai, Neu, Bru, Sora	4	U+014b U+0073
-^mw	mw	mwaj, mwõh	Kadong, Mon, MDip, Kensiw	4	U+005e U+006d U+0077
+^mw	m w	mwaj, mwõh	Kadong, Mon, MDip, Kensiw	4	U+005e U+006d U+0077
 rr	r	karrias.T, 'ar-re	Sora, Pakoh, Taoih	4	U+0072 U+0072
-	ɸ	cʔ, ct	Arem	4	U+f131
-ćh	ćh	pa.31 ćhep.33, phih.31 ćhat.1	Mangan, Yongde	4	U+0107 U+0068
+	ɪ	cʔ, ct	Arem	4	U+f131
+ćh	tɕʰ	pa.31 ćhep.33, phih.31 ćhat.1	Mangan, Yongde	4	U+0107 U+0068
 'i	i	sh'ieŋ, or'iŋ	Parengi, Khasi, Sora	4	U+0027 U+0069
 'u	u	ar'uʔm, gog=ʒ'uŋ	Sora, Kharia, Parengi	4	U+0027 U+0075
 1	NULL	tuh.1-trus.1, n.1 dau.53	Nyakur, Guanshuang, ThavungSo, Paliu	4	U+0031
-^nw	nw	nwɔ, nwəŋ	JahHut, Hadang, Nhaheun	4	U+005e U+006e U+0077
+^nw	n w	nwɔ, nwəŋ	JahHut, Hadang, Nhaheun	4	U+005e U+006e U+0077
 q	q	ce.31 pau.31 qu, se.T.55 qou.33	Bugan, Paliu	4	U+0071
 41	⁴¹	djaŋ.41ʔ, kuhɔj.41ʔ	Malieng	4	U+0034 U+0031
 ^jh	dʒʰ	jhuk.35, jhak.1	Wa, Guanshuang, Mane	4	U+005e U+006a U+0068
@@ -276,7 +276,7 @@ q	q	ce.31 pau.31 qu, se.T.55 qou.33	Bugan, Paliu	4	U+0071
 ɛ̂$	ɛ̂	kûn kwɛ̂, ʔɛ̂	Iduh	4	U+025b U+0302 U+0024
 ^R	r̥	Rən, Rə-ŋə	Car	4	U+005e U+0052
 ɔ̆	ɔ̆	blɔ̆ ʔ, tɔ̆ ʔ	Deang, Thavung, Bit	4	U+0254 U+0306
-	ɸ	l.51, j.31 ɲiɛ.51	Mang, Nancawri	4	U+f1fc
+	ü	l.51, j.31 ɲiɛ.51	Mang, Nancawri	4	U+f1fc
 ^pw	pʷ	pwak, pwac	Hadang, Kadong, MDip	4	U+005e U+0070 U+0077
 5	NULL	mat.5 tləj.1, mat.5 tlaŋ.2	MuongKoi	4	U+0035
 424$	⁴²⁴	kɔo.424, cəw.424	Liha, Je, Cuoi	4	U+0034 U+0032 U+0034 U+0024
@@ -303,27 +303,27 @@ ms	ms	tamsoŋ, timsoŋ	Bit, Kharia	3	U+006d U+0073
 û$	û	mû, hammû	Iduh	3	U+00fb U+0024
 š	š	khik.55 šak.55, tšòh	Gantang, Arem	3	U+0161
 ^S	ʃ	So	Ma2, Tempuan	3	U+005e U+0053
-č	č	ŋai.35 čak.31, ʔa.31 čɔ.35	Pangpin, Mang, Paliu	3	U+010d
+č	tʃ	ŋai.35 čak.31, ʔa.31 čɔ.35	Pangpin, Mang, Paliu	3	U+010d
 ^ṣ	ṣ	ṣɔk.51, ṣaŋ.51	Shuangdiang	3	U+005e U+1e63
 ấ	ấ	đất, thấy	Vietnamese	3	U+1ea5
 ^'a	a	'ar-re, 'amən	Sora	3	U+005e U+0027 U+0061
 ùh$	ùh	mùh, kùh	Arem	3	U+00f9 U+0068 U+0024
-ʔw	ʔw	kaʔwej, meʔw.B	Tempuan, Didra, ChongH	3	U+0294 U+0077
+ʔw	ˤw	kaʔwej, meʔw.B	Tempuan, Didra, ChongH	3	U+0294 U+0077
 ^ʒ́	ʒ́	ʒ́ân.51, ʒ́iak.31 c̣am.3	Rumai, Shuangdiang	3	U+005e U+0292 U+0301
 ʌ$	ʌ	ci ɲʌ, cʌ	Tri, Arem, Mlabri	3	U+028c U+0024
-^ʔw	ʔw	ʔwaj, ʔwej.T	Rengao, Didra, MBunong	3	U+005e U+0294 U+0077
-	<?>	ɔn=ḍɔr, môt	Kharia, Vietnamese	3	U+f323
-	<?>	lɨaɨ.51ʔ, tɨaŋ.33 ʔəc.	Malieng, Thavung	3	U+f32f
+^ʔw	ˤw	ʔwaj, ʔwej.T	Rengao, Didra, MBunong	3	U+005e U+0294 U+0077
+	̩		ɔn=ḍɔr, môt	Kharia, Vietnamese	3	U+f323
+	̯		lɨaɨ.51ʔ, tɨaŋ.33 ʔəc.	Malieng, Thavung	3	U+f32f
 E$	NULL	kha.E, klaw.E	Kasong	3	U+0045 U+0024
 3	NULL	ko.3 laj.5, aŋ.3 kha.3	MuongKoi	3	U+0033
-čh	čh	khik.55 čhak.55, pat.55 čhə.55	Pangpin, Gantang	3	U+010d U+0068
-$	<?>	gi, sajt	Vietnamese, Arem, So	3	U+f300 U+0024
+čh	tʃʰ	khik.55 čhak.55, pat.55 čhə.55	Pangpin, Gantang	3	U+010d U+0068
+$	NULL	gi, sajt	Vietnamese, Arem, So	3	U+f300 U+0024
 434	⁴³⁴	karaŋ.434ʔ, poŋ.434 kaŋ.5	KhaPhong, ThoMon, Malieng	3	U+0034 U+0033 U+0034
 ũ$	ũ	mũ, sũ	Bonda, Santali, Mundari	3	U+0169 U+0024
 ^rw	rʷ	rwaŋ, rwɨl	Stieng, MBunong, MDip	3	U+005e U+0072 U+0077
-^M	<?>	Mon, Mak	Khmu, Car, Ong	3	U+005e U+004d
+^M	M	Mon, Mak	Khmu, Car, Ong	3	U+005e U+004d
 ^ɲh	ɲh	ɲhuʔ, ɲhuk	Sre, MBunong, KahoChil	3	U+005e U+0272 U+0068
-mw	mw	sʌdn mwãʔ, səmwɛj	Jahai, Kensiw	2	U+006d U+0077
+mw	m w	sʌdn mwãʔ, səmwɛj	Jahai, Kensiw	2	U+006d U+0077
 ^c̣	c̣	c̣am.33 kauk.31	Shuangdiang, Plang	2	U+005e U+0063 U+0323
 ŋh	ŋh	gŋhəl, ʔəŋhaŋ	Semai, Kantu	2	U+014b U+0068
 ^'u	u	'usa	Bonda	2	U+005e U+0027 U+0075
@@ -357,21 +357,21 @@ nʒ	nʒ	hənʒadn, kynʒat	Khasi, Kensiw	2	U+006e U+0292
 =ʒ	+ ʒ	gog=ʒ'uŋ, padoi=ʒiɲ	Kharia, Juang	2	U+003d U+0292
 ^i$	i	i	Kharia, Korku	2	U+005e U+0069 U+0024
 ^ɔ$	ɔ	ɔ	Tri, Mak	2	U+005e U+0254 U+0024
-$	<?>	th, h	Arem	2	U+f131 U+0024
+$	ɪ	th, h	Arem	2	U+f131 U+0024
 ə́$	ə́	kə́, ŋə́	Nancawri, Hadang	2	U+0259 U+0301 U+0024
 F	NULL	huə.F cai.A, tuh.F caj.A	Samre, Kasong	2	U+0046
 c̣h	c̣h	khik.33 c̣hak.3	Shuangdiang	2	U+0063 U+0323 U+0068
 x	x	khxaʔ.35, -khxoŋ.31	Mane	2	U+0078
 ^ɨ	ɨ	ɨi.51, ɨŋ.55	Mangan	2	U+005e U+0268
-$	<?>	kaji, ʔati	Nancawri	2	U+f301 U+0024
+$	í	kaji, ʔati	Nancawri	2	U+f301 U+0024
 ɛ́$	ɛ́	ŋɛ́, kahɛ́	Nancawri	2	U+025b U+0301 U+0024
 ɨ̂	ɨ̂	nɨ̂h, cɨ̂ŋ	LaoKatu, Arem	2	U+0268 U+0302
-^	<?>	aŋ.3, əw.33ʔ	Ruc, KhaPhong	2	U+005e U+f1df
+^	β	aŋ.3, əw.33ʔ	Ruc, KhaPhong	2	U+005e U+f1df
 ṛ$	r	kaṛ, hoṛ	Santali, Kharia	2	U+1e5b U+0024
 'a$	a	mu'a, pat'a	Vietnamese, Kharia	2	U+0027 U+0061 U+0024
 ^y	y	yiah, yar kmi	Phong, Nancawri	2	U+005e U+0079
 h$	<?>	amɨh, rih	Arem	2	U+f300 U+0068 U+0024
-nw	nw	hnwaŋ ʒek	Hadang	2	U+006e U+0077
+nw	n w	hnwaŋ ʒek	Hadang	2	U+006e U+0077
 ^â	â	âk, âk.55	Tri, Rumai	2	U+005e U+00e2
 ʔh	ʔh	mit ʔhəj, haʔhəʔ.B	Jahai, Thavung	2	U+0294 U+0068
 ặ	ǎ	mặt trò'i	Vietnamese	2	U+1eb7
@@ -391,7 +391,7 @@ rs	rs	tyrsim	Khasi	1	U+0072 U+0073
 ^pp	pp	ppûəʔ	KSurin	1	U+005e U+0070 U+0070
 	<?>	dk-ta	Nancawri	1	U+f430
 ^	<?>	lɛt ʒet beh	Ma2	1	U+005e U+f30c
-sw	sw	kaswa	Panong	1	U+0073 U+0077
+sw	s + w	kaswa	Panong	1	U+0073 U+0077
 54$	⁵⁴	ʔuk.54	KxinhMul	1	U+0035 U+0034 U+0024
 ^ʯ	ʯ	ʯɨp.33	Mane	1	U+005e U+02af
 ^ŋ$	ŋ	ŋ	Hre	1	U+005e U+014b U+0024
@@ -405,16 +405,16 @@ sw	sw	kaswa	Panong	1	U+0073 U+0077
 ^ii	iː	iil	Mundari	1	U+005e U+0069 U+0069
 ēh	ēh	hēh-haŋa	Nancawri	1	U+0113 U+0068
 15	¹⁵	kadaŋ.15 ciŋ.3	Malieng	1	U+0031 U+0035
-ć$	ć	ʔa.31 kut.33 ć	Khme	1	U+0107 U+0024
+ć$	tɕ	ʔa.31 kut.33 ć	Khme	1	U+0107 U+0024
 ks	ks	tiksuŋ	Bonda	1	U+006b U+0073
 ^p$	p	p	Pakoh	1	U+005e U+0070 U+0024
 sh$	sh	posh	Nancawri	1	U+0073 U+0068 U+0024
 h$	<?>	dɛh	Deang	1	U+f306 U+0068 U+0024
 ^o$	o	o	Korku	1	U+005e U+006f U+0024
 ɲh	ɲh	təlir ɲhək	Sre	1	U+0272 U+0068
-îw$	îw	khîw	KSurin	1	U+00ee U+0077 U+0024
+îw$	î w	khîw	KSurin	1	U+00ee U+0077 U+0024
 52	⁵²	kəi.52ʔ	Malieng	1	U+0035 U+0032
-éh$	éh	jéh	Nancawri	1	U+00e9 U+0068 U+0024
+éh$	é h	jéh	Nancawri	1	U+00e9 U+0068 U+0024
 ^ḷ	l̩	ḷɨ	Khmer	1	U+005e U+1e37
 c̣	c̣	ʒ́iak.31 c̣am.3	Shuangdiang	1	U+0063 U+0323
 O	o	tanOʔ	Kensiw	1	U+004f

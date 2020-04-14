@@ -11,14 +11,14 @@
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Classification of Austro-Asiatic Languages",
+    "dc:title": "CLDF dataset derived from Peiros' \"Genetic classification of Austro-Asiatic languages\" from 2004",
     "dcat:accessURL": "https://github.com/lexibank/peirosaustroasiatic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/peirosaustroasiatic",
-            "dc:created": "53b619b"
+            "dc:created": "4c3b625"
         },
         {
             "rdf:type": "prov:Entity",
