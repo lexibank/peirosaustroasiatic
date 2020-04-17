@@ -1,9 +1,8 @@
 Grapheme	IPA	SCA	FREQUENCY	EXAMPLES
-^	NULL		13	-ju.B.1;ǯᵻʔ;ľɛt ʒet beh;ɡiết;ɗâu ɡɸ́i
-$	NULL		46	plä³³;ʔyk-;gei-;ga-;par.N.
+^	NULL		9740	lɛʔ;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc;dɨŋ ndə
+$	NULL		8477	lɛʔ;lɛʔ lawʌn;lɛ mət;dɨŋ ndə;thuj
 ^$	NULL		1	me^
-'	NULL		2	mo'~;lu'o'~i
-*	NULL		0	
+'	NULL		54	'usa;por'iʔn;m'ham;m'iɲam;sh'ieŋ
 .	NULL		4734	diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.T daŋ.L;diʔ.L dəgŋ.L;diʔ.L dəgŋ.L
 0	NULL		7	ka.0 aŋ.33;haɨk.0 sim.A;a.0 plau.55;kul.0 kul.44;kəl.0 khlaŋ.33
 1	NULL		4	n.1 dau.53;al.1 ŋoŋ.1;tuh.1-trus.1;ʔasu.1 mus.1
@@ -11,7 +10,6 @@ $	NULL		46	plä³³;ʔyk-;gei-;ga-;par.N.
 3	NULL		3	ko.3 laj.5;aŋ.3 kha.3;mɔŋ.3 khɔj.3
 4	NULL		5	kuj.4 cal.3;kuluok.4 təkol.;lul.4 liel.1;məʌt.4 pləi.2;məʌt.4 pləi.2
 5	NULL		4	mat.5 tlaŋ.2;mat.5 tləj.1;mat.5 tləj.1;mu.5 za.5
-<	NULL		0	
 A	NULL		33	ʔəjʔ.A sɔŋ.A;khɔm.A ʔuik.A;ʔic.A ek.B;ʔic.A ek.C;ʔic.A jur.B
 B	NULL		26	taŋ.B at.A;-ju.B.1;hluʔ.B.2;tût.B kuih.B;pai.B ʔɔm
 C	NULL		9	thaŋ.C at.A;thaŋ.C at.A;krɨŋ.C lɛŋ.C;kon.C.1;phic.C lak.C
@@ -21,15 +19,15 @@ L	NULL		15	diʔ.L dɔŋ;diʔ.L dəgŋ.L;diʔ.L dɔŋ;diʔ.L dəgŋ.L;sak.L cim.L
 N	NULL		7	ceNe;par.N.;kəal.N pahəm.N;kuj.N thol.B;caNḍuʔ
 T	NULL		38	diʔ.T daŋ.L;niʔ.T najh.T;khɔŋ.T.13;diʔ.T daŋ.L;se.T.31
 c	NULL		258	toc ʔŋiaʔ;rɔc.33;ɣuəc.33;krɨjc.A;ʔacim
-r	NULL		653	lɛʔ rŋoc;həre luk;səbəroh;nahroh;baroh
 ~	NULL		5	sədə~c;ʔɨ~ɲ;ta-mɨ~-jə;t=ə~h;lu'o'~i
 ¹	NULL		1	kacǐt¹
-̣	NULL		0	
+̣	NULL		1	ʒ̣rik.33
 '$	NULL		2	pəntaw';luŋ tabu'
+-$	NULL		15	ʔyk-;gei-;ga-;kek-;oŋ-
 1$	NULL		200	hɨt.1;uik.1;əik.1;pətiɲ.1;-ju.B.1
 2$	NULL		143	thaŋ.2;katun bun.2;ɲɔʔ.2;da.2;hluʔ.B.2
-3$	NULL		85	hit.3;kaɲ.3;maw.3;mem.3;tuc.3
-4$	NULL		17	ka.4;kəʔtəl.4;kəʌm.4;nɔj.4;jəm.4
+3$	NULL		88	hit.3;kaɲ.3;maw.3;mem.3;tuc.3
+4$	NULL		18	ka.4;kəʔtəl.4;kəʌm.4;nɔj.4;jəm.4
 5$	NULL		18	tloŋ.5;leɲ.5;mat.5;mah.5;ʔɲeit.31 ćo.5
 A$	NULL		284	ʔəjʔ.A sɔŋ.A;taŋ.B at.A;thaŋ.C at.A;thaŋ.C at.A;khɔm.A ʔuik.A
 B$	NULL		255	chim.B;bɔh.B;pɔh.B;bun.B;mpuaʔ.B
@@ -40,483 +38,279 @@ F$	NULL		5	lajʔ.F;ciŋ.F;nam loɔŋ.F;taʔma.F;tiɲ.F
 L$	NULL		241	diʔ.T daŋ.L;diʔ.L dəgŋ.L;diʔ.T daŋ.L;diʔ.L dəgŋ.L;blɔ tanuh.L
 N$	NULL		137	phâʔ.N;bâh.N;cɛm.N;cɛm.N;kap.N
 T$	NULL		212	tum.T;niʔ.T najh.T;blo.T;cɔi.T;hmok.T
+^-	NULL		3	-ju.B.1;-khxoŋ.31;-sai.N
 ~$	NULL		4	tawr~;mo'~;re^~;gar~
 ??$	NULL		1	geh E??
 4524$	NULL		1	hal.4524
-^a$	a	A	1	a
-^ɛ$	ɛ	E	2	ɛ;ɛ
-^i$	i	I	2	i;i
-^ŋ$	ŋ	N	1	ŋ
-^p$	p	P	1	p
-^o$	o	U	1	o
-^ɔ$	ɔ	U	2	ɔ;ɔ
-^u$	u	Y	1	u
 ^ɲаɨ.31$	ɲ aɨ ³¹	N A 3	1	ɲаɨ.31
-11	¹¹	1	7	lɔ.11 čjai.55;lɔ.11 ʔɔ.51;lam.11 khɔʔ.53;səʔ.11 ɣiŋ.55;lɔ.11 lim.31
-22	²²	1	2	mat.22 atak.13;mɛŋ.22ʔ
-²²	²²	1	1	tĕɲ²²
-11$	¹¹	1	16	qa.55 li.11;lat.11;laʔ.53 sok.11;na.11;ni.11
-22$	²²	1	7	tɛn.22;pəɨ.22;mɨc.22;lam.22;ləm.22
-13	¹³	2	10	cɔ.13ʔ;mʌt.13 atak.1;aka.13ʔ;si.13ʔ;ŋit.13 cɨŋ.33
-14	¹⁴	2	2	ʔo.14ʔ;ŋit.14 ṭok.14
-15	¹⁵	2	1	kadaŋ.15 ciŋ.3
-23	²³	2	2	usok.23 ʔo.51ʔ;ta.23ʔ
-24	²⁴	2	12	tapɛ.24 tɛn.44;kɔn.24 plal.2;ki.24 ko.44;nɔ.24 mɛn.42;mâ.24ʔ
-34	³⁴	2	12	ka.34 het.34;ṭoŋ.34ʔ;baw.34ʔ;pu.34ʔ;sok.34 cim.33
-35	³⁵	2	18	ŋat.35 ka.43;sɔk.35 cɛp.31;ta.T.35 ti.55;nhej.35 la.33;ŋai.35 čak.31
-45	⁴⁵	2	4	kɛn.45 mat.45;khaj.45 maə.21;cuʔ.45 meŋ.44;cuʔ.45 meŋ.44
-²⁴	²⁴	2	1	mŭh²⁴
-³⁴	³⁴	2	1	nä³⁴
-13$	¹³	2	45	khɔŋ.T.13;pak.13;thau.13;a çim.13;ʔa.31 sim.13
-14$	¹⁴	2	9	teŋ.14;kicet.14;thot.14;kulok.14;ŋit.14 ṭok.14
-15$	¹⁵	2	9	zet.15;lha.15;ʔu.31 khot.15;hɔt.15;khɔ.15
-23$	²³	2	2	kasam.23;kadaŋ.23
-24$	²⁴	2	60	buɲ.24;cim.24;siaŋ.24;kum.24;kəsam.24
-34$	³⁴	2	34	ka.34 het.34;dul.34;kat.34;sam.34;mau.34
-35$	³⁵	2	194	plaŋ.51 plöʔ.35;ko.35;dɔ.31 hɔ.35;klak.35;mi.35
-45$	⁴⁵	2	76	vien.45;buɲ.45;bɔh.45;ʔe.45;dɔh.45
-21	²¹	3	10	til.21 ŋɛ.24;lɛm.21 sɛm.44;nam.21 tem.24;bia.21 taem.45;ki.21 nɔʔ.45
-31	³¹	3	174	tɨŋ.31 pɨt.33;ho.31 lɛn.51;taŋ.31 ʔəik.51;taŋ.31 ʔəik.51;bə.31 jɨa.553
-32	³²	3	8	tak.32 ʔɨŋ.45;muəŋ.32 suəŋ.45;kɔ.32 pɔl.32;muəŋ.32 suəŋ.45;hɛt.32 siən.33
-41	⁴¹	3	4	djaŋ.41ʔ;bəj.41ʔ;kuhɔj.41ʔ;kɛ.41ʔ nti.44
-43	⁴³	3	12	bɔn.43 bɔn.33;kloŋ.43 mat.31;kloŋ.43 măt.31;loŋ.43 cim.43;kəi.43ʔ
-51	⁵¹	3	36	plaŋ.51 plöʔ.35;gu.51 si.31;gu.51 si.31;gu.51 khlək.33;ki.51ʔ
-52	⁵²	3	1	kəi.52ʔ
-53	⁵³	3	14	laʔ.53 sok.11;ɫai.53 mat.31;saʔ.53 ŋai.31;suk.53 khiŋ.55;sak.53 nɔh.33
-³¹	³¹	3	3	ha⁵⁵ ɔn³¹ tcü;túk³¹;jü³¹ ɲiɛ⁵¹
-⁵¹	⁵¹	3	4	ŋ⁵⁵ mü⁵¹;lü⁵¹;jü³¹ ɲiɛ⁵¹;lᵻ̯aᵻ⁵¹ʔ
-21$	²¹	3	41	ka.44 het.21;kluŋ.21;kloŋ.21;ne.21;ni.21
-31$	³¹	3	256	mɔj.31;c̣am.33 kauk.31;se.T.31;gu.51 si.31;gu.51 si.31
-32$	³²	3	9	ʔan.32;laŋ.32;kɔ.32 pɔl.32;ce.32;pəlɨʌŋ.32
-41$	⁴¹	3	6	gâk.55 hâi.41;mən.41;la.41;sot.41;piet.41
+11	¹¹	1	23	qa.55 li.11;lat.11;lɔ.11 čjai.55;laʔ.53 sok.11;na.11
+22	²²	1	10	tɛn.22;mat.22 atak.13;pəɨ.22;mɛŋ.22ʔ;mɨc.22
+13	¹³	2	55	khɔŋ.T.13;pak.13;thau.13;a çim.13;ʔa.31 sim.13
+14	¹⁴	2	11	ʔo.14ʔ;teŋ.14;kicet.14;thot.14;kulok.14
+15	¹⁵	2	10	zet.15;kadaŋ.15 ciŋ.3;lha.15;ʔu.31 khot.15;hɔt.15
+23	²³	2	4	kasam.23;usok.23 ʔo.51ʔ;kadaŋ.23;ta.23ʔ
+24	²⁴	2	73	buɲ.24;tapɛ.24 tɛn.44;cim.24;siaŋ.24;kum.24
+34	³⁴	2	49	ka.34 het.34;ka.34 het.34;dul.34;ṭoŋ.34ʔ;baw.34ʔ
+35	³⁵	2	212	plaŋ.51 plöʔ.35;ko.35;dɔ.31 hɔ.35;klak.35;mi.35
+45	⁴⁵	2	80	vien.45;buɲ.45;bɔh.45;ʔe.45;dɔh.45
+21	²¹	3	51	ka.44 het.21;kluŋ.21;kloŋ.21;ne.21;ni.21
+31	³¹	3	433	mɔj.31;tɨŋ.31 pɨt.33;c̣am.33 kauk.31;ho.31 lɛn.51;taŋ.31 ʔəik.51
+32	³²	3	17	ʔan.32;laŋ.32;tak.32 ʔɨŋ.45;muəŋ.32 suəŋ.45;kɔ.32 pɔl.32
+41	⁴¹	3	10	gâk.55 hâi.41;mən.41;djaŋ.41ʔ;la.41;sot.41
+43	⁴³	3	78	bɔn.43 bɔn.33;pɔoŋ.43;ta.43;cim.43;kat.43
+51	⁵¹	3	373	plaŋ.51 plöʔ.35;ho.31 lɛn.51;taŋ.31 ʔəik.51;taŋ.31 ʔəik.51;gu.51 si.31
+53	⁵³	3	86	ŋɛʔ.53;ŋiʔ.53;puŋ.31 jhi.53;san.53;kak.53
 42$	⁴²	3	21	mɛl.42;laj.42;ʔot.42;kuc.42;mɛŋ.42
-43$	⁴³	3	66	pɔoŋ.43;ta.43;cim.43;kat.43;ŋat.35 ka.43
-51$	⁵¹	3	333	ho.31 lɛn.51;taŋ.31 ʔəik.51;taŋ.31 ʔəik.51;si.55 khruak.51;mak.31 kian.51
 52$	⁵³	3	1	hat.52
-53$	⁵³	3	72	ŋɛʔ.53;ŋiʔ.53;puŋ.31 jhi.53;san.53;kak.53
 54$	⁵⁴	3	1	ʔuk.54
-33	³³	4	130	bal.33 haj.33;c̣am.33 kauk.31;ćhaŋ.33 kɔk.33;pɔt.33 lu.33 ŋa;pɔt.33 lu.33 ŋa
-³³	³³	4	4	plä³³;bə́l³³;tᵻ̯aŋ³³ ʔəc;βəw³³ʔ
-33$	³³	4	510	bal.33 haj.33;suon.33;tu.33;tɨŋ.31 pɨt.33;ćhaŋ.33 kɔk.33
-44	⁴⁴	5	7	ka.44 het.21;pat.44 sai.24;khla.44 ne.42;mat.44 pləj.21;mat.44 pləj.21
-55	⁵⁵	5	81	pa.55 pɛ.55 mɛh;pa.55 pɛ.55 mɛh;kə.55 faŋ.412;si.55 khruak.51;gâk.55 hâi.41
-⁵⁵	⁵⁵	5	2	ha⁵⁵ ɔn³¹ tcü;ŋ⁵⁵ mü⁵¹
-44$	⁴⁴	5	44	tapɛ.24 tɛn.44;pɔŋ.44;kliaŋ.44;sam.44;nu.44
-55$	⁵⁵	5	289	mbei.55;ɲi.55;a.33 niʔ.55;mbuŋ.55;buŋ.55
-³	³	6	1	βaŋ³
-⁴	⁴	6	1	ɲəʌ̆p⁴
-212	²¹²	6	3	ka.212 het.212;lɛm.212 sɛm.2;nɔ.212 mɛn.212
-243	²⁴³	6	7	nam.243ʔ cɔŋ.3;kɔ.243ʔ;taŋ.243ʔ;ŋoj.243ʔ;tɔj.243ʔ tɔj.
-343	³⁴³	6	28	mɔj.343ʔ;kan.343ʔ;zəm.343ʔ;maw.343ʔ;mɔŋ.343ʔ
-412	⁴¹²	6	1	mân.412 ɛm.51
-424	⁴²⁴	6	1	pa.424 cet.24
-434	⁴³⁴	6	3	poŋ.434 kaŋ.5;karaŋ.434ʔ;ʔə.434 cɨə.43
-³⁴³	³⁴³	6	1	pä³⁴³ʔ
-212$	²¹²	6	30	ka.212 het.212;kat.212;sam.212;nəw.212;naŋ.212
+52ʔ$	⁵²ʔ/⁵²	3	1	kəi.52ʔ
+33	³³	4	644	bal.33 haj.33;bal.33 haj.33;suon.33;tu.33;tɨŋ.31 pɨt.33
+44	⁴⁴	5	51	ka.44 het.21;tapɛ.24 tɛn.44;pɔŋ.44;kliaŋ.44;sam.44
+55	⁵⁵	5	372	pa.55 pɛ.55 mɛh;pa.55 pɛ.55 mɛh;mbei.55;ɲi.55;a.33 niʔ.55
+212	²¹²	6	33	ka.212 het.212;ka.212 het.212;kat.212;sam.212;nəw.212
+412	⁴¹²	6	34	kə.55 faŋ.412;diaŋ.412;sim.412;nham.412;kə.55 aŋ.412
+424	⁴²⁴	6	5	pa.424 cet.24;kɔo.424;cəw.424;khʌj.424;ta.424
+434	⁴³⁴	6	36	zəm.434;cʌŋ.434;to.434;nou.434;mə.434
 213$	²¹³	6	1	mət.213
 224$	²²⁴	6	1	bən.224
+243ʔ	²⁴³ˀ/²⁴³	6	7	nam.243ʔ cɔŋ.3;kɔ.243ʔ;taŋ.243ʔ;ŋoj.243ʔ;tɔj.243ʔ tɔj.
 324$	³²⁴	6	12	la.324;tol.324;ʔal.33 ɲɨ.324;tiək.35 loŋ.324;po.324
-343$	³⁴³	6	2	kaŋ.343;maŋ.43 thəi.343
-412$	⁴¹²	6	33	kə.55 faŋ.412;diaŋ.412;sim.412;nham.412;kə.55 aŋ.412
-424$	⁴²⁴	6	4	kɔo.424;cəw.424;khʌj.424;ta.424
-434$	⁴³⁴	6	33	zəm.434;cʌŋ.434;to.434;nou.434;mə.434
+343ʔ	³⁴³ˀ/³⁴³	6	29	mɔj.343ʔ;pä343ʔ;kan.343ʔ;zəm.343ʔ;maw.343ʔ
 545$	⁵⁴⁵	6	1	ŋuəc.545
 553$	⁵⁵³	6	1	bə.31 jɨa.553
-a	a	A	4031	lɛʔ lawʌn;ʒəh ʔalaʔ;ʒəh ʔalaʔ;kaluh;diʔ.T daŋ.L
-à	à	A	5	dài;đàn ông;này;mày;đàn bà
-á	á	A	35	jága;máu;əʒáŋ;tuáh;kisuáh
-â	â	A	109	tâŋ ʔâh;phâʔ.N;phâʔ;smâʔ;kâʔ.A
-ã	ã	A	9	sʌdn mwãʔ;jã.T.13;ʔãm;ʔihãʔ;hãɲ
-ä	ä/a	A	9	plä³³;pä³⁴³ʔ;kän;ʔidäŋ;khläʔŋ.A
+a	a	A	4356	lɛʔ lawʌn;ʒəh ʔalaʔ;ʒəh ʔalaʔ;kaluh;diʔ.T daŋ.L
+à	à	A	7	dài;đàn ông;bràs;này;mày
+á	á	A	46	jága;máu;wá;əʒáŋ;tuáh
+â	â	A	140	tâŋ ʔâh;tâŋ ʔâh;phâʔ.N;phâʔ;bâh.N
+ã	ã	A	10	sʌdn mwãʔ;jã.T.13;ʔãm;ʔihãʔ;hãɲ
+ä	ä/a	A	9	plä33;pä343ʔ;kän;ʔidäŋ;khläʔŋ.A
 ā	ā/a	A	2	dāk-ta;hoā
-ă	ă	A	6	jăm;kloŋ.43 măt.31;năp;m blăm;trăng
+ă	ă	A	7	jăm;ăn;kloŋ.43 măt.31;năp;m blăm
 ạ	a	A	1	hạt
-ấ	á	A	3	đất;chấy;thấy
-ầ	á	A	10	mầt;đầy;pầɲ;đầu;ajầmʔ
-ắ	á	A	3	cắn;mắt;trắng
+ấ	ấ/â	A	3	đất;chấy;thấy
+ầ	ầ/â	A	10	mầt;đầy;pầɲ;đầu;ajầmʔ
+ắ	ắ/ă	A	3	cắn;mắt;trắng
 ằ	ằ/ă	A	1	nằm
-ặ	ǎ	A	2	mặt trò'i;mặt trò'i
-'a	a	A	14	ram'aḍ;t'arub;as'ar;k'aṭa;b'aŋsa
-^a	a	A	167	a.33 niʔ.55;akob;adAh;ac;at.55
-^á	á	A	1	ánritid
+ặ	ă	A	2	mặt trò'i;mặt trò'i
 ^â	â/a	A	2	âk;âk.55
-^ă	ă	A	1	ăn
-a$	a	A	290	blwa;plwa;pɔt.33 lu.33 ŋa;'usa;harta
 aa	aː	A	1	mbjaaŋ.53
-à$	à	A	1	đàn bà
-á$	á	A	10	wá;já;cá;ká;cuŋuá
-â$	â	A	11	câ;plâ;kâ;mâ;plâ
-ã$	ã	A	1	ʔã
-'a$	a	A	2	mu'a;pat'a
-^'a	a	A	3	'ar-re;'areŋ;'amən
-f	f	B	6	kəfaŋ;kə.55 faŋ.412;u-fov;kɔk.31 fai.51;orī ŋa fʙh
-v	v	B	13	si von.33;ʔa.31 vam.51;pəŋ.31 val.51;ɛl-vaŋ;ŋã-və
+ai	ai	A	152	pai tǔr;waic;nai.31 khlap.55;vaik;dait
+f	f	B	16	kəfaŋ;kə.55 faŋ.412;fəŋ;fa.13;fa.13
+v	v	B	49	vien.45;voʔ;vaik;vɛʔ;vɔ.55
 ɸ	ɸ	B	1	mɸt
 ʙ	ʙ	B	1	orī ŋa fʙh
-β	β	B	2	βaŋ³;βəw³³ʔ
+β	β	B	2	βaŋ3;βəw33ʔ
 ^V	v	B	1	Vehl
-^f	f	B	10	fəŋ;fa.13;fa.13;fâh;fa.31
-^v	v	B	34	vien.45;voʔ;vaik;vɛʔ;vɔ.55
-v$	v	B	2	u-fov;rɔ-ɔv
 ɸ́	ɸ́/ɸ	B	3	dɸ́t;tɸ́t;ɗâu ɡɸ́i
-ç	ç	C	10	a.33 çim.55;a çim.13;açam.1;lə.33 çok.31;ka.31 çop.51
-ć	tɕ	C	6	ʔɲeit.31 ćo.5;tɔp.53 ćeŋ.31;ćək.31 ćo.33;phi.31 ćoŋ.55;ku.33 ćəʔ.31
-ɟ	ɟ	C	1	ŋɛn ɟap
+ç	ç	C	23	çɛ.33;a.33 çim.55;a çim.13;çip.55;açam.1
+ć	tɕ	C	40	ćem;ćiaʔ;ćiŋʔal;ćeŋ.33;ćeŋ.31
+ɟ	ɟ	C	7	ɟɨŋ;ɟuk.55;ŋɛn ɟap;ɟʌŋ;ɟuh
 ^c	c	C	460	cuŋ;caʔ;cɔi.T;ckɔp;crəih
-^ç	ç	C	13	çɛ.33;çip.55;çaŋ.2;ço.55;çak.55 ŋai.33
-^ć	tɕ	C	33	ćem;ćiaʔ;ćiŋʔal;ćeŋ.33;ćeŋ.31
-^ɟ	ɟ	C	6	ɟɨŋ;ɟuk.55;ɟʌŋ;ɟuh;ɟat.33 khaʔ.55
-c$	c	C	118	lɛʔ rŋoc;hoc;toc;toc;gəluc
-ch	ch	C	20	choŋ.B cha;cɛn.B cha.A;ɲchɛŋ.C;nchɛɲ.N;nchiŋ
+c$	c	C	119	lɛʔ rŋoc;hoc;toc;toc;gəluc
+ch	cʰ	C	20	choŋ.B cha;cɛn.B cha.A;ɲchɛŋ.C;nchɛɲ.N;nchiŋ
 c̣	c	C	1	ʒ́iak.31 c̣am.3
-ć$	tɕ	C	1	ʔa.31 kut.33 ć
-ćh	tɕʰ	C	4	a.33 ćhim.33;phih.31 ćhat.1;le.33 ćhak.33;pa.31 ćhep.33
-ʒh	dzʰ	C	2	ṭaəm ʒhaə;ṭaəm ʒhaə
-'c$	c	C	1	nu'ó'c
-^ch	ch	C	81	chim.B;choə̌m;chiʔm.A;chim.C;chim.B
-^cw	cʷ	C	7	cwa;cwəʔ;cwaŋ;cwaŋ;cwoh
-^c̣	c̣/c	C	2	c̣am.33 kauk.31;c̣am.33 kauk.31
-^ćh	tɕʰ	C	11	ćhaŋ.33 kɔk.33;ćhim.31;ćhɔ.31;ćhɔʔ.55;ćhiaŋ.51
-^ʒh	dzʰ	C	12	ʒham;ʒhu;ʒhola;ʒhip.55;ʒhelob
-c̣h	tsʰ	C	2	khik.33 c̣hak.3;khik.33 c̣hak.3
+ćh	tɕʰ	C	15	ćhaŋ.33 kɔk.33;ćhim.31;a.33 ćhim.33;ćhɔ.31;ćhɔʔ.55
+ʒh	dzʰ	C	14	ʒham;ʒhu;ʒhola;ʒhip.55;ʒhelob
+^ch	cʰ	C	81	chim.B;choə̌m;chiʔm.A;chim.C;chim.B
+^c̣	c	C	2	c̣am.33 kauk.31;c̣am.33 kauk.31
+c̣h	cʰ	C	2	khik.33 c̣hak.3;khik.33 c̣hak.3
 ^c̣h	tsʰ	C	1	c̣hraŋ.51
-^đ	ð	D	13	đen;đi;đất;đầy;đầu
-e	e	E	851	sweh;həre luk;kemböh;ka.44 het.21;ka.212 het.212
-æ	æ	E	11	athæmʔ;akæʔ;ulæʔ;ʔænʔ;kæŋʔ
+e	e	E	993	sweh;ʔape;həre luk;kemböh;ka.44 het.21
+æ	æ	E	12	athæmʔ;akæʔ;ulæʔ;ʔænʔ;kæŋʔ
 è	è/e	E	2	mèh;ɲcèh
-é	é	E	7	kajéd;déreŋ;séj;ʒélu;baléŋ
-ē	ē	E	1	shòk-malēcha
-ĕ	ĕ/e	E	1	tĕɲ²²
-ə	ə	E	1981	lɛ mət;ʒəh;ʒəh ʔalaʔ;diʔ.L dəgŋ.L;gəluc
-ɛ	ɛ	E	583	lɛʔ;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc;ɛtɲɛʔ
+é	é	E	12	memé;kajéd;jéh;déreŋ;ʒalé
+ē	ē/e	E	3	hēh-haŋa;shòk-malēcha;hē
+ĕ	ĕ/e	E	1	tĕɲ22
+ə	ə	E	2069	lɛ mət;dɨŋ ndə;ʒəh;ʒəh ʔalaʔ;diʔ.L dəgŋ.L
+ɛ	ɛ	E	658	lɛʔ;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc;ɛtɲɛʔ
 ɜ	ɜ	E	1	lhɛʔɜǒʔ
-ʌ	ʌ	E	100	lɛʔ lawʌn;sʌdn mwãʔ;bɔʌh;kəʌm.4;cʔʌŋ
+ʌ	ʌ	E	103	lɛʔ lawʌn;sʌdn mwãʔ;bɔʌh;kəʌm.4;cʔʌŋ
 ẹ	e	E	1	miẹng
 ẽ	ẽ	E	2	cẽre;pẽc
 ế	ə̯	E	3	chết;ɡiết;biết
 ề	ề/ê	E	1	nhiều
 ớ	ə́/ə	E	2	lớn;mới
-'e	e	E	2	bal'ed;por'ej
-^e	e	E	17	eɲam;eŋ;emoʔ;ese;en-kòiɲa
-^é	é	E	1	éŋ-da
-^ə	ə	E	22	əik.1;əɲoŋ;əʒáŋ;əmil;əsu
-^ɛ	ɛ	E	8	ɛtɲɛʔ;ɛŋ;ɛt.13;ɛl-vaŋ;ɛl-mɛh
 ^ấ	ấ/əː	E	1	ấm
-e$	e	E	123	ʔape;ʔe;cẽre;ceNe;hende
-ee	eː	E	1	veer
-æ$	æ	E	1	mæ
-é$	é	E	2	memé;ʒalé
-ē$	ē	E	1	hē
-ə$	ə	E	66	dɨŋ ndə;taŋkəm tə;dɨŋ ndə;cuə;ɔ-kə
+ee	eː	E	2	veer;dee
 ə́	ə́	E	39	ʔup=kə́p;tə́jʔ;paɲə́p;hə́c;hijə́h
 ə̂	ə̂	E	7	phlə̂ŋ;cə̂ŋ;kharjə̂k;jə̂ŋ;phoŋ jə̂ŋ
 ə̌	ə̌/ə	E	1	choə̌m
-ɛ$	ɛ	E	65	ḍɛ;bɔ̂ɛ;chəkɛ;ckɛ;ʔatɛ
 ɛɛ	ɛː	E	0	
-ɛ́	ɛ́	E	1	hɛ́ŋ
-ɛ̂	ɛ̂	E	6	hampɛ̂r;ŋɛ̂ŋ;ʔɛ̂j;naʔɛ̂ŋ;samɛ̂ŋ
+ɛ́	ɛ́/ɛ	E	3	kahɛ́;ŋɛ́;hɛ́ŋ
+ɛ̂	ɛ̂/ɛ	E	10	hampɛ̂r;ŋɛ̂ŋ;ʔɛ̂j;ʔɛ̂;naʔɛ̂ŋ
 ɛ̃	ɛ̃	E	9	bəltɛ̃k;ʔɛ̃m;kɛ̃ʔ;hɛ̃ɲ;kɛ̃t
 ɛ̌	ɛ̌/ɛ	E	1	dɛ̌h
-ʌ$	ʌ	E	3	cʌ;plʌ;ci ɲʌ
-ʌ̆	ʌ̆	E	1	ɲəʌ̆p⁴
-ee$	eː	E	1	dee
-æ̃́	æ̃́/æ	E	1	ʔæ̃́h-a
+ʌ̆	ʌ̆	E	1	ɲəʌ̆p4
+æ̃́	æ̃́/æ̃	E	1	ʔæ̃́h-a
 ə́$	ə́/ə	E	2	kə́;ŋə́
-ɛ́$	ɛ́	E	2	kahɛ́;ŋɛ́
-ɛ̂$	ɛ̂	E	4	ʔɛ̂;nɛ̂;ʔanɛ̂;kûn kwɛ̂
-x	x	G	2	-khxoŋ.31;khxaʔ.35
-ɣ	ɣ	G	12	hɣɔk.53;gɣua.35;ɣaʔ.55 ɣak.35;kɣəŋ.55;plə.33 pɣɔ.33
-^x	x	G	8	xu'o'ng;xo.33;xanh;xɔ.31;xəŋ.35
-^ɣ	ɣ	G	10	ɣuəc.33;ɣaʔ.55 ɣak.35;ɣiəh.24;ɣaɨ.T.13;ɣet.33
-h	h	H	360	ʒəh ʔalaʔ;bal.33 haj.33;nahroh;ka.44 het.21;ka.212 het.212
-ɦ	ɦ	H	20	pɦu;pɦɨəh;cɦɨŋ;pɦiŋ;kɦɨ
-ʔ	ʔ	H	673	lɛʔ lawʌn;lɛʔ rŋoc;ʒəh ʔalaʔ;diʔ.L dɔŋ;diʔ.T daŋ.L
-'h	h	H	5	m'ham;m'hal;l'ha;m'hɛ;m'ham
-'ʔ	ʔ	H	2	lu'ʔa;n'ʔər lha si
-^h	h	H	511	hoc;həre luk;hit.3;hɨt.1;ho.31 lɛn.51
-^ɦ	ɦ	H	1	ɦa pɦɨəʔ
-^ʔ	ʔ	H	779	ʔape;ʔap;ʔəiʔ;ʔəjʔ.A sɔŋ.A;ʔe
-h$	h	H	522	sweh;ʒəh;kaluh;kaloh;səbəroh
-ʔ$	ʔ	H	776	lɛʔ;ʒəh ʔalaʔ;tiʔ;toc ʔŋiaʔ;ʔəiʔ
-ʔh	ʔh	H	2	mit ʔhəj;haʔhəʔ.B
-ʔs	ʔs	H	3	kaʔsam;haʔsɔk;kaʔsaŋ
+x	x	G	10	xu'o'ng;xo.33;xanh;xɔ.31;xəŋ.35
+ɣ	ɣ	G	22	ɣuəc.33;hɣɔk.53;gɣua.35;ɣaʔ.55 ɣak.35;ɣaʔ.55 ɣak.35
+h	h	H	1418	sweh;ʒəh;ʒəh ʔalaʔ;kaluh;kaloh
+ɦ	ɦ	H	26	pɦu;pɦɨəh;cɦwɔk;cɦɨŋ;pɦiŋ
+ʔ	ʔ	H	2193	lɛʔ;lɛʔ lawʌn;lɛʔ rŋoc;ʒəh ʔalaʔ;ʒəh ʔalaʔ
+ʔh	ʔh	H	3	mit ʔhəj;ʔhnuai.L;haʔhəʔ.B
 ^hw	hʷ	H	1	hwaʔ.1
-^ʔh	ʔh	H	1	ʔhnuai.L
 ^ʔʒ	ʔʒ	H	4	ʔʒiŋ;ʔʒə́ŋ;ʔʒuŋ;ʔʒəʔ
-i	i	I	1794	diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L;sit;niʔ.T najh.T
+i	i	I	1968	diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L;sit;niʔ.T najh.T
 ì	ì/i	I	10	sìiəŋ;cìɲ;calìŋ;thìt;ukìn
 í	í/i	I	6	wíaŋ;mumíc;ʔamíh;kají;píat
-î	î	I	16	cîəm;sînɔm;mîm;ŋîər;pîɲ
-ĩ	ĩ	I	8	gəcĩh;məhĩm;kəlwĩl;tuĩ.T.55;hĩaŋ
-ī	ī/ɪ	I	2	orī ŋa fʙh;chī
+î	î/i	I	19	cîəm;sînɔm;mîm;ŋîər;pîɲ
+ĩ	ĩ	I	9	gəcĩh;məhĩm;kəlwĩl;nĩ;tuĩ.T.55
+ī	ī/i	I	2	orī ŋa fʙh;chī
 ǐ	ǐ/i	I	1	kacǐt¹
-ɨ	ɨ	I	446	dɨŋ ndə;hɨt.1;mot pɨŋ;tɨŋ.31 pɨt.33;tɨŋ.31 pɨt.33
+ɨ	ɨ	I	477	dɨŋ ndə;hɨt.1;mot pɨŋ;tɨŋ.31 pɨt.33;tɨŋ.31 pɨt.33
 ɪ	ɪ	I	7	icɪm;cɪt;thɪ;kacɪt;hɪ
-ᵻ	ɨ	I	2	ǯᵻʔ;lᵻ̯aᵻ⁵¹ʔ
+ᵻ	ɨ	I	2	ǯᵻʔ;lᵻ̯aᵻ51ʔ
 ứ	ɨ	I	2	trứng;đứng
-'i	i	I	4	por'iʔn;m'iɲam;sh'ieŋ;or'iŋ
-^i	i	I	54	isli;itib;icim.1;icɪm;ioŋ
-^ɨ	ɨ	I	2	ɨŋ.55;ɨi.51
-i$	i	I	262	sabroi;dypei;isli;sulɔi;laʔi
-î$	î	I	2	nî;ʔanî
-ĩ$	ĩ	I	1	nĩ
-ɨ$	ɨ	I	29	bɨ;trɨ;kɦɨ;ḷɨ;lɨ
 ɨɨ	ɨː	I	1	kɨɨʔ
 ɨ̂	ɨ̂	I	2	nɨ̂h;cɨ̂ŋ
 ɨ̯	ɨ̯/ɨ	I	0	
 ᵻ̀	ɨ̀/ɨ	I	5	jᵻ̀l;kᵻ̀ʔ;lᵻ̀mʔ;mᵻ̀j;amᵻ̀h
 ᵻ́	ᵻ́/ɨ	I	3	hitᵻ́j;ʔᵻ́l;ʔin-jᵻ́an
-ᵻ̆	ɨ̆/ɨ	I	1	rᵻ̆ŋ
-ᵻ̯	ᵻ̯/ɨ	I	2	tᵻ̯aŋ³³ ʔəc;lᵻ̯aᵻ⁵¹ʔ
-'i$	i	I	4	ngu'ò'i;mặt trò'i;mặt trò'i;bo'i
+ᵻ̆	ɨ̆	I	1	rᵻ̆ŋ
+ᵻ̯	ᵻ̯/ɨ	I	2	tᵻ̯aŋ33 ʔəc;lᵻ̯aᵻ51ʔ
 ^ii	iː	I	1	iil
+u'o'	ɨə̯	I	2	xu'o'ng;lu'o'~i
 u’ò’	ɨə̯	I	1	ɗu’ò’nɡ ɗi
-j	j	J	496	bal.33 haj.33;paŋ ʔəjʔ;ʔəjʔ.A sɔŋ.A;mɔj.31;mɔj.343ʔ
-'j	j	J	1	r'jɛh
-^j	j	J	148	jam;jága;jɛ.55;ja.35;jɔŋ
-j$	j	J	414	thuj;səmwɛj;hitᵻ́j;puj;thəj
-g	g	K	95	diʔ.L dəgŋ.L;diʔ.L dəgŋ.L;gu gu;ŋgoic;ŋgoc
-k	k	K	806	taŋkəm tə;c̣am.33 kauk.31;c̣am.33 kauk.31;ćhaŋ.33 kɔk.33;ćhaŋ.33 kɔk.33
-q	q	K	4	ai.T.33 qou.55;se.T.55 qou.33;ce.31 pau.31 qu;ɫai.55 qa.55 h
+j	j	J	1061	thuj;bal.33 haj.33;paŋ ʔəjʔ;ʔəjʔ.A sɔŋ.A;səmwɛj
+g	g	K	362	diʔ.L dəgŋ.L;gəluc;gulay;diʔ.L dəgŋ.L;gŋhəl
+k	k	K	2556	kaluh;kaloh;həre luk;kemböh;ka.44 het.21
+q	q	K	9	qa.55 li.11;ai.T.33 qou.55;qɔ.53;se.T.55 qou.33;ce.31 pau.31 qu
 ɡ	g	K	5	ɡiết;ɗâu ɡɸ́i;ɗu’ò’nɡ ɗi;ɡəndäŋ;ɡì
-^g	g	K	220	gəluc;gulay;gŋhəl;gədɔh;gu gu
-^k	k	K	1320	kaluh;kaloh;kemböh;ka.44 het.21;ka.212 het.212
-^q	q	K	5	qa.55 li.11;qɔ.53;qa.31 pai.53;qɔ.55;qai.55
 ^ḳ	k	K	1	ḳəsaw
-g$	g	K	47	habug;ug;bu.ng;xu'o'ng;móng
-gh	gʰ	K	5	mogher;nghe;khun.51 ghut.33;khuan.51 ghu.55;khuə.51 ghɔ.51
-k$	k	K	430	həre luk;pa tok;kəbhɔk;luok;luŋ lok
-kh	kʰ	K	74	nkhɔp;səŋkhraʔ;ŋkhaʔ lam;si.55 khruak.51;gu.51 khlək.33
-ks	ks	K	1	tiksuŋ
-kw	kʷ	K	3	mphun kwah;daʔtu=kwi;kûn kwɛ̂
-^gh	gʰ	K	10	ghɨt.55 pu.51;ghiliŋ;ghoneʒ;ghiə.51;ghɔ.11
-^kh	kʰ	K	259	khu;khɔŋ.T.13;khɔm.A ʔuik.A;kharom;khaʔ bɔh
+gh	gʰ	K	15	mogher;ghɨt.55 pu.51;nghe;ghiliŋ;khun.51 ghut.33
+kh	kʰ	K	333	khu;khɔŋ.T.13;khɔm.A ʔuik.A;kharom;nkhɔp
+ks	ks	K	12	kseŋ.L;ksew;ksɔʔ;tiksuŋ;ksaiʔ
+kw	kʷ	K	10	mphun kwah;kwaŋ;daʔtu=kwi;kwaj.43;kwo
 ^kk	k	K	1	kke
-^ks	ks	K	11	kseŋ.L;ksew;ksɔʔ;ksaiʔ;ksɔʔ
-^kw	kʷ	K	7	kwaŋ;kwaj.43;kwo;kwɛ̃ʔ;kwa
-^qh	qh	K	1	qhɔŋ.13
-^ʒw	qh	K	1	ʒwɔŋ
-^khw	kʷʰ	K	1	khwaŋ.33
-l	l	L	982	lɛʔ lawʌn;ʒəh ʔalaʔ;kaluh;kaloh;bal.33 haj.33
+^qh	qʰ	K	1	qhɔŋ.13
+^khw	ʰkʷ	K	1	khwaŋ.33
+l	l	L	1650	lɛʔ;lɛʔ lawʌn;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc
 ľ	ɭ	L	1	ľɛt ʒet beh
-ḷ	l̩	L	3	kaḷia;aeḷa;kuaḷesoŋ
-^l	l	L	456	lɛʔ;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc;lam
+ḷ	l̩	L	4	kaḷia;ḷɨ;aeḷa;kuaḷesoŋ
 ^ɫ	lˠ	L	7	ɫɨt.53;ɫai.53 mat.31;ɫɨt.11;ɫu.34;ɫɨəc.31
-^ḷ	l̩	L	1	ḷɨ
-l$	l	L	212	gŋhəl;usal;kandɨl;ndul;del
-lh	lʰ	L	9	bəlhet;təlh.1;laʔ ulh.1;n'ʔər lha si;kən.33 lha.33
-ll	ɭ	L	10	pəlluŋ;palluŋ;pylleŋ;balla;kalləŋ.L
-lw	lʷ	L	3	blwa;plwa;kəlwĩl
-^lh	lʰ	L	27	lhɔŋ.31;lhɛʔɜǒʔ;lhəm;lhəŋ.51;lha.33 si.31
-^ll	ɭ	L	1	llɔŋ
-^lw	lʷ	L	2	lwaŋ;lwak
-lh$	lʰ	L	5	kərialh;ʔulh;ʔulh;pənulh;hərialh
-m	m	M	832	lɛ mət;tum.T;chim.B;kemböh;taŋkəm tə
+lh	lʰ	L	41	bəlhet;lhɔŋ.31;təlh.1;kərialh;lhɛʔɜǒʔ
+ll	ɭ	L	11	pəlluŋ;palluŋ;pylleŋ;balla;kalləŋ.L
+lw	lʷ	L	5	blwa;plwa;kəlwĩl;lwaŋ;lwak
+m	m	M	2138	lɛ mət;tum.T;lam;chim.B;thəŋsim
 ^M	m̥	M	3	Mon;Mon;Mak
-^m	m	M	883	mɔj.31;mɔj.343ʔ;mot pɨŋ;mbei.55;mphun kwah
-m$	m	M	417	lam;thəŋsim;sam;ʔum-túm;kharom
-mh	mh	M	3	kəmho;təmhmɔŋ;ghɔk.33 mhu.31
-ms	ms	M	3	tamsoŋ;tamsoŋ;timsoŋ
+mh	mʰ	M	3	kəmho;təmhmɔŋ;ghɔk.33 mhu.31
 m̌	m	M	1	ʔgar m̌ɛh
 ^mh	mʰ	M	31	mhəw;mhok;mham;mham;mham
 ^mm	m	M	2	mmih;mma
-n	n	N	814	dɨŋ ndə;niʔ.T najh.T;sʌdn mwãʔ;suon.33;bən.224
-ŋ	ŋ	N	961	lɛʔ rŋoc;dɨŋ ndə;diʔ.T daŋ.L;diʔ.L dəgŋ.L;toc ʔŋiaʔ
-ɲ	ɲ	N	125	ɛtɲɛʔ;pətiɲ.1;buɲ.24;buɲ.45;buɲ.C
-ṇ	n̩	N	8	saṇem;ʒuṇṭa;aṇṭu;caṇḍbol;aṇdra
-'n	n	N	2	xu'o'ng;sù'ng
-^n	n	N	417	niʔ.T najh.T;nahroh;nkhɔp;ndo;ntɔ
-^ŋ	ŋ	N	232	ŋɛʔ.53;ŋiʔ.53;ŋkar;ŋkap;ŋkuər
-^ɲ	ɲ	N	141	ɲiʔ;ɲɛʔ;ɲi.55;ɲauʔ;ɲɔʔ.2
-^ṇ	n̩	N	1	ṇaʔ
-n$	n	N	263	lɛʔ lawʌn;soben;kəphon;khaʔ ʔan;kən
-nh	nh	N	6	kanhah;daʔ nha chi;kənhaj;hənhriəŋ.33;kə nha.35
-ns	ns	N	6	kinsód;hansɛm.B;hɨnsaj.33;hɨnsaj.33;konsel=ḍug
-nʒ	nʒ	N	2	kynʒat;hənʒadn
-ŋ$	ŋ	N	857	diʔ.L dɔŋ;cuŋ;daŋ;mot pɨŋ;diʔ.L dɔŋ
-ŋh	ŋʰ	N	2	gŋhəl;ʔəŋhaŋ
-ŋs	ŋs	N	4	thəŋsim;b'aŋsa;pəŋsɛŋ;məŋsɛm.N
-ŋw	ŋʷ	N	1	təŋwil
+n	n	N	1502	lɛʔ lawʌn;dɨŋ ndə;niʔ.T najh.T;niʔ.T najh.T;nahroh
+ŋ	ŋ	N	2051	lɛʔ rŋoc;dɨŋ ndə;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L
+ɲ	ɲ	N	404	ɛtɲɛʔ;ɲiʔ;ɲɛʔ;sə=ʔoɲ;pətiɲ.1
+ṇ	n̩	N	9	saṇem;ʒuṇṭa;aṇṭu;caṇḍbol;ṇaʔ
+nh	nh	N	8	kanhah;lanh;daʔ nha chi;xanh;kənhaj
+ns	ns	N	19	nsam.33ʔ;kinsód;nsɔr;nsieŋ;nsɛŋ
+nʒ	nʒ	N	6	nʒiŋ;kynʒat;nʒaj;nʒɛk;hənʒadn
+ŋh	ŋʰ	N	20	gŋhəl;ŋhi.33;ŋham.N;ʔəŋhaŋ;ŋhaŋ
+ŋw	ŋʷ	N	3	ŋwaiʔ;ŋwaj;təŋwil
 ŋŋ	ŋ	N	1	pəŋŋai
-ɲ$	ɲ	N	138	sə=ʔoɲ;puɲ;buɲ;luoɲ;luɲ
-ɲh	ɲh	N	1	təlir ɲhək
-ɲʒ	ɲʒ	N	5	aɲʒum;aɲʒum;koleɲʒa;həɲʒaɲ;ʒiɲʒək
+ɲh	ɲʰ	N	4	təlir ɲhək;ɲhuk;ɲhuʔ;ɲhuʔ
 ^nh	nʰ	N	26	nham.51;nham.51;nham.51;nham;nham.1
 ^nn	ŋ	N	5	nnih;nniah;nnujh;nnəh.L;nnəʔ.L
-^ns	ns	N	13	nsam.33ʔ;nsɔr;nsieŋ;nsɛŋ;nsiaŋ.T
-^nʒ	nʒ	N	4	nʒiŋ;nʒaj;nʒɛk;nʒe.55
-^ŋh	ŋʰ	N	18	ŋhi.33;ŋham.N;ŋhaŋ;ŋhaŋ;ŋhaŋ
-^ŋw	ŋʷ	N	2	ŋwaiʔ;ŋwaj
-^ɲh	ɲh	N	3	ɲhuk;ɲhuʔ;ɲhuʔ
 ^ɲs	ɲs	N	2	ɲsok;ɲsok kɨʔ
-^ɲʒ	ɲʒ	N	1	ɲʒuj
-nh$	nh	N	2	lanh;xanh
-b	b	P	172	pəbət;səbəroh;kemböh;sabroi;sobu
-p	p	P	248	ʔape;plaŋ.51 plöʔ.35;mot pɨŋ;tɨŋ.31 pɨt.33;pa.55 pɛ.55 mɛh
-^b	b	P	486	bal.33 haj.33;bən.224;baroh;buh;buh
-^p	p	P	605	paŋ ʔəjʔ;pəbət;paʔuit;plaŋ.51 plöʔ.35;pa tok
-b$	b	P	25	sab;kudub;akob;kúmab;hob
-bh	bh	P	3	kəbhɔk;ba bha;khun.51 bhət.33
-p$	p	P	153	dap;ʔap;tapip;kop;kop
-ph	pʰ	P	13	mphun kwah;kəphon;mphul;khɛʔ phathɛn;ri.33 phok.55
+b	b	P	683	bal.33 haj.33;pəbət;səbəroh;kemböh;bən.224
+p	p	P	1007	dap;ʔape;ʔap;paŋ ʔəjʔ;pəbət
+bh	bʰ	P	3	kəbhɔk;ba bha;khun.51 bhət.33
+ph	pʰ	P	121	phâʔ.N;phâʔ;phəh;phɛh;phoh.C
 ^bh	bʰ	P	8	bhipm;bhənɛk;bhlaəŋ;bhore;bhɔm.1
-^ph	pʰ	P	108	phâʔ.N;phâʔ;phəh;phɛh;phoh.C
 ^pp	p	P	1	ppûəʔ
 ^ps	ps	P	1	psɛɲ
 ^pw	pʷ	P	4	pwac;pwak;pwak;pwak
-R	r̥	R	9	ki-Rəŋ;haRge;roRo;aRɔŋ;ḍeReŋ
-ṛ	r	R	11	miṛeʔ;ʒi kuṛam;ko=pṛug;koṛa;hoṛo
-R$	r̥	R	2	rohoR;uR
-^R	r̥	R	4	Rən;Roj;Rɔ-ta;Rə-ŋə
-^r	r	R	238	roc;rɔc.33;ram;ru;ram
+R	r̥	R	15	ki-Rəŋ;haRge;rohoR;roRo;aRɔŋ
+r	r	R	653	lɛʔ rŋoc;həre luk;səbəroh;nahroh;baroh
+ṛ	r	R	13	miṛeʔ;ʒi kuṛam;ko=pṛug;koṛa;kaṛ
+^r	r	R	239	roc;rɔc.33;ram;ru;ram
 r$	r	R	269	pai tǔr;par;kəpur;ʔəŋkar;ŋkar
 rh	rʰ	R	7	tulurh.3;parh.1;pərhem;murh.2;pərhe
 rr	r	R	3	kúrraŋ;kərriajh.T;karrias.T
-ṛ$	r	R	2	kaṛ;hoṛ
 ^rh	rʰ	R	11	rhim;rhɨp;rhǒp;rhɔm;rhuʔ.55
 ^rw	rʷ	R	3	rwɨl;rwaŋ;rwal
-s	s	S	211	ʔəjʔ.A sɔŋ.A;ti-sum;kpɔr sʔuŋ;gu.51 si.31;ʔɔp.33 si.55
-z	z	S	4	kazaŋ.33ʔ;monzi;mu.5 za.5;ʔem.32 za.324
-š	ʂ	S	3	tšòh;khik.55 šak.55;khik.55 šak.55
+s	s	S	1098	sit;ʔəjʔ.A sɔŋ.A;səbəroh;sʌdn mwãʔ;səmwɛj
+z	z	S	36	zəm.343ʔ;zəm.1;zəm.434;zaʔn;zeŋ
+š	ʂ	S	10	šip.31 thi.51;tšòh;šo.55;šok.51;šok.55
 ǯ	ǯ/ʒ	S	1	ǯᵻʔ
-ʒ	ʒ	S	33	əʒáŋ;trəʒɔk;hiʒuʔ;hiʒuʔ;ľɛt ʒet beh
+ʒ	ʒ	S	213	ʒəh;ʒəh ʔalaʔ;ʒoto;ʔeʒ;ʔeʒ
 ʝ	ʝ	S	1	taʔkəʝʔ
 ^S	ʃ	S	3	So;So;So
-^s	s	S	805	sit;səbəroh;sʌdn mwãʔ;səmwɛj;suon.33
-^z	z	S	32	zəm.343ʔ;zəm.1;zəm.434;zaʔn;zeŋ
-^š	ʂ	S	6	šip.31 thi.51;šo.55;šok.51;šok.55;šeŋ.51
-^ʒ	ʒ	S	152	ʒəh;ʒəh ʔalaʔ;ʒoto;ʒnok;ʒuʔ
 ^ṣ	s	S	3	ṣɔk.51;ṣu.31;ṣaŋ.51
-s$	s	S	79	ʔabuʔ ʔɔs;lawɔs;nʔdias;krias;karias
-sh	sʰ	S	1	ok-shiak
-š$	ʂ	S	1	mat iš
-ʒ$	ʒ	S	23	ʔeʒ;ʔeʒ;laʒ;laʒ;laʒ
-^sh	ʃ	S	9	sh'ieŋ;shadem;shkor;shɲiuh;shaniah
+sh	sʰ	S	2	posh;ok-shiak
+^sh	sʰ	S	9	sh'ieŋ;shadem;shkor;shɲiuh;shaniah
 ^ʒ́	ʒ́/ʒ	S	3	ʒ́ân.51;ʒ́iak.31 c̣am.3;ʒ́âŋ.51
-^ʒ̣	ʒ	S	1	ʒ̣rik.33
-sh$	sʰ	S	1	posh
 ^ʒ́h	ʒ́ʰ/ʒʰ	S	3	ʒ́hip.33;ʒ́hi.51;ʒ́haik.51
-d	d	T	203	dɨŋ ndə;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L;sʌdn mwãʔ
-t	t	T	877	ɛtɲɛʔ;taŋ.B at.A;thaŋ.C at.A;thaŋ.E ot.C;thaŋ.C at.A
-č	tʃ	T	3	lɔ.11 čjai.55;ŋai.35 čak.31;ʔa.31 čɔ.35
-đ	ɗ	T	0	
+d	d	T	549	dɨŋ ndə;dɨŋ ndə;diʔ.L dɔŋ;diʔ.L dɔŋ;diʔ.T daŋ.L
+t	t	T	2207	lɛ mət;tum.T;sit;tiʔ;toc
+č	tʃ	T	17	čip.55;čən.55;čaŋ.31;lɔ.11 čjai.55;čeŋ.51
 ɗ	ɗ	T	3	ɗâu ɡɸ́i;ɗu’ò’nɡ ɗi;ɗu’ò’nɡ ɗi
-ḍ	d	T	28	aḍo;tirib=ḍak;gi=ḍaʔ;anḍa;kuḍoŋ
-ṭ	ʈ	T	17	k'aṭa;kaṭa;ʒuṇṭa;ŋit.14 ṭok.14;pəh ṭuŋ
-^d	d	T	317	dɨŋ ndə;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L;dap
-^t	t	T	957	tum.T;tiʔ;toc;toc;toc ʔŋiaʔ
-^č	tʃ	T	14	čip.55;čən.55;čaŋ.31;čeŋ.51;čuŋ.31
-^ḍ	d	T	25	ḍɛ;ḍen;ḍiɲ;ḍar;ḍeReŋ
-^ṭ	ʈ	T	22	ṭoŋ.34ʔ;ṭaoh;ṭut;ṭoh;ṭaw
-d$	d	T	29	khad;ontid;seŋed;kajéd;kinsód
+ḍ	d	T	72	kontheḍ;konteḍ;akeḍ;aḍo;ram'aḍ
+ṭ	ʈ	T	39	ṭoŋ.34ʔ;ṭaoh;ṭut;ṭoh;ṭaw
+^đ	ɗ	T	13	đen;đi;đất;đầy;đầu
 d̤	dʱ	T	2	ɔn=d̤ɔr;ɔn=d̤ɔr
-jh	dʒʰ	T	21	niʔ.T najh.T;puŋ.31 jhi.53;daʔ.T nojh.L;kəʔniajh.T;kərriajh.T
-t$	t	T	370	lɛ mət;sit;pəbət;paʔuit;kulit
-th	tʰ	T	50	kontheḍ;athæmʔ;mthuh.31;nthrɛh.B;kəthat.A
+jh	dʒʰ	T	73	niʔ.T najh.T;puŋ.31 jhi.53;tɔjh;tajh;kərɔjh
+th	tʰ	T	169	thuj;thəŋsim;thaŋ.2;thaŋ.C at.A;thaŋ.E ot.C
 tt	ʈ	T	2	pattur;cuttha
-t̀	t	T	2	ʔat̀i;sajt̀
-čh	tʃʰ	T	3	khik.55 čhak.55;khik.55 čhak.55;pat.55 čhə.55
-ḍ$	d	T	19	kontheḍ;konteḍ;akeḍ;ram'aḍ;uḍ
+t̀	t̀/t	T	2	ʔat̀i;sajt̀
+čh	tʃʰ	T	13	čhim.51;čhɔʔ.55;čhak.35;čhiat.31;khik.55 čhak.55
 ^dh	dʰ	T	13	dhaom;dhuʔ.53;dhap.33;dhap.55;dhaiŋ.31 pi.51
 ^dw	dʷ	T	2	dwan;dwaj
-^jh	dʒʰ	T	4	jhauk;jhak.1;jhuk.35;jhɨih
-^th	tʰ	T	119	thuj;thəŋsim;thaŋ.2;thaŋ.C at.A;thaŋ.E ot.C
-^čh	tʃʰ	T	10	čhim.51;čhɔʔ.55;čhak.35;čhiat.31;čhi.31
+^ʒw	dʒʷ	T	1	ʒwɔŋ
 ^ṭh	ʈʰ	T	1	ṭhehuna
-jh$	dʒʰ	T	48	tɔjh;tajh;kərɔjh;krɨjh;kərniajh
 O	o	U	1	tanOʔ
-o	o	U	1189	lɛʔ rŋoc;kaloh;hoc;toc;toc
-ò	ò	U	7	lòm;en-kòiɲa;tròn;tlòn;shòk-malēcha
-ó	ó	U	14	móng;kinsód;uó^ng;tóp;pujól
+o	o	U	1329	lɛʔ rŋoc;kaloh;hoc;toc;toc
+ò	ò/o	U	8	lòm;en-kòiɲa;ngu'ò'i;tròn;tlòn
+ó	ó/o	U	15	móng;kinsód;uó^ng;tóp;pujól
 ô	ô	U	15	sŋôt;ok-ŋôk;lông;tôi;đàn ông
 õ	õ	U	1	mwõh
-ö	ö	U	8	plaŋ.51 plöʔ.35;döŋ.33;blaʔög;ma.31 dö.35;könu kənɨh
+ö	ö/o	U	10	kemböh;plaŋ.51 plöʔ.35;döŋ.33;blaʔög;ma.31 dö.35
 ō	ō/o	U	1	hentōp
 ŏ	ŏ	U	2	tŏk;kŏm
 ǒ	ǒ/o	U	2	rhǒp;lhɛʔɜǒʔ
-ɔ	ɔ	U	1104	diʔ.L dɔŋ;ʔəjʔ.A sɔŋ.A;mɔj.31;mɔj.343ʔ;khɔŋ.T.13
-ồ	o	U	1	ngồi
-'o	o	U	5	xu'o'ng;tʔ'oge;əɲ'om;t'o-gal;lu'o'~i
-'ò	ò	U	1	ngu'ò'i
-'ó	ó	U	1	nu'ó'c
-'ɔ	ɔ	U	1	t'ɔnmɛ
-^o	o	U	27	ontid;om.31 puʔ.55;ote;ok-ŋôk;omoḍ
-^ö	ö	U	1	öt
-^ɔ	ɔ	U	15	ɔp;ɔgep;ɔŋ.3;ɔ-kə;ɔn.31
-o$	o	U	107	ʒoto;tro;ndo;kəmho;sərpo
+ɔ	ɔ	U	1236	diʔ.L dɔŋ;ʔəjʔ.A sɔŋ.A;mɔj.31;mɔj.343ʔ;khɔŋ.T.13
+ồ	ồ/ô	U	1	ngồi
 ó$	ó/o	U	2	chó;ləbó
-ô$	o	U	2	khô;si sô
-õõ	õ	U	1	põõre-
-ɔ$	ɔ	U	114	blɔ;blɔ;blɔ;blɔ;blɔ
-ɔ̂	ɔ̂	U	8	bɔ̂ɛ;cɔ̂n;hampɔ̂r;gatɔ̂ŋ;gabɔ̂ɛ
+ô$	ô	U	2	khô;si sô
+õõ	õː	U	1	põõre-
+ɔ̂	ɔ̂	U	11	bɔ̂;bɔ̂ɛ;cɔ̂n;rɔ̂;hampɔ̂r
 ɔ̃	ɔ̃	U	9	katɔ̃ŋ;hɔ̃j;sŋʔɔ̃j;təhɔ̃ɲ;macɔ̃t
 ɔ̆	ɔ̆	U	4	nɔ̆ k;pɔ̆ h ka.C;tɔ̆ ʔ;blɔ̆ ʔ
-'o$	o	U	1	ənsəl'o
-^'o	o	U	1	'ola
-ɔ̂$	ɔ̂	U	3	bɔ̂;rɔ̂;gatɔ̂
-w	w	W	139	lɛʔ lawʌn;lawɔs;bew.31;baw.34ʔ;kawaw
-^w	w	W	38	waic;wíaŋ;wá;wan;wəh
-w$	w	W	147	mhəw;sakow;bəw;khraw;kawaw
+w	w	W	355	lɛʔ lawʌn;sʌdn mwãʔ;səmwɛj;mhəw;mwak
+ʔw	ˀw	W	3	meʔw.B;ŋʔwaj;kaʔwej
+^ʔw	ˀw	W	3	ʔwɛh;ʔwej.T;ʔwaj
 wh$	wʰ	W	3	tawh;gawh;mawh
 U	u	Y	8	ʔaɲUmʔ;ulUlʔ;uthUk;ulUk;ŋkUɲʔ
-u	u	Y	1535	thuj;kaluh;tum.T;gəluc;həre luk
-y	y	Y	31	dypei;ʔyk-;tyrsim;lyʔoh;khyuit
-ù	ù	Y	11	pùŋ;ɲùʔ;tlùŋ;sù'ng;lùəm
-ú	ú	Y	22	ʔum-túm;kúmab;kúrraŋ;klúŋ;kəmpúŋ
-û	û	Y	15	pûm;tût.B kuih.B;ppûəʔ;ɲûʔ.B;taʔlûnʔ.B
-ü	ü/u	Y	5	chüa;ha⁵⁵ ɔn³¹ tcü;ŋ⁵⁵ mü⁵¹;lü⁵¹;jü³¹ ɲiɛ⁵¹
-ũ	ũ	Y	4	mũi;ɲũs;ʔihũʔ;ʒəhũʔ
+u	u	Y	1730	thuj;kaluh;khu;tum.T;gəluc
+y	y	Y	44	gulay;dypei;ʔyk-;tyrsim;mây
+ù	ù/u	Y	14	pùŋ;ɲùʔ;tlùŋ;kùh;sù'ng
+ú	ú/u	Y	25	ʔum-túm;kúmab;kúrraŋ;klúŋ;kəmpúŋ
+û	û	Y	18	pûm;tût.B kuih.B;ppûəʔ;mû;ɲûʔ.B
+ü	ü/u	Y	5	chüa;ha55 ɔn31 tcü;ŋ55 mü51;lü51;jü31 ɲiɛ51
+ũ	ũ	Y	7	mũi;mũ;mũ;sũ;ɲũs
 ū	ū/u	Y	1	hen-yūan
-ŭ	ŭ/u	Y	1	mŭh²⁴
+ŭ	ŭ	Y	1	mŭh24
 ǔ	ǔ/u	Y	2	pai tǔr;ʔǔj
-'u	u	Y	4	ar'uʔm;gog=ʒ'uŋ;um'ud;tui-t'uʒ
-^u	u	Y	66	uik.1;ug;usal;upoʔ;u-fov
-^y	y	Y	2	yar kmi;yiah
 ^ʯ	ʯ	Y	1	ʯɨp.33
-u$	u	Y	124	khu;sobu;pɦu;gu gu;ku
-y$	y	Y	11	gulay;mây;bay;đầy;tay
-ú$	ú	Y	3	vú;krú;palú
-û$	û	Y	3	mû;mû;hammû
-ũ$	ũ	Y	3	mũ;mũ;sũ
 ʯ$	ʯ	Y	1	bɔʯ
-^'u	u	Y	2	'usa;'usa
--	+	_	145	ʔum-túm;-ju.B.1;ti-sum;ʔyk-;ki-Rəŋ
-=	+	_	63	sə=ʔoɲ;ʔup=kə́p;siʔ=saŋ;daʔtu=kwi;tirib=ḍak
-_	_	_	0	
-âh	â h	A H	3	bâh.N;râh.B;dâh.51
+-	+	_	127	ʔum-túm;ti-sum;ki-Rəŋ;sat-slap;cɛ-hɛ-con
+=	+	_	65	sə=ʔoɲ;ʔup=kə́p;siʔ=saŋ;daʔtu=kwi;tirib=ḍak
 Ah$	a h	A H	1	adAh
-âh$	â h	A H	9	tâŋ ʔâh;bâh;ndâh;dâh;tarâh
 Ãs$	a s	A S	1	mÃs
-às$	à s	A S	1	bràs
-âs$	â s	A S	1	pâs
-âw$	â w	A W	7	râw;câw;lâw;plâ gadâw;hantâw
-cɦw	tsʰ w	C W	0	
-ēh	ē h	E H	1	hēh-haŋa
-éh$	é h	E H	1	jéh
+^cw	c w	C W	7	cwa;cwəʔ;cwaŋ;cwaŋ;cwoh
+cɦw	cʰ w	C W	0	
 è h$	è/e h	E H	0	
-éw$	é w	E W	1	héw
-hʒ	h ʒ	H S	2	ʔnaŋ hʒi;naŋ hʒi
-ɦw	ɦ w	H W	5	cɦwɔk;cərɦwoŋ;kɦwɔr;pərɦwoŋ;pɦwɔk
-^ʔw	ʔ w	H W	3	ʔwɛh;ʔwej.T;ʔwaj
-îw$	î w	I W	1	khîw
-^jw	j w	J W	2	jwɔʔ akaw;jwɔʔ
 ^mhw	m hʷ	M H	1	mhwal
-mw	m w	M W	2	sʌdn mwãʔ;səmwɛj
-^mw	m w	M W	4	mwak;mwõh;mwaj;mwaj
-nw	n w	N W	2	hnwaŋ ʒek;hnwaŋ ʒek
-^nw	n w	N W	4	nwak;nwɛj;nwəŋ;nwɔ
 rh$	r h	R H	1	ləarh
 rs	r s	R S	1	tyrsim
-^rs	r s	R S	1	rsaw
 rw	r w	R W	3	crwes;kərwal;brwo
 ^sw	s w	S W	4	sweh;swaʔ;swaʔ;swak
-^tw	t w	T W	3	twɛɲ.N;twan;twar
 òh$	ò/o h	U H	2	tšòh;laŋòh
-öh$	ö h	U H	1	kemböh
-ùh$	ù h	Y H	3	kùh;mùh;ahAjʔ kùh
-=ʒ	+ ʒ	_ S	2	padoi=ʒiɲ;gog=ʒ'uŋ
-ʔw	ʔ + w	H _ W	3	meʔw.B;ŋʔwaj;kaʔwej
+ʔs	ʔ + s	H _ S	3	kaʔsam;haʔsɔk;kaʔsaŋ
 kk	k + k	K _ K	1	takkuj
 mm	m + m	M _ M	9	sammɔh;təmmɛ;təmmɛ;tammɛʔ;həmmeʔ
+ms	m + s	M _ S	3	tamsoŋ;tamsoŋ;timsoŋ
+ŋs	ŋ + s	N _ S	4	thəŋsim;b'aŋsa;pəŋsɛŋ;məŋsɛm.N
+ɲʒ	ɲ + ʒ	N _ S	6	aɲʒum;aɲʒum;koleɲʒa;ɲʒuj;həɲʒaɲ
 ʒʒ	ʒ + ʒ	S _ S	1	iʒʒa
 sw	s + w	S _ W	1	kaswa
