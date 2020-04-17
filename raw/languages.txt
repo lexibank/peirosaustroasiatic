@@ -1,0 +1,112 @@
+ASLIAN_Jahai            jhi
+ASLIAN_JahHut           
+ASLIAN_Kensiw           kns
+ASLIAN_Semai            sea
+ASLIAN_Semelai          sza
+ASLIAN_SemoqBeri        
+ASLIAN_Temiar           
+                        
+BAHNARIC_Arak           
+BAHNARIC_Bahnar         bdq
+BAHNARIC_Chrau          crw
+BAHNARIC_Didra          tdr
+BAHNARIC_Hadang         sed
+BAHNARIC_Halang         hal
+BAHNARIC_Hre            hre
+BAHNARIC_Je             
+BAHNARIC_Jeh            jeh
+BAHNARIC_Jru            lbo W
+BAHNARIC_Kadong         
+BAHNARIC_KahoChil       
+BAHNARIC_KorCua         cua
+BAHNARIC_M.Bunong       cma
+BAHNARIC_M.Dip          cma
+BAHNARIC_M.Rolom        mng
+BAHNARIC_Ma1            
+BAHNARIC_Ma2            
+BAHNARIC_Nhaheun        nev W
+BAHNARIC_Oy             oyb W
+BAHNARIC_Panong         
+BAHNARIC_Rengao         ren
+BAHNARIC_Sedang         sed
+BAHNARIC_Sre            
+BAHNARIC_Stieng         
+BAHNARIC_Tariang        tdf
+BAHNARIC_Tempuan        tpu
+BAHNARIC_Veh        
+
+KATUIC_Bru
+KATUIC_BruVK
+KATUIC_Dakkang
+KATUIC_Kantu
+KATUIC_Katu
+KATUIC_Kui
+KATUIC_LaoKatu
+KATUIC_Mak
+KATUIC_Neu
+KATUIC_Nge
+KATUIC_Ong
+KATUIC_Pakoh
+KATUIC_So
+KATUIC_Taoi
+KATUIC_Taoih
+KATUIC_Tri
+KHASI_Khasi             kha
+KHMERIC_K.Surin
+KHMERIC_Khmer
+KHMUIC_Bit              bgk
+KHMUIC_Iduh
+KHMUIC_Khang            kjm
+KHMUIC_Khmu             kjg
+KHMUIC_Ksinmul
+KHMUIC_KxinhMul
+KHMUIC_Mlabri           mra
+KHMUIC_Phong            pnx
+KHMUIC_Pray             pry
+MANGIC_Bugan
+MANGIC_Mang             zng
+MANGIC_Paliu
+MONIC_Mon               mon
+MONIC_Nyakur            
+MUNDA_Bonda             bfw
+MUNDA_Juang             jun
+MUNDA_Kharia            khr
+MUNDA_Korku             kfq
+MUNDA_Mundari           unr
+MUNDA_Parengi           pcj
+MUNDA_Santali           sat
+MUNDA_Sora              srb
+NICOBARIC_Car           caq
+NICOBARIC_Nancawri      
+PALAUNGWA_Deang         
+PALAUNGWA_Gantang       
+PALAUNGWA_Guanshuang    
+PALAUNGWA_Hu            huo
+PALAUNGWA_Khamet        
+PALAUNGWA_Khme          
+PALAUNGWA_Mane          
+PALAUNGWA_Mangan        
+PALAUNGWA_Pangpin       
+PALAUNGWA_Plang         
+PALAUNGWA_Rumai         rbb
+PALAUNGWA_Shuangdiang   
+PALAUNGWA_Wa            
+PALAUNGWA_Yongde        
+
+PEARIC_Chong            cog
+PEARIC_ChongH           cog
+PEARIC_Kasong           cog
+PEARIC_Samre            sxm
+
+VIETIC_Arem
+VIETIC_Cuoi
+VIETIC_KhaPhong
+VIETIC_Liha
+VIETIC_Malieng
+VIETIC_MuongKoi
+VIETIC_PhongV
+VIETIC_Ruc
+VIETIC_Thavung
+VIETIC_ThavungSo
+VIETIC_Tuum
+VIETIC_Vietnamese
