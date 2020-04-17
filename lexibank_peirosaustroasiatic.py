@@ -6,14 +6,17 @@ from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import progressbar, FormSpec, Lexeme
 from clldutils.misc import slug
 
+
 @attr.s
 class CustomLexeme(Lexeme):
     LoanSource = attr.ib(default=None)
+
 
 @attr.s
 class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
     Family = attr.ib(default="Austro-Asiatic")
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
