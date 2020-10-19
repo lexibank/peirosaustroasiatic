@@ -1,594 +1,365 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-^	NULL				
-$	NULL				
-.	<?>	diʔ.T daŋ.L, diʔ.L dəgŋ.L	bahnaricrengao, bahnaricdidra, palaungwaplang, mangicmang, vieticliha, mangicbugan, bahnarichre, katuictaoi, bahnaricje, pearicchongh, pearicsamre, pearickasong, vietictuum, vieticmalieng, pearicchong, vieticphongv, palaungwakhamet, palaungwayongde, monicnyakur, vieticthavungso, khmuickhang, vieticcuoi, palaungwakhme, palaungwamangan, mangicpaliu, vietickhaphong, vieticthomon, palaungwashuangdiang, palaungwawa, bahnaricjeh, bahnaricsedang, khmuickxinhmul, palaungwahu, katuickui, palaungwarumai, katuicbru, palaungwaguanshuang, palaungwamane, vieticthavung, vieticruc, vieticmuongkoi, katuicong	100	U+002e
-a	a	thaŋ.C at.A , taŋ.31 ʔəik.51	bahnarichre, mundakharia, bahnaricje, monicmon, khmuicpray, palaungwaplang, pearicsamre, pearickasong, katuickatu, bahnaricrengao, khmuickhang, bahnaricpanong, katuickantu, asliankensiw, khmuiciduh, palaungwamangan, bahnarickahochil, pearicchongh, khmuickhmu, palaungwashuangdiang, vietictuum, mangicmang, palaungwadeang, bahnarickorcua, pearicchong, vieticmuongkoi, aslianjahhut, palaungwarumai, palaungwakhamet, mundajuang, monicnyakur, mundasora, vieticthavungso, bahnaricveh, bahnaricjru, mundakorku, bahnaricchrau, vieticvietnamese, bahnarickadong, katuictri, palaungwakhme, khmuicbit, mundabonda, asliansemoqberi, katuiclaokatu, vieticthavung, palaungwawa, vieticthomon, vietickhaphong, bahnaricjeh, khmuicmlabri, khmerickhmer, khasikhasi, bahnaricsedang, vieticmalieng, vieticliha, bahnaricbahnar, asliantemiar, katuicdakkang, katuicong, asliansemelai, katuickui, vieticphongv, aslianjahai	100	U+0061
-ə	ə	kət, diʔ.L dəgŋ.L	bahnaricdidra, vieticruc, asliansemelai, bahnaricsre, monicnyakur, katuicneu, katuickantu, asliansemoqberi, bahnarickahochil, vieticmalieng, katuicbru, katuicpakoh, bahnarictariang, katuictaoih, palaungwamane, katuictaoi, khmuicbit, palaungwaplang, asliankensiw, katuicmak, asliansemai, khmuickhmu, bahnaricjeh, khmerickhmer, aslianjahhut, katuicong, bahnaricarak, aslianjahai, palaungwakhamet, bahnaricstieng, bahnaricma2, khmuicksinmul, mundasora, katuickatu, bahnaricveh, bahnarichadang, bahnarickadong, bahnaricmrolom, khmuiciduh, palaungwamangan, bahnarictempuan, palaungwashuangdiang, bahnaricma1, bahnaricsedang, khmericksurin, mangicmang, palaungwapangpin, khmuickxinhmul, palaungwadeang, pearicchong, bahnarickorcua, bahnaricbahnar, palaungwagantang, asliantemiar, katuicdakkang, palaungwarumai	100	U+0259
-i	i	cim, tih	palaungwaplang, bahnarichre, bahnaricrengao, bahnaricdidra, bahnarichalang, palaungwawa, bahnaricjeh, palaungwayongde, nicobaricnancawri, palaungwaguanshuang, monicnyakur, katuictaoih, bahnaricjru, bahnaricpanong, palaungwakhme, nicobariccar, palaungwamangan, bahnarictempuan, mangicpaliu, palaungwashuangdiang, vieticruc, vietictuum, asliansemelai, palaungwarumai, bahnaricmbunong, palaungwakhamet, mundajuang, katuicpakoh, katuickatu, palaungwamane, katuicneu, bahnaricma2, vieticthavungso, bahnaricje, bahnaricveh, monicmon, bahnarichadang, katuicso, vieticphongv, vieticvietnamese, vieticcuoi, katuickantu, asliankensiw, katuiclaokatu, bahnaricoy, asliansemai, pearicchongh, khmuickhmu, pearicsamre, pearickasong, vietickhaphong, vieticthomon, khmuicmlabri, bahnaricsedang, bahnaricma1, bahnaricnhaheun, vieticmalieng, vieticliha, khmuickxinhmul, palaungwadeang, pearicchong, bahnaricbahnar, vieticmuongkoi, katuicong, palaungwahu, katuickui, bahnaricarak	100	U+0069
-u	u	buh, kudub	vieticthavungso, mangicpaliu, pearickasong, palaungwashuangdiang, monicnyakur, palaungwamane, bahnaricmdip, monicmon, vieticphongv, khmuicpray, palaungwaplang, bahnarichalang, vietickhaphong, palaungwawa, bahnaricjeh, bahnaricma1, bahnarickorcua, katuicdakkang, katuickui, asliansemelai, mundasora, bahnaricmbunong, nicobaricnancawri, bahnarichre, bahnaricsre, katuicpakoh, bahnarictariang, katuickatu, katuictaoih, bahnaricdidra, bahnaricjru, khmuickhang, katuicso, bahnaricchrau, katuictri, palaungwakhme, vieticcuoi, katuickantu, vieticvietnamese, nicobariccar, mundabonda, katuiclaokatu, katuicmak, asliansemoqberi, palaungwamangan, bahnaricoy, aslianjahai, bahnarickahochil, vieticthavung, khmuickhmu, pearicsamre, vieticthomon, khmuicmlabri, vietictuum, bahnaricsedang, vieticruc, khmericksurin, bahnaricnhaheun, vieticmalieng, palaungwapangpin, katuicbruvk, mangicbugan, vieticliha, mangicmang, palaungwadeang, khmuicphong, asliantemiar, vieticmuongkoi, aslianjahhut, pearicchong, palaungwagantang, vieticarem, palaungwahu, khmuickxinhmul, bahnaricarak	100	U+0075
-^k	k	kap, klak	mundajuang, bahnarickorcua, mundasora, mundakharia, bahnaricpanong, bahnaricma1, bahnaricsedang, bahnarichre, bahnaricsre, bahnaricstieng, bahnaricma2, bahnaricdidra, bahnarichadang, bahnaricchrau, bahnarickadong, bahnaricmrolom, asliankensiw, pearicsamre, vietickhaphong, vietictuum, vieticruc, vieticmalieng, aslianjahhut, katuicong, vieticphongv, palaungwakhamet, bahnaricmbunong, nicobaricnancawri, katuicpakoh, bahnarictariang, khmuicksinmul, katuicneu, palaungwamane, vieticthavungso, bahnaricrengao, katuictaoi, bahnaricje, bahnaricmdip, bahnaricveh, khmuickhang, bahnaricjru, katuicnge, khmuicbit, nicobariccar, palaungwaplang, katuiclaokatu, asliansemoqberi, aslianjahai, asliansemai, bahnarickahochil, pearicchongh, bahnaricjeh, khasikhasi, vieticliha, khmuickxinhmul, palaungwadeang, pearicchong, asliantemiar, vieticmuongkoi, khmuicphong, bahnaricbahnar, palaungwagantang, vieticarem, asliansemelai, palaungwarumai	100	U+005e U+006b
-o	o	kalob, toc	mundajuang, mundakharia, bahnaricstieng, mundasantali, monicmon, katuicnge, mundaparengi, mundamundari, khasikhasi, khmuicksinmul, katuictaoih, bahnaricrengao, bahnaricjru, bahnarichalang, vietickhaphong, bahnaricjeh, khmerickhmer, vietictuum, vieticliha, bahnaricmbunong, palaungwakhamet, katuicbru, katuicpakoh, monicnyakur, katuickatu, bahnaricma2, katuicneu, katuictaoi, vieticthavungso, bahnaricveh, mundakorku, katuicso, bahnaricpanong, khmuicpray, vieticvietnamese, katuictri, bahnaricchrau, katuickantu, bahnaricmrolom, nicobariccar, katuiclaokatu, asliansemoqberi, katuicmak, bahnaricoy, asliansemai, bahnarictempuan, khmuickhmu, vieticthavung, pearickasong, palaungwawa, vieticthomon, khmuicmlabri, bahnaricma1, bahnaricsedang, khmericksurin, bahnaricnhaheun, vieticmalieng, mangicmang, pearicchong, khmuicphong, bahnaricbahnar, vieticmuongkoi, katuicong, asliansemelai, palaungwarumai, palaungwayongde, bahnaricarak	100	U+006f
-_	_	diʔ.L dəgŋ.L, taŋ.31 ʔəik.51	palaungwaplang, palaungwahu, khmuicpray, palaungwamangan, palaungwarumai, palaungwashuangdiang, bahnarichre, palaungwayongde, bahnaricrengao, palaungwakhme, vieticthavung, khmuicmlabri, mangicmang, palaungwakhamet, bahnaricje, bahnaricmdip, bahnaricdidra, palaungwawa, bahnaricjeh, vieticliha, palaungwadeang, katuicdakkang, bahnaricmbunong, bahnaricstieng, katuickatu, palaungwamane, vieticthavungso, katuictaoi, bahnaricjru, khmuickhang, katuicso, bahnaricchrau, khmuicbit, bahnaricmrolom, asliankensiw, katuiclaokatu, bahnarickahochil, pearicchongh, pearicsamre, mangicpaliu, pearickasong, vietictuum, khmericksurin, vieticmalieng, palaungwapangpin, pearicchong, khmuicphong, palaungwagantang, katuicong, vieticphongv, bahnaricarak, aslianjahai	100	U+005f
-ɔ	ɔ	tɔh, bɔh	khmuicbit, bahnarichre, katuictaoi, mangicmang, vieticliha, khmuickxinhmul, katuicong, bahnaricmbunong, bahnaricma2, palaungwamane, bahnaricveh, katuicnge, khmuicpray, palaungwaplang, katuicmak, asliansemoqberi, vieticthavung, pearicsamre, vietickhaphong, khmerickhmer, mangicbugan, khmuicphong, pearicchong, asliantemiar, bahnaricarak, palaungwakhamet, palaungwayongde, katuicpakoh, palaungwaguanshuang, bahnaricstieng, bahnarictariang, katuictaoih, katuicneu, vieticthavungso, bahnaricje, bahnaricmdip, bahnaricdidra, bahnaricjru, vieticphongv, bahnaricpanong, katuictri, vieticcuoi, bahnaricchrau, palaungwakhme, bahnaricmrolom, mundabonda, palaungwamangan, bahnaricoy, asliansemai, bahnarickahochil, pearicchongh, khmuickhmu, pearickasong, vieticthomon, palaungwawa, bahnaricma1, bahnaricsedang, bahnaricnhaheun, vieticmalieng, palaungwadeang, bahnaricbahnar, vieticmuongkoi, katuicdakkang, palaungwahu, khmuicmlabri, aslianjahai	100	U+0254
-l	l	klak, blɔ	bahnarickorcua, bahnarictariang, bahnaricje, bahnaricveh, vieticphongv, katuickantu, mangicmang, katuicdakkang, palaungwayongde, bahnarichre, mundajuang, monicnyakur, mundakharia, katuickatu, palaungwamane, katuicneu, katuictaoi, bahnaricpanong, vieticcuoi, bahnarickadong, mundabonda, pearickasong, vietictuum, vieticruc, katuicong, asliansemelai, katuicpakoh, bahnaricstieng, katuictaoih, vieticthavungso, bahnaricrengao, bahnaricdidra, bahnaricjru, mundakorku, bahnarichadang, katuicnge, bahnaricchrau, khmuicpray, katuictri, asliankensiw, khmuiciduh, bahnaricoy, asliansemai, bahnarickahochil, pearicchongh, pearicsamre, mangicpaliu, palaungwashuangdiang, palaungwawa, vietickhaphong, bahnaricjeh, khmerickhmer, bahnaricma1, bahnaricsedang, palaungwapangpin, pearicchong, bahnaricbahnar, vieticmuongkoi, palaungwahu, katuickui	100	U+006c
-^t	t	tɔh, toh	bahnaricoy, bahnarictariang, bahnaricjru, bahnarictempuan, pearicchongh, bahnaricnhaheun, bahnaricarak, bahnaricstieng, katuictaoih, bahnaricma2, katuickatu, vieticthavungso, bahnaricmrolom, nicobariccar, palaungwaplang, asliankensiw, bahnarichalang, vieticthavung, pearickasong, bahnaricjeh, bahnaricma1, bahnaricsedang, vieticmalieng, pearicchong, bahnaricbahnar, vieticmuongkoi, katuicdakkang, palaungwakhamet, bahnaricmbunong, bahnarichre, katuicbru, palaungwaguanshuang, katuicpakoh, monicnyakur, katuicneu, mundasantali, katuictaoi, bahnaricje, bahnaricmdip, bahnaricveh, monicmon, khmuickhang, bahnaricdidra, katuicnge, bahnarichadang, vieticvietnamese, bahnarickadong, bahnaricpanong, palaungwakhme, katuickantu, khmuicbit, katuiclaokatu, asliansemoqberi, khmuiciduh, bahnarickahochil, mangicpaliu, vieticthomon, palaungwawa, mundamundari, vieticruc, khmericksurin, mangicmang, katuicbruvk, bahnarickorcua, katuickui	100	U+005e U+0074
-ŋ	ŋ	diʔ.L dəgŋ.L, kəsiaŋ.L	bahnaricrengao, pearicsamre, pearickasong, pearicchong, vieticphongv, katuictaoi, bahnaricdidra, palaungwaplang, pearicchongh, vietictuum, vieticliha, katuicong, palaungwahu, palaungwarumai, palaungwakhamet, bahnaricarak, katuicbru, palaungwaguanshuang, monicnyakur, bahnaricmdip, khmuickhang, palaungwakhme, mangicpaliu, vieticthomon, palaungwawa, bahnaricjeh, bahnaricsedang, mangicbugan, vieticmuongkoi, katuickui, bahnaricmbunong, palaungwamane, bahnaricjru, vieticcuoi, katuickantu, khmuicbit, katuiclaokatu, khmuiciduh, bahnarichalang, palaungwamangan, khmuickhmu, vietickhaphong, vieticruc, khmericksurin, mangicmang, khmuickxinhmul, asliantemiar, palaungwagantang, katuicdakkang, katuicbruvk	100	U+014b
-t	t	harta, ʔat.55	monicnyakur, palaungwamane, mundasantali, bahnarickahochil, pearicsamre, vieticruc, palaungwapangpin, palaungwagantang, palaungwahu, bahnaricmbunong, nicobaricnancawri, palaungwayongde, bahnaricsre, mundajuang, vieticthavungso, bahnaricje, monicmon, vieticphongv, bahnaricchrau, palaungwaplang, asliankensiw, pearickasong, palaungwashuangdiang, mundamundari, vietictuum, vieticmalieng, vieticliha, aslianjahhut, bahnarichre, palaungwaguanshuang, bahnaricstieng, katuicpakoh, katuictaoih, bahnaricma2, bahnaricrengao, khmuickhang, bahnaricjru, katuicso, khmuicpray, palaungwakhme, khmuicbit, katuicmak, mundabonda, bahnarichalang, palaungwamangan, asliansemai, bahnarictempuan, pearicchongh, vietickhaphong, bahnaricjeh, khmerickhmer, mangicmang, khmuickxinhmul, palaungwadeang, pearicchong, bahnaricbahnar, vieticarem, katuickui, khmuicmlabri, bahnaricarak, mundasora	100	U+0074
-^m	m	mat, majam	khmuicpray, vieticcuoi, mangicpaliu, vieticthomon, vieticmuongkoi, mundakharia, bahnarictariang, khmuicksinmul, mundasantali, bahnaricje, bahnaricmdip, monicmon, vieticphongv, bahnaricchrau, vieticvietnamese, mundabonda, asliankensiw, khmuiciduh, bahnarichalang, khmuickhmu, mundamundari, vieticruc, vietictuum, vieticmalieng, khmuickxinhmul, khmuicphong, asliantemiar, mundasora, palaungwakhamet, bahnaricmbunong, nicobaricnancawri, bahnarichre, palaungwayongde, katuicbru, bahnaricsre, mundajuang, monicnyakur, bahnaricstieng, bahnaricma2, bahnaricrengao, bahnaricveh, bahnaricdidra, khmuickhang, mundakorku, mundaparengi, bahnarickadong, khmuicbit, bahnaricmrolom, nicobariccar, palaungwaplang, katuiclaokatu, bahnaricoy, asliansemai, aslianjahai, pearicchongh, vieticthavung, vietickhaphong, khmerickhmer, bahnaricsedang, khmericksurin, vieticliha, pearicchong, aslianjahhut, vieticarem, palaungwahu, katuickui, asliansemelai	100	U+005e U+006d
-ŋ$	ŋ	ŋhaŋ, praŋ	bahnarichadang, katuicso, khmuicpray, katuictri, katuiclaokatu, palaungwadeang, khmuicmlabri, bahnarichre, bahnaricsre, katuicpakoh, bahnaricstieng, bahnarictariang, khmuicksinmul, katuictaoih, katuicneu, bahnaricmdip, bahnaricveh, monicmon, bahnaricjru, bahnarickadong, katuickantu, khmuicbit, nicobariccar, katuicmak, khmuiciduh, bahnarickahochil, khmuickhmu, khmerickhmer, bahnaricma1, khmuicphong, aslianjahhut, katuicdakkang, vieticarem, mundasora, bahnaricmbunong, nicobaricnancawri, katuickatu, vieticthavungso, mundasantali, bahnaricdidra, katuicnge, bahnaricchrau, bahnaricmrolom, asliankensiw, bahnarichalang, asliansemoqberi, bahnaricoy, aslianjahai, asliansemai, bahnarictempuan, bahnaricjeh, mundamundari, khasikhasi, khmericksurin, bahnaricnhaheun, katuicbruvk, bahnaricbahnar, asliansemelai, bahnaricarak	100	U+014b U+0024
-e	e	cem, sem	asliantemiar, asliankensiw, mundamundari, khasikhasi, mundakharia, bahnaricma2, bahnaricrengao, bahnaricsedang, mundasantali, bahnaricveh, monicmon, khmuickhang, khmuicpray, bahnarickadong, khmuicbit, bahnarickahochil, vieticliha, khmuickxinhmul, vieticmuongkoi, palaungwahu, vieticphongv, bahnarichre, bahnaricsre, katuicbru, mundajuang, katuicpakoh, bahnaricstieng, bahnarictariang, katuictaoih, khmuicksinmul, palaungwamane, mundasora, bahnaricmdip, bahnaricjru, bahnaricdidra, katuicnge, mundakorku, katuicso, bahnarichadang, vieticcuoi, vieticvietnamese, bahnaricpanong, mundabonda, asliansemoqberi, bahnarichalang, bahnaricoy, bahnarictempuan, pearicchongh, vieticthavung, mangicpaliu, palaungwawa, bahnaricjeh, vietictuum, bahnaricma1, bahnaricnhaheun, mangicmang, mangicbugan, bahnarickorcua, pearicchong, aslianjahhut, katuicdakkang, katuicong, vieticarem, bahnaricarak, aslianjahai	100	U+0065
-^s	s	sem, sim	khmuicpray, khmuickhmu, khasikhasi, mangicbugan, asliantemiar, palaungwaguanshuang, bahnaricchrau, vieticphongv, bahnaricpanong, khmuicbit, palaungwaplang, mundabonda, bahnarichalang, palaungwamangan, asliansemai, bahnarickahochil, mangicpaliu, palaungwawa, khmerickhmer, vietictuum, mangicmang, vieticliha, khmuicphong, bahnaricbahnar, asliansemelai, aslianjahai, bahnaricmbunong, nicobaricnancawri, bahnaricsre, katuicbru, mundajuang, bahnaricstieng, mundakharia, palaungwamane, bahnaricma2, katuicneu, mundasora, bahnaricje, bahnaricmdip, monicmon, bahnarichadang, katuicso, mundaparengi, bahnarickadong, vieticcuoi, katuictri, bahnaricmrolom, nicobariccar, asliankensiw, katuicmak, asliansemoqberi, bahnarictempuan, pearicchongh, pearicsamre, vietickhaphong, vieticthomon, palaungwashuangdiang, mundamundari, khmericksurin, bahnaricsedang, vieticmalieng, palaungwapangpin, palaungwadeang, bahnarickorcua, vieticmuongkoi, aslianjahhut, pearicchong, vieticarem, palaungwarumai	100	U+005e U+0073
-m	m	hmɔk, chim.C	vieticruc, bahnaricsedang, katuicbru, bahnaricrengao, katuictaoi, vieticcuoi, katuickui, palaungwakhamet, monicnyakur, bahnaricdidra, khmuickhang, pearicchongh, vieticthavung, pearicsamre, pearickasong, palaungwashuangdiang, vieticthomon, vietickhaphong, khmerickhmer, vietictuum, khmericksurin, mangicmang, vieticliha, pearicchong, vieticmuongkoi, katuicong, palaungwahu, vieticarem, palaungwarumai, vieticphongv, bahnaricarak, mundasora, nicobaricnancawri, bahnarichre, palaungwaguanshuang, katuicpakoh, palaungwamane, vieticthavungso, monicmon, bahnaricjru, bahnaricpanong, bahnaricchrau, palaungwakhme, khmuicbit, bahnaricmrolom, palaungwaplang, katuiclaokatu, khmuiciduh, palaungwamangan, mangicpaliu, palaungwawa, bahnaricjeh, bahnaricnhaheun, vieticmalieng, palaungwapangpin, khmuickxinhmul, katuicbruvk, asliantemiar, bahnaricbahnar	100	U+006d
-k	k	tak.A, taŋ.31 ʔəik.51	palaungwamangan, palaungwashuangdiang, bahnaricje, palaungwaplang, palaungwapangpin, khmuickxinhmul, palaungwagantang, vieticthavung, pearickasong, pearicchong, palaungwakhamet, palaungwaguanshuang, monicnyakur, palaungwamane, vieticthavungso, bahnaricrengao, khmuickhang, khmuicbit, asliansemai, pearicchongh, pearicsamre, vietickhaphong, bahnaricjeh, palaungwarumai, nicobaricnancawri, bahnarichre, katuicbru, mundajuang, mundakharia, katuickatu, khmuicksinmul, katuictaoih, katuicneu, monicmon, katuicnge, katuictri, bahnaricchrau, palaungwakhme, katuickantu, nicobariccar, katuiclaokatu, bahnarichalang, palaungwawa, khmuicmlabri, mundamundari, khmerickhmer, vieticruc, bahnaricsedang, khmericksurin, vieticmalieng, asliantemiar, katuickui, palaungwayongde, bahnaricarak, aslianjahai	100	U+006b
-n	n	kan.L, hende	vieticmalieng, bahnaricrengao, vieticliha, palaungwakhamet, bahnarichre, vieticthavungso, mangicpaliu, vieticthomon, bahnaricsedang, khmuickxinhmul, asliantemiar, mundajuang, bahnaricmdip, khmuickhang, bahnaricdidra, bahnaricchrau, vieticvietnamese, palaungwakhme, khmuicbit, palaungwaplang, asliankensiw, mundabonda, bahnarickahochil, vieticthavung, khmuickhmu, vietickhaphong, mundamundari, khasikhasi, mangicmang, palaungwahu, palaungwayongde, mundakharia, bahnarictariang, palaungwamane, mundasantali, monicmon, mundakorku, bahnarichadang, vieticphongv, khmuicpray, bahnarickadong, bahnaricpanong, bahnaricmrolom, katuicmak, khmuiciduh, bahnarichalang, palaungwamangan, aslianjahai, pearicchongh, bahnaricjeh, vietictuum, pearicchong, aslianjahhut, mundasora	100	U+006e
-^ʔ	ʔ	ʔacɔ, ʔaŋ.51	katuickantu, katuicpakoh, khmuicksinmul, asliankensiw, nicobaricnancawri, katuickatu, palaungwakhme, khmuickxinhmul, aslianjahai, khmuickhang, khmuicbit, palaungwagantang, palaungwayongde, bahnaricstieng, vieticthavungso, bahnarichadang, katuicso, katuicmak, khmuiciduh, pearicchongh, palaungwadeang, katuicbruvk, bahnaricarak, bahnarichre, katuicbru, monicnyakur, katuictaoih, katuicneu, katuictaoi, bahnaricrengao, bahnaricjru, bahnaricpanong, bahnarickadong, vieticcuoi, bahnaricmrolom, palaungwaplang, bahnarichalang, pearicsamre, palaungwashuangdiang, vietickhaphong, khmuicmlabri, bahnaricjeh, vieticmalieng, palaungwapangpin, mangicmang, pearicchong, asliantemiar, katuickui, palaungwarumai	100	U+005e U+0294
-ʔ$	ʔ	ʒuʔ, hiʒuʔ	vieticthomon, bahnaricpanong, vietickhaphong, vieticmalieng, aslianjahhut, katuicso, bahnaricchrau, asliankensiw, mundabonda, mundamundari, khmericksurin, palaungwadeang, asliantemiar, katuicneu, mundasantali, vieticvietnamese, katuictri, vieticcuoi, khmuicbit, katuicmak, katuiclaokatu, khmuiciduh, bahnarickahochil, khmuickhmu, vieticthavung, palaungwawa, vieticarem, nicobaricnancawri, katuicpakoh, bahnaricstieng, katuickatu, katuictaoih, bahnaricma2, bahnaricdidra, bahnaricjru, bahnarichadang, mundakorku, katuickantu, khmuicpray, bahnarickadong, bahnaricmrolom, asliansemoqberi, bahnaricoy, bahnarictempuan, bahnaricma1, bahnarickorcua, khmuicphong, katuicong, asliansemelai	100	U+0294 U+0024
-ʔ	ʔ	diʔ.L dəgŋ.L, taŋ.31 ʔəik.51	vieticthavung, palaungwamane, mundaparengi, palaungwaguanshuang, bahnaricrengao, khmuicpray, palaungwaplang, pearicchongh, palaungwawa, aslianjahai, bahnaricmbunong, bahnarichre, katuickatu, vieticthavungso, bahnaricdidra, khmuickhang, palaungwakhme, mundabonda, asliansemai, khmericksurin, mangicmang, khmuicphong, palaungwahu, katuickui, asliansemelai, palaungwakhamet, bahnaricstieng, katuicpakoh, katuictaoih, katuictaoi, monicmon, bahnaricjru, katuicso, bahnaricchrau, asliansemoqberi, khmuiciduh, bahnarichalang, palaungwamangan, bahnarickahochil, khmuickhmu, pearickasong, palaungwashuangdiang, bahnaricjeh, mundamundari, khmuicmlabri, khmerickhmer, vieticruc, khasikhasi, palaungwapangpin, palaungwadeang, pearicchong, aslianjahhut, asliantemiar, katuicong, palaungwarumai, bahnaricarak	100	U+0294
-r	NULL	harta, troh	mundasantali, katuictaoi, mundamundari, bahnaricrengao, bahnaricdidra, katuicnge, bahnarichadang, mundaparengi, mundabonda, katuiclaokatu, khasikhasi, bahnaricnhaheun, katuicong, bahnaricmbunong, bahnarichre, katuicpakoh, mundakharia, katuickatu, katuictaoih, bahnaricma2, mundasora, bahnaricjru, bahnarickadong, khmuicbit, nicobariccar, bahnarichalang, palaungwamangan, pearicsamre, khmuicmlabri, asliansemelai, aslianjahai, nicobaricnancawri, bahnaricsre, mundajuang, monicnyakur, bahnaricmdip, monicmon, vieticvietnamese, bahnaricpanong, katuickantu, bahnaricmrolom, asliansemoqberi, bahnaricoy, khmuickhmu, pearickasong, bahnaricjeh, khmerickhmer, bahnaricma1, bahnaricsedang, khmuicphong, aslianjahhut, katuicdakkang	100	U+0072
-ɛ	ɛ	tɛh, tapɛ.24 tɛn.44	bahnarichre, katuicneu, nicobariccar, palaungwakhamet, vieticthavungso, asliansemai, vieticmalieng, mangicbugan, asliantemiar, katuickui, palaungwarumai, palaungwayongde, aslianjahai, bahnaricmbunong, katuicbru, bahnaricstieng, bahnaricma2, katuictaoi, bahnaricje, bahnaricmdip, bahnaricchrau, katuictri, katuicmak, khmuiciduh, vietictuum, vieticliha, palaungwadeang, bahnarickorcua, aslianjahhut, palaungwaguanshuang, monicnyakur, katuicpakoh, katuicso, vieticphongv, bahnaricpanong, katuickantu, khmuicbit, bahnaricmrolom, asliankensiw, bahnarichalang, palaungwamangan, bahnarictempuan, mangicpaliu, khmuicmlabri, vieticruc, khmericksurin, bahnaricma1, khmuickxinhmul, pearicchong, bahnaricbahnar, palaungwagantang, katuicdakkang, vieticarem, katuicong, katuicbruvk	100	U+025b
-^p	p	praŋ, put	katuicpakoh, bahnaricje, bahnarichadang, khmuicpray, pearicchongh, pearickasong, bahnaricarak, palaungwayongde, katuicbru, bahnaricstieng, monicmon, katuicso, katuictri, vieticcuoi, katuickantu, bahnaricpanong, pearicsamre, bahnaricjeh, mangicmang, vieticliha, katuicbruvk, palaungwapangpin, mangicbugan, khmuicphong, palaungwahu, khmuicmlabri, palaungwakhamet, nicobaricnancawri, monicnyakur, katuickatu, katuictaoih, khmuicksinmul, katuicneu, katuictaoi, bahnaricveh, bahnaricdidra, khmuickhang, bahnaricjru, mundakorku, vieticphongv, mundaparengi, bahnarickadong, khmuicbit, mundabonda, katuicmak, khmuiciduh, bahnarichalang, palaungwamangan, khmuickhmu, mangicpaliu, vietickhaphong, vieticthomon, palaungwashuangdiang, palaungwawa, vieticruc, vietictuum, khmericksurin, bahnaricsedang, bahnaricnhaheun, vieticmalieng, palaungwadeang, pearicchong, vieticmuongkoi, palaungwagantang, katuicong, vieticarem, palaungwarumai	100	U+005e U+0070
-33$	<?>	ʔan.33, saj.33	khmuickxinhmul, vieticliha, palaungwamangan, vieticcuoi, palaungwakhme, vietickhaphong, bahnaricje, palaungwaplang, palaungwashuangdiang, vieticmalieng, palaungwagantang, mangicbugan, palaungwahu, palaungwamane, vieticthomon, mangicpaliu, palaungwayongde, khmuickhang, vietictuum	100	U+0033 U+0033 U+0024
-h$	h	tɔh, toh	bahnaricma2, bahnaricsre, bahnaricstieng, katuictaoih, bahnaricveh, asliansemoqberi, bahnaricoy, khmerickhmer, khasikhasi, bahnaricma1, bahnaricnhaheun, bahnarickorcua, bahnaricmbunong, bahnarichre, katuicpakoh, bahnaricmdip, monicmon, bahnaricjru, katuicnge, bahnaricpanong, bahnaricchrau, katuickantu, bahnaricmrolom, nicobariccar, bahnarickahochil, bahnaricjeh, vieticruc, khmericksurin, bahnaricbahnar, katuicong, asliansemelai, bahnaricarak, aslianjahai, nicobaricnancawri, bahnarictariang, khmuicksinmul, katuickatu, bahnaricdidra, bahnarichadang, katuictri, khmuicpray, bahnarickadong, khmuicbit, khmuickhmu, vieticthavung, palaungwawa, khmuicmlabri, katuicbruvk, khmuicphong, asliantemiar, katuicdakkang, vieticarem, palaungwarumai	100	U+0068 U+0024
-^b	b	blɔ, bɔh	khmuicmlabri, bahnaricnhaheun, bahnaricjru, khmuiciduh, khmerickhmer, mangicmang, bahnaricmbunong, bahnaricrengao, bahnaricdidra, khmuickhang, bahnaricchrau, asliankensiw, khmuickhmu, vieticthomon, khasikhasi, vieticruc, bahnarickorcua, khmuicphong, aslianjahhut, katuicdakkang, palaungwarumai, bahnarichre, bahnaricsre, katuicbru, mundajuang, katuicpakoh, bahnaricstieng, bahnarictariang, katuickatu, katuictaoih, khmuicksinmul, katuicneu, mundasora, mundasantali, katuictaoi, bahnaricje, bahnaricmdip, bahnaricveh, monicmon, katuicnge, mundakorku, vieticvietnamese, bahnarickadong, katuictri, vieticcuoi, katuickantu, khmuicpray, khmuicbit, bahnaricmrolom, katuicmak, asliansemoqberi, mundabonda, bahnaricoy, asliansemai, vieticthavung, vietickhaphong, vietictuum, bahnaricma1, vieticmalieng, vieticliha, mangicbugan, khmuickxinhmul, palaungwadeang, asliantemiar, katuicong, vieticarem, asliansemelai, vieticphongv, katuicbruvk, aslianjahai	100	U+005e U+0062
-j	j	saj.33, majam	katuictaoi, vieticmuongkoi, katuicong, nicobaricnancawri, katuicbru, katuicpakoh, mundasantali, bahnaricje, mundakorku, mundamundari, vietictuum, monicnyakur, katuickatu, vieticthavungso, vieticcuoi, pearicchongh, vieticthavung, pearicsamre, mangicpaliu, vieticthomon, bahnaricnhaheun, vieticmalieng, pearicchong, katuicbruvk, mundasora, bahnaricmbunong, bahnaricarak, katuictaoih, bahnaricma2, bahnaricmdip, khmuickhang, bahnaricjru, bahnarichadang, katuicso, mundaparengi, khmuicpray, bahnaricpanong, bahnarickadong, katuictri, nicobariccar, palaungwaplang, asliankensiw, katuicmak, asliansemoqberi, aslianjahai, bahnaricoy, vietickhaphong, khmuicmlabri, vieticruc, bahnaricsedang, mangicmang, vieticliha, khmuickxinhmul, bahnaricbahnar, asliantemiar, katuicdakkang, vieticarem, asliansemelai, katuickui, vieticphongv	100	U+006a
-^h	h	ham, harta	khmuickhmu, mundasantali, mundamundari, mundakorku, bahnarickadong, katuicdakkang, bahnaricarak, palaungwamane, bahnarichadang, palaungwawa, bahnaricbahnar, katuicneu, vieticthavungso, bahnaricrengao, bahnaricdidra, bahnaricjru, bahnaricchrau, bahnarichalang, vieticthavung, pearicsamre, pearickasong, bahnaricsedang, mangicmang, khmuickxinhmul, aslianjahhut, katuicong, nicobaricnancawri, palaungwayongde, bahnarictariang, khmuicksinmul, katuictaoi, bahnaricje, bahnaricveh, katuicnge, bahnaricpanong, nicobariccar, palaungwaplang, asliankensiw, katuiclaokatu, khmuiciduh, asliansemai, pearicchongh, mangicpaliu, bahnaricjeh, vieticruc, bahnaricma1, bahnaricnhaheun, pearicchong, bahnarickorcua, asliantemiar, asliansemelai, aslianjahai	100	U+005e U+0068
-ɨ	ɨ	ʔɨt.A, sɨm	khmuickhang, bahnaricarak, bahnaricmdip, bahnaricjru, katuicso, palaungwaplang, bahnaricoy, khmuickhmu, nicobaricnancawri, katuicpakoh, palaungwamane, vieticthavungso, katuictaoi, bahnaricchrau, vieticcuoi, palaungwakhme, katuictri, khmuicbit, bahnaricmrolom, asliankensiw, palaungwawa, khmerickhmer, bahnaricma1, bahnaricnhaheun, katuicbruvk, aslianjahhut, katuickui, katuicbru, monicnyakur, bahnaricstieng, katuickatu, khmuicksinmul, katuictaoih, katuicnge, khmuicpray, bahnaricpanong, katuicmak, katuiclaokatu, pearicchongh, pearicsamre, mangicpaliu, pearickasong, vietickhaphong, vieticthomon, vieticruc, khmericksurin, vietictuum, vieticmalieng, mangicmang, vieticliha, palaungwapangpin, khmuickxinhmul, khmuicphong, pearicchong, vieticmuongkoi, katuicdakkang, vieticarem, katuicong, palaungwarumai, khmuicmlabri, aslianjahai	100	U+0268
-^c	c	cem, cim	bahnarictariang, bahnaricje, bahnaricveh, bahnarichadang, katuiclaokatu, bahnaricoy, bahnaricsedang, katuickui, katuictaoih, katuicneu, katuickatu, bahnaricrengao, bahnaricdidra, katuicnge, vieticphongv, vieticvietnamese, bahnarickadong, vieticcuoi, katuicmak, bahnarichalang, asliansemai, vieticthomon, bahnaricjeh, vietictuum, bahnaricnhaheun, pearicchong, vieticmuongkoi, asliansemelai, bahnaricarak, bahnarichre, katuicbru, katuicpakoh, bahnaricstieng, khmuicksinmul, mundasantali, katuictaoi, vieticthavungso, bahnaricjru, khmuickhang, katuicso, khmuicpray, bahnaricchrau, katuickantu, nicobariccar, khmuiciduh, pearicchongh, khmuickhmu, vieticthavung, pearicsamre, pearickasong, vietickhaphong, mundamundari, khmuicmlabri, bahnaricma1, khmericksurin, katuicbruvk, vieticliha, khmuickxinhmul, mangicbugan, aslianjahhut, asliantemiar, katuicong, vieticarem	100	U+005e U+0063
-^l	l	lutur, laʒ	mundaparengi, vieticvietnamese, vieticthomon, mundakharia, khmuickhang, palaungwamangan, mangicpaliu, palaungwahu, palaungwakhamet, palaungwayongde, mundajuang, bahnaricstieng, katuicneu, mundasantali, mundakorku, palaungwakhme, asliansemoqberi, bahnarichalang, palaungwashuangdiang, mundamundari, palaungwapangpin, mangicmang, palaungwagantang, vieticmuongkoi, katuickui, mundasora, bahnaricmbunong, palaungwaguanshuang, monicnyakur, katuickatu, palaungwamane, khmuicksinmul, bahnaricma2, bahnarictariang, katuictaoi, bahnaricmdip, bahnaricveh, monicmon, katuicso, bahnaricpanong, bahnaricchrau, vieticphongv, khmuicpray, bahnaricmrolom, mundabonda, katuiclaokatu, asliansemai, bahnarictempuan, khmuickhmu, vieticthavung, palaungwawa, bahnaricjeh, khmuicmlabri, khasikhasi, vieticruc, vietictuum, mangicbugan, khmuickxinhmul, asliantemiar, bahnaricbahnar, katuicdakkang, asliansemelai, katuicbruvk	100	U+005e U+006c
-k$	k	klak, hmɔk	khmerickhmer, bahnaricjru, bahnarichalang, bahnaricnhaheun, bahnarickorcua, katuicdakkang, bahnaricarak, bahnaricstieng, bahnarictariang, khmuicksinmul, katuickatu, bahnaricpanong, palaungwawa, bahnaricbahnar, asliantemiar, bahnaricmbunong, katuictaoih, bahnaricmdip, bahnaricveh, monicmon, bahnaricdidra, bahnarichadang, katuicnge, khmuicpray, bahnarickadong, katuickantu, khmuicbit, bahnaricmrolom, mundabonda, khmuickhmu, khmuicmlabri, bahnarichre, bahnaricma2, vieticthavungso, katuictaoi, nicobariccar, asliankensiw, katuiclaokatu, bahnaricoy, asliansemai, bahnarictempuan, bahnaricjeh, katuicong, vieticarem	100	U+006b U+0024
-m$	m	cem, mham	khmuickhmu, katuickatu, bahnaricveh, khmuicpray, katuickantu, bahnaricmrolom, bahnaricbahnar, bahnaricarak, bahnaricmbunong, bahnarichre, bahnaricsre, bahnaricstieng, bahnarictariang, bahnaricma2, katuicneu, bahnaricmdip, bahnaricjru, bahnarichadang, bahnaricchrau, bahnarickadong, katuicmak, khmuiciduh, bahnarichalang, bahnaricoy, bahnarickahochil, bahnarictempuan, khmerickhmer, khmericksurin, bahnaricnhaheun, khmuicphong, aslianjahhut, nicobaricnancawri, katuicpakoh, mundakharia, khmuicksinmul, vieticthavungso, monicmon, bahnaricdidra, katuicnge, katuicso, mundaparengi, katuictri, vieticvietnamese, bahnaricpanong, khmuicbit, nicobariccar, katuiclaokatu, asliansemai, palaungwawa, bahnaricjeh, khmuicmlabri, bahnaricma1, khasikhasi, katuicbruvk, palaungwadeang, katuicdakkang, katuicong, vieticarem, asliansemelai, mundasora	100	U+006d U+0024
-j$	j	kuj, caj	khmuiciduh, nicobaricnancawri, khmericksurin, bahnaricjru, mundaparengi, bahnaricpanong, khmuicmlabri, bahnaricveh, monicmon, katuickantu, nicobariccar, asliansemai, khmerickhmer, asliansemelai, bahnaricarak, katuickatu, bahnarictariang, katuicneu, katuicnge, katuiclaokatu, aslianjahai, bahnaricoy, bahnarictempuan, khmuickhmu, khmuicphong, bahnarickorcua, vieticarem, katuicong, katuicpakoh, khmuicksinmul, mundasantali, bahnarickadong, katuictri, asliankensiw, asliansemoqberi, katuicmak, vieticthomon, vieticruc, bahnaricma1, bahnaricnhaheun, katuicbruvk, aslianjahhut, asliantemiar, katuicdakkang, mundasora	100	U+006a U+0024
-^n	n	nam.51, ntiŋ	bahnaricmbunong, bahnaricmdip, palaungwayongde, palaungwahu, bahnaricsre, bahnaricchrau, palaungwamangan, vieticliha, palaungwagantang, palaungwakhamet, mundakorku, katuicso, khmuicpray, palaungwakhme, khmuicbit, asliansemoqberi, asliansemai, bahnarickahochil, palaungwashuangdiang, mundamundari, vietictuum, palaungwapangpin, mangicbugan, aslianjahhut, katuicdakkang, vieticphongv, bahnaricarak, nicobaricnancawri, katuicbru, mundajuang, bahnaricstieng, bahnarictariang, palaungwamane, bahnaricma2, katuictaoi, bahnaricje, khmuickhang, katuicnge, mundaparengi, katuictri, nicobariccar, palaungwaplang, mundabonda, katuicmak, bahnarictempuan, palaungwawa, bahnaricjeh, vieticruc, bahnaricma1, palaungwadeang, bahnaricbahnar, katuicong, vieticarem, katuickui, palaungwarumai, katuicbruvk	100	U+005e U+006e
-t$	t	ɲet, cet	katuicmak, bahnaricmdip, monicmon, katuictri, bahnarickorcua, bahnaricmbunong, bahnaricveh, katuicso, bahnaricchrau, khmuicbit, bahnaricmrolom, palaungwadeang, bahnaricarak, bahnaricsre, katuicbru, bahnarictariang, katuicneu, bahnaricjru, khmuicpray, katuickantu, asliansemoqberi, katuiclaokatu, bahnarichalang, bahnaricoy, asliansemai, bahnarickahochil, palaungwawa, khasikhasi, asliantemiar, khmuicmlabri, bahnarichre, bahnaricstieng, khmuicksinmul, bahnaricma2, katuickatu, vieticthavungso, katuicnge, vieticvietnamese, asliankensiw, bahnarictempuan, khmuickhmu, bahnaricma1, bahnaricnhaheun, katuicbruvk, khmuicphong, aslianjahhut, katuicdakkang, katuicong, vieticarem, asliansemelai, aslianjahai	100	U+0074 U+0024
-h	h	ʔəham, ʔaham	bahnarichalang, bahnaricjeh, katuickui, bahnaricrengao, pearicchongh, pearicchong, palaungwarumai, bahnarichre, katuictaoi, nicobariccar, pearicsamre, pearickasong, khmuickxinhmul, katuicpakoh, katuictaoih, mundasantali, bahnaricdidra, palaungwaplang, asliansemoqberi, vieticthavung, bahnaricsedang, katuicdakkang, palaungwakhamet, nicobaricnancawri, katuicbru, monicnyakur, palaungwaguanshuang, katuickatu, bahnaricma2, vieticthavungso, bahnaricje, bahnarichadang, katuicso, bahnaricchrau, katuictri, palaungwakhme, bahnarickadong, katuickantu, asliankensiw, katuiclaokatu, katuicmak, bahnarickahochil, khasikhasi, vietictuum, vieticmalieng, mangicmang, vieticliha, katuicbruvk, khmuicphong, aslianjahhut, bahnarickorcua, katuicong, asliansemelai, vieticphongv, bahnaricarak	100	U+0068
-51$	<?>	nham.51, ŋai.51	palaungwaplang, mangicmang, palaungwamangan, palaungwashuangdiang, palaungwayongde, palaungwapangpin, palaungwarumai, palaungwakhme, palaungwagantang, palaungwamane	100	U+0035 U+0031 U+0024
-^d	d	dɔŋ, di.A 	khasikhasi, bahnaricma2, bahnaricrengao, bahnaricdidra, khmuicbit, bahnarichre, bahnaricoy, bahnaricma1, khmericksurin, mangicmang, vieticmuongkoi, palaungwarumai, katuickatu, bahnaricmdip, khmuiciduh, asliansemai, bahnarickahochil, bahnaricjeh, palaungwadeang, bahnaricbahnar, bahnaricarak, bahnaricsre, palaungwayongde, katuicbru, katuicpakoh, khmuicksinmul, katuictaoih, mundasora, katuicneu, vieticthavungso, katuictaoi, bahnaricje, mundasantali, bahnaricveh, khmuickhang, vieticphongv, katuicso, bahnaricpanong, vieticcuoi, mundabonda, katuiclaokatu, bahnarichalang, bahnarictempuan, pearicchongh, pearicsamre, pearickasong, mundamundari, khmerickhmer, vietictuum, bahnaricnhaheun, vieticmalieng, vieticliha, katuicbruvk, khmuickxinhmul, pearicchong, katuicdakkang, asliansemelai, khmuicmlabri, aslianjahai	100	U+005e U+0064
-c	NULL	ʔacɔ, hoc.A	katuictaoi, palaungwamangan, katuickantu, khmuicbit, pearicchongh, palaungwashuangdiang, vieticruc, vieticmalieng, pearicchong, katuicpakoh, monicnyakur, katuickatu, katuictaoih, monicmon, katuicso, katuictri, pearicsamre, vietickhaphong, bahnaricjeh, khmericksurin, vieticliha, mangicbugan, katuicdakkang, vieticarem, vieticphongv, katuicbruvk, aslianjahai, palaungwakhamet, nicobaricnancawri, bahnarichre, palaungwayongde, katuicbru, mundajuang, katuicneu, vieticthavungso, bahnaricrengao, bahnaricje, bahnaricveh, bahnaricjru, mundakorku, katuicnge, bahnarichadang, bahnarickadong, vieticcuoi, palaungwakhme, nicobariccar, palaungwaplang, katuiclaokatu, katuicmak, khmuiciduh, vieticthavung, pearickasong, vieticthomon, khmerickhmer, vietictuum, khmuickxinhmul, vieticmuongkoi, katuicong, palaungwahu, katuickui	100	U+0063
-55$	<?>	ʔat.55, laŋ.55	palaungwahu, palaungwagantang, palaungwapangpin, mangicpaliu, palaungwayongde, palaungwamangan, palaungwakhamet, palaungwarumai, mangicbugan, mangicmang, khmuickhang, palaungwakhme, vieticmalieng, palaungwaplang	100	U+0035 U+0035 U+0024
-a$	a	ka, ca	mundakharia, mundasantali, mundamundari, mundasora, mundajuang, mundakorku, bahnaricpanong, bahnarickadong, bahnaricbahnar, bahnaricmbunong, bahnaricsre, bahnaricstieng, bahnarictariang, bahnaricma2, katuicneu, khmuicksinmul, bahnaricmdip, bahnaricveh, monicmon, bahnaricjru, bahnarichadang, bahnaricchrau, katuictri, bahnaricmrolom, katuicmak, asliansemoqberi, bahnarichalang, bahnarickahochil, bahnarictempuan, bahnaricma1, bahnarickorcua, khmuicphong, bahnaricarak, nicobaricnancawri, bahnarichre, katuicpakoh, katuickatu, katuictaoih, bahnaricdidra, katuicnge, katuicso, vieticvietnamese, katuickantu, khmuicpray, nicobariccar, mundabonda, katuiclaokatu, bahnaricoy, khasikhasi, bahnaricnhaheun, katuicbruvk, katuicdakkang, palaungwahu, asliansemelai	100	U+0061 U+0024
-A$	<?>	suk.A, ti.A	pearicchongh, katuictaoi, pearicchong, pearickasong, pearicsamre, palaungwawa, palaungwarumai	100	U+0041 U+0024
-^kh	kh	khat.31, khik.55	palaungwamangan, palaungwashuangdiang, palaungwapangpin, palaungwagantang, khasikhasi, palaungwayongde, palaungwakhamet, vieticthavungso, monicmon, khmuicpray, vieticthavung, khmerickhmer, vietictuum, khmericksurin, vieticliha, khmuickxinhmul, palaungwahu, palaungwamane, vieticphongv, vieticcuoi, pearicsamre, pearickasong, asliansemelai, bahnaricmbunong, monicnyakur, mundakharia, katuicneu, bahnaricveh, khmuickhang, bahnarichadang, mundakorku, vieticvietnamese, khmuicbit, bahnaricmrolom, palaungwaplang, katuicmak, bahnaricoy, palaungwawa, vietickhaphong, khmuicmlabri, vieticruc, bahnaricnhaheun, mangicbugan, palaungwadeang, bahnarickorcua, vieticmuongkoi, vieticarem, katuickui, palaungwarumai, katuicbruvk	100	U+005e U+006b U+0068
-i$	i	ti, si	mundabonda, vieticvietnamese, mundamundari, mundakorku, khmuicbit, khasikhasi, bahnaricmdip, monicmon, mundaparengi, khmerickhmer, palaungwadeang, bahnaricmbunong, bahnaricsre, mundajuang, bahnaricstieng, katuicso, khmuicpray, bahnaricchrau, bahnarickadong, bahnaricmrolom, katuicmak, bahnaricoy, bahnarickahochil, vieticthavung, palaungwawa, bahnaricma1, bahnarickorcua, bahnaricarak, mundasora, nicobaricnancawri, bahnarichre, katuicpakoh, mundakharia, bahnarictariang, bahnaricma2, katuicneu, mundasantali, bahnaricveh, bahnaricdidra, bahnarichadang, katuictri, nicobariccar, asliansemoqberi, khmericksurin, vieticruc, bahnaricnhaheun, katuicbruvk, bahnaricbahnar, katuicdakkang, asliansemelai	100	U+0069 U+0024
-n$	n	ʔan, ʔɔn	mundaparengi, vieticvietnamese, khmuicksinmul, bahnarichadang, bahnarickadong, khmuickhmu, katuicneu, vieticthavungso, asliankensiw, vieticthavung, mundajuang, bahnaricstieng, katuictaoih, mundasora, bahnaricmdip, bahnaricdidra, mundakorku, katuicso, bahnaricchrau, khmuicbit, nicobariccar, katuicmak, khmuiciduh, mundamundari, khasikhasi, bahnaricbahnar, bahnaricmbunong, bahnarichre, katuicpakoh, katuickatu, bahnarictariang, katuictri, khmuicpray, bahnaricmrolom, asliansemoqberi, asliansemai, bahnarictempuan, palaungwawa, khmerickhmer, khmericksurin, khmuicphong, bahnarickorcua, aslianjahhut, katuicdakkang, vieticarem, asliansemelai, khmuicmlabri, aslianjahai	100	U+006e U+0024
-B$	<?>	mat.B, ham.B	bahnarichalang, katuicong, vieticthavung, katuicbru, pearicsamre, katuickui, pearicchongh, pearickasong, palaungwawa, pearicchong, vietickhaphong, katuictri, katuicneu	100	U+0042 U+0024
-31$	<?>	ka.31, khat.31	mangicbugan, palaungwashuangdiang, palaungwakhamet, palaungwapangpin, vieticcuoi, vieticliha, bahnaricje, vieticthomon, palaungwamane, mangicmang, palaungwaplang, palaungwagantang, mangicpaliu, palaungwahu, khmuickhang, palaungwakhme, palaungwayongde	100	U+0033 U+0031 U+0024
-L$	<?>	sak.L, kan.L	bahnaricrengao, bahnaricsedang, bahnarichre, bahnaricjeh, bahnaricdidra, katuictaoih, katuicpakoh, katuicbruvk, monicnyakur	100	U+004c U+0024
-^r	r	ramɨh, raŋ.T	katuicbruvk, katuicbru, katuicmak, mundasantali, mundakorku, katuicso, bahnaricmrolom, bahnarickahochil, khasikhasi, bahnaricsedang, nicobaricnancawri, bahnaricsre, mundakharia, bahnarictariang, bahnaricma2, bahnaricmdip, bahnaricveh, bahnaricpanong, khmuicpray, katuictri, mundabonda, khmuiciduh, aslianjahai, asliansemai, vietickhaphong, palaungwawa, bahnaricjeh, mundamundari, palaungwadeang, bahnarickorcua, aslianjahhut, mundasora, bahnaricmbunong, palaungwaguanshuang, katuicneu, bahnaricje, bahnaricjru, katuicnge, mundaparengi, bahnaricchrau, khmuicbit, nicobariccar, katuiclaokatu, bahnarichalang, palaungwamangan, bahnarictempuan, khmuickhmu, pearickasong, bahnaricnhaheun, vieticliha, khmuicphong, asliantemiar, palaungwarumai, asliansemelai	100	U+005e U+0072
-^ŋ	ŋ	ŋɔc, ŋai.51	palaungwapangpin, katuicong, palaungwakhamet, katuictaoih, katuictaoi, khmuickhang, katuicnge, katuictri, palaungwamangan, palaungwawa, palaungwadeang, palaungwagantang, bahnaricarak, bahnarichre, katuicbru, palaungwaguanshuang, palaungwamane, bahnaricje, bahnaricmdip, bahnarichadang, khmuicpray, palaungwakhme, katuickantu, khmuicbit, palaungwaplang, khmuiciduh, palaungwashuangdiang, palaungwarumai, palaungwayongde, bahnaricmbunong, bahnaricsre, katuicpakoh, monicnyakur, katuickatu, katuicneu, vieticthavungso, katuicso, vieticcuoi, bahnarickadong, katuiclaokatu, bahnaricoy, asliansemai, bahnarickahochil, bahnarictempuan, vietickhaphong, bahnaricma1, vietictuum, khmericksurin, khasikhasi, bahnaricnhaheun, vieticmalieng, vieticliha, khmuickxinhmul, palaungwahu, vieticarem, katuickui, katuicbruvk	100	U+005e U+014b
-p	p	kapɔh, jap.55	palaungwayongde, bahnaricje, palaungwagantang, palaungwapangpin, palaungwakhme, nicobariccar, asliansemoqberi, khmuickhmu, mundasora, nicobaricnancawri, monicnyakur, palaungwamane, asliankensiw, katuicmak, palaungwamangan, asliansemai, pearicchongh, pearicsamre, palaungwashuangdiang, khmerickhmer, khasikhasi, vieticmalieng, mangicmang, pearicchong, palaungwahu, asliansemelai, katuickui, palaungwakhamet, katuicbru, bahnaricma2, vieticthavungso, bahnaricrengao, khmuickhang, mundakorku, mundaparengi, khmuicpray, bahnaricpanong, katuickantu, khmuicbit, khmuiciduh, katuiclaokatu, bahnaricoy, vieticthavung, mangicpaliu, pearickasong, vieticruc, bahnaricma1, mangicbugan, khmuicphong, katuicdakkang, palaungwarumai, katuicbruvk	100	U+0070
-r$	r	tor, lutur	mundakharia, mundasantali, palaungwadeang, mundasora, katuickatu, mundakorku, katuicnge, mundaparengi, katuickantu, khmuicbit, asliansemai, khasikhasi, khmuicphong, asliansemelai, bahnaricmbunong, bahnaricsre, mundajuang, bahnaricmdip, bahnaricveh, bahnaricpanong, mundabonda, katuiclaokatu, khmuiciduh, khmuickhmu, bahnaricma1, katuicdakkang, katuicong, bahnaricarak, monicnyakur, bahnaricstieng, bahnaricma2, katuicso, khmuicpray, bahnaricchrau, katuictri, bahnarichadang, bahnaricmrolom, katuicmak, bahnarichalang, bahnaricoy, bahnarickahochil, bahnarictempuan, khmuicmlabri, mundamundari, bahnaricbahnar	100	U+0072 U+0024
-^g	g	gɨt, goʒ	mundabonda, monicmon, khmuiciduh, mundasora, mundaparengi, bahnaricnhaheun, bahnarichre, mundasantali, bahnaricchrau, asliansemoqberi, khmuickhmu, mundamundari, palaungwarumai, bahnaricmbunong, bahnaricsre, mundajuang, mundakharia, bahnarictariang, bahnaricma2, bahnaricmdip, bahnaricveh, mundakorku, vieticvietnamese, bahnaricmrolom, asliankensiw, asliansemai, bahnarickahochil, palaungwashuangdiang, mangicmang, palaungwadeang, asliansemelai, bahnaricstieng, khmuicksinmul, bahnaricrengao, bahnaricdidra, bahnaricjru, palaungwaplang, bahnaricoy, khmuicmlabri, bahnaricma1, palaungwapangpin, bahnarickorcua, bahnaricbahnar, asliantemiar, katuicdakkang, aslianjahai	100	U+005e U+0067
-T$	<?>	ka.T, sok.T	bahnaricrengao, bahnaricsedang, bahnaricjeh, katuicpakoh, katuicbruvk, katuictaoih, bahnaricdidra	100	U+0054 U+0024
-1$	<?>	kaʔ.1, tɔm.1	monicnyakur, palaungwaguanshuang, vieticruc, vieticthavungso, vieticmuongkoi, palaungwamane, vieticthavung, vieticmalieng, palaungwayongde	100	U+0031 U+0024
-l$	l	ʔal, bəl	katuickatu, khmuicpray, khmuicmlabri, bahnarictariang, bahnaricveh, khmuicksinmul, mundasantali, bahnaricjru, katuicso, khmuicbit, nicobariccar, katuicmak, bahnarictempuan, mundamundari, khmuicphong, bahnarickorcua, nicobaricnancawri, bahnaricma2, katuickantu, asliansemai, vieticthavung, khmericksurin, katuicbruvk, bahnaricbahnar, katuicdakkang, katuicong, bahnaricsre, bahnaricstieng, katuicneu, bahnaricmdip, mundakorku, katuicnge, mundaparengi, bahnaricchrau, katuictri, bahnaricmrolom, asliankensiw, katuiclaokatu, asliansemoqberi, bahnarickahochil, vietickhaphong, khmerickhmer, bahnaricma1, vieticruc, vieticmuongkoi, aslianjahhut, asliantemiar, vieticarem, bahnaricarak, aslianjahai	100	U+006c U+0024
-s	s	asiw, kəsiaŋ.L	mundaparengi, khmuickxinhmul, mundajuang, katuictaoih, bahnaricpanong, palaungwakhme, katuickantu, palaungwashuangdiang, bahnarickorcua, monicnyakur, khmuicksinmul, vieticthavungso, katuictaoi, bahnaricmdip, mundakorku, vieticphongv, mundabonda, bahnarichalang, palaungwamangan, pearickasong, bahnaricjeh, vietictuum, khasikhasi, vieticmalieng, pearicchong, palaungwayongde, bahnaricarak, palaungwakhamet, nicobaricnancawri, bahnarichre, katuicbru, katuicpakoh, bahnaricstieng, mundakharia, katuickatu, katuicneu, bahnaricrengao, mundasantali, katuicnge, katuictri, katuicso, bahnaricmrolom, nicobariccar, palaungwaplang, asliankensiw, katuicmak, bahnarickahochil, mundamundari, khmerickhmer, bahnaricma1, bahnaricsedang, mangicmang, vieticliha, katuicbruvk, palaungwadeang, khmuicphong, asliantemiar, katuicdakkang, katuicong, palaungwahu, palaungwarumai, mundasora	100	U+0073
-35$	<?>	mat.35, sɔk.35	palaungwamane, khmuickhang, bahnaricje, mangicmang, palaungwakhamet, khmuickxinhmul, mangicbugan, vieticthomon, palaungwagantang, vieticcuoi	100	U+0033 U+0035 U+0024
-d	d	hende, diʔ.L dəgŋ.L	bahnaricdidra, bahnaricmdip, bahnaricrengao, bahnaricmbunong, mundasantali, asliankensiw, bahnaricoy, bahnaricjeh, khasikhasi, mundasora, bahnarichre, katuickatu, katuicneu, katuicnge, katuicso, bahnaricchrau, katuickantu, katuicmak, asliansemai, khmuickhmu, mundamundari, vieticruc, vieticmalieng, bahnarickorcua, asliansemelai, katuicbruvk, bahnaricsre, katuicbru, mundajuang, katuicpakoh, bahnaricstieng, monicnyakur, mundakharia, khmuicksinmul, palaungwamane, katuictaoih, bahnaricveh, mundakorku, bahnarichadang, katuictri, palaungwakhme, khmuicbit, khmuiciduh, bahnarickahochil, mangicpaliu, khmericksurin, bahnaricsedang, mangicmang, khmuickxinhmul, aslianjahhut, vieticmuongkoi, katuicdakkang, katuicong, vieticarem, katuickui, khmuicmlabri	100	U+0064
-31	<?>	ćeŋ.31 koŋ.51, ce.31 pau.31 qu	palaungwakhme, palaungwaplang, palaungwayongde, mangicmang, palaungwahu, palaungwashuangdiang, mangicpaliu, palaungwakhamet, palaungwagantang, khmuickxinhmul, vieticcuoi, bahnaricje, vieticliha, mangicbugan, palaungwamane, vietictuum	100	U+0033 U+0031
-^a	a	aɲ, aham	katuictaoih, mundaparengi, mundajuang, katuictri, vieticarem, palaungwakhamet, mundakorku, nicobariccar, mundakharia, palaungwamangan, katuickatu, mundamundari, vieticruc, palaungwahu, palaungwaguanshuang, mundabonda, katuiclaokatu, bahnarichalang, bahnarictempuan, vieticmalieng, mangicbugan, mundasora, bahnaricmbunong, bahnarichre, bahnaricsre, mundasantali, katuicmak, pearicsamre, vietickhaphong, khasikhasi, bahnaricbahnar, vieticmuongkoi, palaungwarumai	100	U+005e U+0061
-b	b	kerbɨs, sabɔk.B	asliantemiar, asliankensiw, mangicpaliu, mundabonda, asliansemelai, mundajuang, mundasora, bahnaricdidra, mundaparengi, khmuicmlabri, aslianjahai, katuictaoi, monicmon, mundakorku, katuicnge, asliansemoqberi, khmuiciduh, bahnaricoy, vietickhaphong, khasikhasi, khmericksurin, mangicbugan, khmuicphong, aslianjahhut, bahnaricbahnar, bahnaricmbunong, katuicbru, katuicpakoh, monicnyakur, mundakharia, khmuicksinmul, bahnaricma2, katuicneu, vieticthavungso, khmuicpray, bahnaricchrau, katuictri, palaungwaplang, bahnarichalang, asliansemai, bahnarickahochil, vieticthavung, pearicsamre, palaungwashuangdiang, mundamundari, khmerickhmer, vieticruc, mangicmang, vieticliha, katuicbruvk, palaungwadeang, katuicdakkang, katuicong, bahnaricarak	100	U+0062
-^ʒ	ʒ	ʒəŋ, ʒɔŋ	mundasantali, mundamundari, bahnaricsre, asliansemoqberi, asliansemai, bahnarickahochil, bahnarickorcua, asliantemiar, asliansemelai, mundasora, mundajuang, bahnarictariang, monicmon, bahnaricmrolom, bahnaricmbunong, bahnarichre, bahnaricstieng, bahnaricmdip, mundakorku, bahnaricpanong, bahnaricchrau, asliankensiw, aslianjahai, bahnaricjeh, khmerickhmer, aslianjahhut, bahnaricbahnar, mundakharia, katuictaoih, bahnaricma2, bahnaricrengao, bahnaricje, bahnaricveh, bahnaricdidra, bahnarichadang, bahnarickadong, bahnarichalang, bahnaricoy, khmuickhmu, khmuicmlabri, bahnaricma1, khasikhasi, bahnaricnhaheun, palaungwadeang, katuicdakkang	100	U+005e U+0292
-p$	p	kap, tap	bahnaricmbunong, bahnaricpanong, khmerickhmer, bahnarickorcua, nicobaricnancawri, bahnaricstieng, bahnaricma2, bahnaricmdip, bahnaricmrolom, mundabonda, asliansemai, bahnaricma1, khasikhasi, bahnaricbahnar, bahnarichre, bahnaricsre, katuickatu, bahnaricjru, bahnarichadang, katuictri, bahnaricchrau, bahnarickadong, asliankensiw, bahnarichalang, bahnarickahochil, bahnarictempuan, bahnaricjeh, asliantemiar, khmuicmlabri, aslianjahai, bahnaricarak, katuicpakoh, bahnarictariang, katuictaoih, katuicneu, khmuicksinmul, mundasantali, bahnaricveh, monicmon, bahnaricdidra, katuicso, katuickantu, nicobariccar, khmuiciduh, bahnaricoy, palaungwawa, khmericksurin, bahnaricnhaheun, palaungwadeang, aslianjahhut, katuicdakkang, katuicbruvk	100	U+0070 U+0024
-w$	w	ʔnaw, kawaw	khasikhasi, katuicneu, monicmon, bahnaricmbunong, bahnarichadang, bahnarickadong, katuicmak, bahnaricoy, bahnaricarak, bahnarichre, bahnaricmrolom, asliankensiw, katuicbruvk, bahnarictariang, katuictaoih, khmuicksinmul, bahnaricpanong, bahnarichalang, bahnarictempuan, khmerickhmer, khmericksurin, bahnaricnhaheun, bahnarickorcua, bahnaricbahnar, katuicdakkang, aslianjahai, katuicpakoh, katuickatu, bahnaricma2, bahnaricveh, bahnaricdidra, bahnaricjru, katuicnge, katuicso, bahnaricchrau, katuickantu, katuiclaokatu, asliansemoqberi, khmuiciduh, khmuickhmu, bahnaricjeh, bahnaricma1, vieticruc, khmuicphong, vieticmuongkoi, vieticarem, khmuicmlabri	100	U+0077 U+0024
-C$	<?>	plaŋ.C, chim.C	pearicchong, katuictaoi, pearicsamre, pearickasong, vieticthavung, vietickhaphong, pearicchongh	100	U+0043 U+0024
-ɲ$	ɲ	ʔuɲ, ʔaɲ	bahnaricchrau, khmericksurin, bahnaricarak, bahnaricstieng, mundasantali, bahnarictempuan, bahnaricbahnar, vieticarem, mundajuang, katuicnge, asliankensiw, bahnaricma1, asliansemelai, aslianjahai, bahnaricsre, mundakharia, bahnarictariang, bahnaricma2, khmuicksinmul, bahnaricmrolom, asliansemai, bahnaricnhaheun, khmuicphong, katuicdakkang, katuicong, bahnaricmbunong, bahnarichre, katuickatu, bahnaricmdip, bahnaricveh, monicmon, bahnaricjru, mundakorku, khmuicpray, katuictri, nicobariccar, asliansemoqberi, bahnaricoy, bahnarickahochil, khmuickhmu, mundamundari, khmerickhmer, vieticmuongkoi, aslianjahhut, khmuicmlabri, katuicbruvk	100	U+0272 U+0024
-^j	j	juŋ, jok	khmuicbit, mangicpaliu, mangicbugan, palaungwadeang, khmuicphong, bahnarichre, katuickatu, palaungwamane, katuiclaokatu, pearickasong, nicobaricnancawri, palaungwaguanshuang, katuictaoi, bahnaricdidra, katuicnge, palaungwaplang, asliankensiw, khmuiciduh, palaungwamangan, pearicsamre, palaungwashuangdiang, palaungwawa, palaungwapangpin, palaungwahu, palaungwarumai, mundasora, bahnaricmbunong, bahnaricarak, palaungwayongde, monicnyakur, bahnarictariang, vieticthavungso, bahnaricrengao, bahnaricmdip, monicmon, katuicso, vieticphongv, khmuicpray, bahnaricchrau, palaungwakhme, katuickantu, bahnaricmrolom, nicobariccar, katuicmak, aslianjahai, bahnaricoy, khmuickhmu, khmuicmlabri, khmerickhmer, vietictuum, khmericksurin, bahnarickorcua, asliantemiar, palaungwagantang, katuicdakkang, vieticarem, katuicong, asliansemelai, katuicbruvk	100	U+005e U+006a
-2$	<?>	ŋu.2, saj.2	vieticmuongkoi, palaungwaguanshuang, monicnyakur, vieticthavungso, vieticruc, palaungwamane, vieticphongv, vietictuum	100	U+0032 U+0024
-N$	<?>	sɔʔ.N, təkâŋ.N	katuickui, katuicbru, katuicbruvk, katuicong	100	U+004e U+0024
-^ɲ	ɲ	ɲet, ɲa	mundasantali, monicnyakur, bahnaricrengao, palaungwakhme, mangicpaliu, vieticruc, palaungwayongde, palaungwakhamet, palaungwaguanshuang, bahnaricstieng, mundakharia, vieticthavungso, katuictaoi, vieticphongv, vieticcuoi, bahnaricmrolom, nicobariccar, vieticthavung, vietickhaphong, palaungwashuangdiang, vietictuum, mangicmang, vieticliha, khmuickxinhmul, palaungwadeang, vieticmuongkoi, bahnaricarak, bahnaricmbunong, bahnarichre, bahnaricsre, palaungwamane, bahnaricma2, katuictaoih, mundasora, khmuicksinmul, bahnaricmdip, bahnaricveh, monicmon, khmuickhang, bahnaricdidra, katuicso, khmuicpray, katuictri, bahnaricchrau, khmuicbit, palaungwaplang, bahnarichalang, palaungwamangan, bahnaricoy, bahnarickahochil, khmuickhmu, palaungwawa, vieticthomon, bahnaricjeh, bahnaricsedang, bahnaricnhaheun, vieticmalieng, mangicbugan, bahnaricbahnar, asliantemiar, katuicdakkang, vieticarem, palaungwahu, aslianjahai	100	U+005e U+0272
-w	w	kawaw, lawʔ	vietictuum, vieticthomon, bahnaricsedang, katuickui, vieticphongv, katuicbru, vieticcuoi, pearicchong, bahnaricrengao, bahnaricje, katuicso, bahnarichre, katuictaoih, katuicneu, katuictaoi, khmuicpray, bahnaricchrau, asliansemoqberi, bahnarictempuan, pearicchongh, vietickhaphong, mangicbugan, vieticmuongkoi, asliansemelai, aslianjahai, nicobaricnancawri, monicnyakur, mundakharia, katuickatu, vieticthavungso, mundasantali, khmuickhang, katuickantu, asliankensiw, pearicsamre, pearickasong, bahnaricjeh, mundamundari, khmuicmlabri, vieticmalieng, bahnarickorcua, asliantemiar, bahnaricbahnar, katuicdakkang, vieticarem	100	U+0077
-33	<?>	ɔt.33 theʔ.55, klaoŋ.33 mat.33	palaungwahu, vietickhaphong, palaungwamangan, palaungwashuangdiang, vietictuum, khmuickhang, palaungwakhme, vieticmalieng, vieticliha, bahnaricje, palaungwaplang, vieticcuoi, mangicmang, mangicbugan, palaungwagantang, palaungwayongde, palaungwamane, mangicpaliu, khmuickxinhmul	100	U+0033 U+0033
--	<?>	ta-nɨ-sə-mat, tu-lə́ŋ-hat-si	nicobariccar, nicobaricnancawri, mundasora, mundajuang, mundabonda, palaungwamane, khmuicksinmul, mundasantali, bahnaricjeh, khasikhasi, bahnaricbahnar, monicnyakur, katuickatu, katuickui, khmerickhmer	100	U+002d
-e$	e	khe, me	mundabonda, bahnaricstieng, khmuicksinmul, bahnaricma2, mundasantali, mundasora, bahnaricsre, mundakharia, bahnaricmrolom, mundamundari, bahnaricnhaheun, mundajuang, mundakorku, bahnarichalang, bahnarickahochil, bahnaricma1, bahnaricbahnar, katuicneu, katuicnge, mundaparengi, khmuicbit, vieticruc, khasikhasi, khmuicmlabri, bahnaricmbunong, katuickatu, bahnarictariang, bahnaricje, bahnaricmdip, bahnaricveh, bahnaricdidra, vieticvietnamese, khmuicpray, katuickantu, bahnarictempuan, khmuickhmu, palaungwawa, palaungwadeang, katuicdakkang, vieticarem, asliansemelai	100	U+0065 U+0024
-ɲ	ɲ	ʔɲuj, ʔiɲ.A	monicnyakur, vieticliha, bahnarichre, mundajuang, khmuicpray, vietictuum, katuictaoih, katuictaoi, bahnaricjru, bahnarichalang, pearicsamre, pearickasong, khmuickxinhmul, vieticmuongkoi, mundasora, nicobaricnancawri, mundakharia, mundasantali, bahnaricveh, katuickantu, nicobariccar, asliankensiw, vieticthavung, vietickhaphong, vieticruc, vieticmalieng, katuickui, palaungwayongde, katuicpakoh, bahnarictariang, vieticthavungso, khmuickhang, bahnarichadang, bahnarickadong, vieticcuoi, bahnaricpanong, palaungwaplang, katuicmak, pearicchongh, bahnaricjeh, khmerickhmer, khasikhasi, bahnaricnhaheun, mangicmang, bahnarickorcua, bahnaricbahnar, vieticarem, katuicong, vieticphongv, katuicbruvk	100	U+0272
-ɔ$	ɔ	cɔ, sɔ	bahnarickahochil, katuicpakoh, bahnarictariang, katuictaoih, bahnaricveh, katuickantu, mundabonda, bahnaricoy, bahnaricnhaheun, katuicdakkang, bahnaricsre, bahnaricmdip, bahnaricjru, bahnaricchrau, katuiclaokatu, khmerickhmer, bahnaricmbunong, katuickatu, katuicneu, katuicnge, khmuicbit, bahnaricmrolom, bahnaricma1, katuicbruvk, bahnarickorcua, khmuicphong, bahnaricbahnar, katuicong, vieticarem, bahnaricarak, bahnarichre, khmuicksinmul, mundasantali, bahnaricdidra, bahnarichadang, katuicso, katuictri, bahnarickadong, nicobariccar, katuicmak, asliansemoqberi, asliansemelai	100	U+0254 U+0024
-^th	th	thi.51, thuh.A	palaungwakhme, palaungwakhamet, pearickasong, pearicchong, palaungwagantang, palaungwayongde, pearicsamre, khmericksurin, pearicchongh, khmerickhmer, vieticarem, palaungwashuangdiang, vieticthomon, palaungwahu, monicnyakur, katuicneu, khmuicpray, palaungwamangan, mangicpaliu, khasikhasi, mangicbugan, asliansemelai, katuickatu, khmuickhang, vieticvietnamese, katuickantu, khmuiciduh, bahnaricoy, bahnarictempuan, vieticthavung, khmuicmlabri, bahnaricma1, vieticmalieng, palaungwapangpin, khmuickxinhmul	100	U+005e U+0074 U+0068
-u$	u	ku, taku	mundamundari, mundakorku, bahnaricsre, bahnaricstieng, katuictri, bahnaricma1, palaungwadeang, mundajuang, mundaparengi, mundasora, mundakharia, mundasantali, vieticvietnamese, katuicmak, khmuicksinmul, bahnaricma2, monicmon, khmuicbit, bahnaricjeh, khmuicphong, katuicong, katuicpakoh, katuickatu, bahnaricjru, bahnarichadang, katuicnge, katuicso, katuickantu, palaungwaplang, mundabonda, katuiclaokatu, asliansemoqberi, bahnarichalang, bahnaricoy, mangicpaliu, palaungwawa, bahnaricnhaheun, katuicbruvk, asliantemiar, bahnaricbahnar, asliansemelai, palaungwarumai, khmuicmlabri, bahnaricarak	100	U+0075 U+0024
-o$	o	ko, ḍoko	mundajuang, bahnaricma2, bahnaricsre, mundasantali, bahnarickadong, khmuicmlabri, bahnarichre, bahnaricstieng, mundakharia, bahnaricmdip, mundakorku, vieticvietnamese, bahnaricchrau, bahnarickahochil, bahnaricnhaheun, bahnaricdidra, bahnarichadang, bahnaricmrolom, katuiclaokatu, bahnarichalang, bahnarictempuan, mundamundari, khmerickhmer, bahnaricarak, katuickatu, khmuicksinmul, katuicneu, katuicnge, mundaparengi, bahnaricpanong, katuickantu, khmuicbit, bahnaricjeh, vieticruc, khmericksurin, palaungwadeang, bahnarickorcua, khmuicphong, bahnaricbahnar, mundasora	99	U+006f U+0024
-c$	c	sac, sec	katuicnge, aslianjahai, bahnaricchrau, katuiclaokatu, asliansemai, bahnaricmdip, bahnarickahochil, khmerickhmer, bahnaricma1, khmericksurin, asliansemelai, bahnaricarak, bahnaricmbunong, nicobaricnancawri, bahnaricsre, bahnarictariang, katuictaoih, bahnaricma2, bahnaricjru, katuictri, katuickantu, nicobariccar, asliankensiw, bahnarictempuan, khmuickhmu, bahnaricnhaheun, khmuicphong, aslianjahhut, bahnaricbahnar, katuicdakkang, katuicong, vieticarem, bahnarichre, bahnaricstieng, khmuicksinmul, mundasantali, katuictaoi, vieticvietnamese, khmuicpray, asliansemoqberi, bahnaricoy, khmuicmlabri, vieticruc, vieticmalieng	96	U+0063 U+0024
-â	â	təkâŋ.N, vâj pâj 	khmuiciduh, palaungwarumai, katuickui, katuickatu, katuicbru, pearicchongh, katuictri, khmericksurin, vieticarem, vieticvietnamese, khmuicbit, bahnaricveh, katuicong, bahnaricchrau, katuicneu, vieticthavungso, vieticcuoi	95	U+00e2
-ʌ	ʌ	sʌŋ, mʌt.24 kon.33	katuictri, katuicbru, khmericksurin, katuicbruvk, vieticruc, bahnaricnhaheun, katuickatu, bahnaricjru, vieticmalieng, vietickhaphong, vieticthavungso, vieticcuoi, vieticarem, bahnaricma2, bahnaricveh, katuickui, katuictaoih, katuicnge, bahnaricchrau, katuickantu, asliankensiw, katuicong, palaungwarumai, khmuicmlabri	90	U+028c
-g	g	diʔ.L dəgŋ.L, ŋguj	vieticvietnamese, mundamundari, mundakharia, mundasora, bahnaricdidra, mundabonda, khmuiciduh, bahnaricma1, khmuicksinmul, mundakorku, mundasantali, bahnaricmdip, mundaparengi, mangicmang, bahnarichadang, bahnarickahochil, khmerickhmer, bahnaricsre, mundajuang, katuickatu, bahnaricrengao, bahnaricjru, katuicnge, palaungwakhme, asliansemoqberi, bahnaricoy, asliansemai, khmuicmlabri, mangicbugan, asliantemiar, aslianjahhut, katuicdakkang, katuicong, palaungwarumai, asliansemelai, aslianjahai	87	U+0067
-^ph	ph	pham, phat.A	pearicchong, khmericksurin, monicnyakur, palaungwayongde, khmerickhmer, katuickui, katuicbru, bahnaricje, palaungwakhme, bahnaricnhaheun, palaungwakhamet, vieticthavungso, bahnaricjru, vieticthavung, khmuickhmu, pearicsamre, pearickasong, bahnarickorcua, katuicneu, bahnaricveh, monicmon, khmuickhang, vieticphongv, katuictri, vieticcuoi, katuicmak, katuiclaokatu, khmuiciduh, bahnaricoy, bahnarictempuan, pearicchongh, bahnaricjeh, vietictuum, vieticliha, khmuickxinhmul, bahnaricbahnar, palaungwahu, khmuicmlabri, katuicbruvk	85	U+005e U+0070 U+0068
-55	<?>	khik.55 čhak.55, khik.55 šak.55	palaungwarumai, mangicbugan, palaungwamangan, mangicmang, palaungwagantang, palaungwapangpin, palaungwahu, mangicpaliu, palaungwakhamet, palaungwakhme, palaungwayongde	79	U+0035 U+0035
-3$	<?>	ci.3, khik.33 c̣hak.3	vieticmuongkoi, vieticthavungso, vieticruc, palaungwashuangdiang, vieticmalieng, khmuickhang, vietickhaphong, bahnaricje	74	U+0033 U+0024
-^ch	ch	chi.A, chi	monicnyakur, vieticvietnamese, pearicchong, pearicchongh, pearickasong, bahnaricsre, pearicsamre, bahnaricstieng, bahnaricdidra, khmerickhmer, bahnaricma1, khmericksurin, monicmon, katuicmak, bahnarickahochil, palaungwaguanshuang, bahnarictariang, bahnaricveh, katuictri, bahnaricchrau, bahnarichalang, mangicpaliu, mangicbugan, katuickui, palaungwarumai	73	U+005e U+0063 U+0068
-45$	<?>	suk.45, sok.45	vietictuum, khmuickhang, khmuickxinhmul, vieticphongv	67	U+0034 U+0035 U+0024
-kh	kh	mat.B khaʔlaŋ.C, mat khalaŋ	palaungwamangan, palaungwakhamet, palaungwaplang, palaungwahu, palaungwayongde, khmuicpray, bahnaricmbunong, palaungwamane, vieticthavungso, bahnaricmdip, vieticphongv, palaungwakhme, vieticthavung, palaungwashuangdiang, khasikhasi, vietictuum, pearicchong, vieticmuongkoi, bahnarichre, mundakharia, bahnaricrengao, bahnarichadang, katuicso, katuictri, bahnarickadong, bahnaricmrolom, pearicchongh, khmuickhmu, pearicsamre, pearickasong, vieticliha, khmuicphong, palaungwagantang, asliansemelai	67	U+006b U+0068
-53$	<?>	suk.53, sɔʔ.53	mangicpaliu, palaungwakhamet, palaungwakhme, mangicmang	66	U+0035 U+0033 U+0024
-s$	s	ʔos, ʔɔs	asliankensiw, asliansemai, aslianjahai, asliansemoqberi, asliantemiar, asliansemelai, aslianjahhut, bahnarictariang, bahnaricsre, katuiclaokatu, khmuicphong, khmerickhmer, nicobaricnancawri, khmuickhmu, bahnaricstieng, vieticthavungso	65	U+0073 U+0024
-ɛ$	ɛ	rɛ, nɛ	katuictaoih, bahnaricmdip, katuiclaokatu, khmuiciduh, bahnaricoy, bahnarickahochil, palaungwadeang, bahnaricmbunong, katuicpakoh, mundakharia, katuickatu, bahnarictariang, katuicneu, bahnaricveh, bahnaricchrau, asliansemoqberi, khmuicmlabri, khmerickhmer, khmericksurin, bahnarickorcua, katuicdakkang, asliansemelai, bahnaricarak, bahnaricsre, bahnaricjru, katuicnge, khmuicpray, katuickantu, khmuicbit, bahnaricmrolom, vieticruc, bahnaricnhaheun, khmuicphong, palaungwarumai	65	U+025b U+0024
-43$	<?>	mat.35 ṭəj.43, ta.43	vieticthomon, vieticliha, bahnaricje, vieticmalieng, vieticcuoi, vietickhaphong	63	U+0034 U+0033 U+0024
-^u	u	usal, u.51	mundakharia, vieticarem, nicobariccar, mundabonda, mundamundari, vieticmalieng, mundasora, mundaparengi, khasikhasi, mundajuang, mundasantali, vieticruc, palaungwarumai, bahnaricsre, palaungwaguanshuang, katuicpakoh, vieticvietnamese, katuictri, katuiclaokatu, katuicmak, bahnarichalang, palaungwamangan, bahnarickahochil, bahnarictempuan, pearicsamre, vietickhaphong, bahnaricbahnar, palaungwahu, khmuicmlabri	62	U+005e U+0075
-ə$	ə	plə, ʔə	nicobariccar, bahnaricmdip, khmuiciduh, khmericksurin, khmuicmlabri, bahnaricmbunong, khmuicksinmul, bahnaricjru, katuicmak, khmerickhmer, bahnaricnhaheun, bahnaricbahnar, bahnaricsre, bahnarictariang, bahnaricma2, katuicneu, bahnarichadang, katuicnge, katuicso, bahnaricpanong, bahnarickadong, khmuicpray, bahnaricchrau, khmuicbit, khmuickhmu, palaungwadeang, khmuicphong, bahnarickorcua, katuicdakkang, vieticarem	59	U+0259 U+0024
-24$	<?>	dak.24, tət.24	vieticphongv, vieticliha, vieticcuoi, vieticmalieng, vieticthavung, vietictuum	54	U+0032 U+0034 U+0024
-́	<?>	ćeŋ.31 koŋ.51, ćeŋ.33	palaungwamangan, palaungwashuangdiang, palaungwayongde, khmuicbit, palaungwakhamet, palaungwakhme, palaungwaplang, palaungwahu	52	U+0301
-=	<?>	ʔi=mih.A, ɔn=ḍɔr	mundabonda, mundakharia, mundasora, mundamundari, mundajuang, mundasantali, mundaparengi, nicobaricnancawri, monicnyakur, mundakorku, khmericksurin, pearicchong, bahnaricstieng, bahnaricdidra, palaungwawa, bahnaricjeh, khmuickxinhmul, asliantemiar, katuickui, aslianjahai	52	U+003d
-^i	i	iɲ, im	mundasantali, mundasora, palaungwakhamet, mundajuang, nicobariccar, mundamundari, khasikhasi, palaungwarumai, mundakharia, mundaparengi, palaungwamangan, bahnaricbahnar, vieticarem, palaungwahu, bahnarichre, palaungwaguanshuang, katuicpakoh, katuictaoih, bahnaricrengao, bahnaricdidra, mundakorku, bahnarichalang, vieticruc	47	U+005e U+0069
-th	th	ɔt.33 theʔ.55, put.31 tha.55	palaungwahu, khmuicpray, palaungwamangan, vieticarem, katuickui, palaungwakhamet, palaungwayongde, vieticthavungso, mundakorku, vieticthavung, palaungwashuangdiang, khasikhasi, pearicchong, mundakharia, palaungwakhme, vieticthomon, palaungwapangpin, palaungwagantang, khmuicmlabri	46	U+0074 U+0068
-jh$	jh	nujh, tujh	bahnaricmbunong, bahnarickahochil, katuickatu, bahnaricma2, katuicnge, bahnaricmdip, bahnaricjru, katuickantu, bahnaricoy, bahnaricma1, bahnaricnhaheun, katuicong, katuicbruvk, bahnarichre, katuicpakoh, bahnaricrengao, bahnaricdidra, katuicso, bahnaricchrau, katuictri, bahnaricmrolom, bahnarichalang, bahnarictempuan, bahnarickorcua	44	U+006a U+0068 U+0024
-44$	<?>	cuʔ.45 meŋ.44, kliaŋ.44	vieticphongv, vieticmalieng, bahnaricje	43	U+0034 U+0034 U+0024
-g$	g	sog, ka=mulog	asliantemiar, vieticvietnamese, mundakharia, mundajuang, mundabonda	42	U+0067 U+0024
-13$	<?>	phap.13, mai.13	vietickhaphong, mangicpaliu, mangicbugan, palaungwakhamet, palaungwayongde, khmuickxinhmul, palaungwakhme, palaungwashuangdiang, vieticmalieng, palaungwapangpin	39	U+0031 U+0033 U+0024
-21$	<?>	kaw.21 khlaŋ.21, muc.21	vieticphongv, vietictuum, vieticcuoi, khmuickhang	37	U+0032 U+0031 U+0024
-A	<?>	< MALAY , ʔaj.A mih.A	pearickasong, pearicchong, katuictaoi, pearicchongh, aslianjahhut, pearicsamre, vieticarem, vieticvietnamese, palaungwawa	36	U+0041
-T	<?>	diʔ.T daŋ.L, se.T.55 qou.33	mangicbugan, bahnaricrengao, bahnaricjeh, mundajuang	35	U+0054
-51	<?>	gu.51 si.31, ŋai.51 sa.51 ŋi	vieticmalieng, palaungwashuangdiang, mangicmang, palaungwayongde, palaungwaplang, palaungwagantang, palaungwakhme, palaungwapangpin	34	U+0035 U+0031
-^w	w	wil, wək	khmuicmlabri, nicobaricnancawri, bahnarictariang, bahnaricveh, khasikhasi, bahnarickorcua, bahnarichre, bahnaricsre, bahnaricstieng, katuickatu, katuicneu, bahnaricmdip, khmuicpray, bahnaricmrolom, bahnarickahochil, bahnarictempuan, khmuickhmu, pearicsamre, pearickasong, khmerickhmer, khmericksurin, mangicbugan, aslianjahhut, katuicdakkang, palaungwahu	33	U+005e U+0077
-34$	<?>	kləŋ.34, ka.34	vieticliha, vieticcuoi, vieticthomon	32	U+0033 U+0034 U+0024
-^ć	<?>	ćeŋ.31 koŋ.51, ćeŋ.33	khmuicbit, palaungwamangan, palaungwashuangdiang, palaungwayongde, palaungwaplang, palaungwakhamet, palaungwahu, palaungwakhme	31	U+005e U+0107
-ə́	ə́	bə́j, sə́k	bahnaricje, bahnarichadang, nicobaricnancawri, bahnaricpanong, bahnaricma1	31	U+0259 U+0301
-434$	<?>	lɔm.434, mat.33 kol.434	vieticthomon, vietickhaphong, bahnaricje, vieticmalieng, vieticliha	31	U+0034 U+0033 U+0034 U+0024
-^mh	mh	mham, mhɛ	bahnarictempuan, palaungwaguanshuang, palaungwamane, palaungwawa, palaungwaplang, bahnaricmbunong, bahnarickahochil, bahnaricmrolom, bahnaricsre, palaungwadeang, katuicbru, bahnaricstieng, bahnaricpanong, bahnaricma2, katuickui, khmuicbit, khmuicmlabri	30	U+005e U+006d U+0068
-^z	z	ziet.13, zʌr.434	vieticmuongkoi, vieticthomon, khmuickhang, mundaparengi, khmuicksinmul, vietickhaphong, khmuickxinhmul, vieticcuoi, palaungwayongde, vieticmalieng, vieticliha, vieticthavung, bahnaricchrau	30	U+005e U+007a
-á	á	ʔuál=fáŋ, muáh	nicobaricnancawri, mundasora, vieticvietnamese	30	U+00e1
-^v	v	vaŋ, vil	vieticvietnamese, palaungwadeang, bahnarickorcua, vieticarem, palaungwakhamet, bahnarichre, vieticthavungso, bahnarichadang, mundakorku, bahnaricpanong, vieticcuoi, palaungwakhme, katuicmak, khmuiciduh, palaungwawa, vieticthomon, bahnaricma1, vieticruc, mangicmang, vieticliha, khmuickxinhmul, vieticmuongkoi, palaungwarumai, katuicbruvk	29	U+005e U+0076
-412$	<?>	ka.412, klai.412	palaungwarumai	29	U+0034 U+0031 U+0032 U+0024
-212$	<?>	khɔi.212, bəɨj.212	vietictuum	28	U+0032 U+0031 U+0032 U+0024
-ḍ	ḍ	kaḍoŋ, anḍa	mundaparengi, mundakharia, mundabonda, mundajuang, mundasantali, monicmon, mundamundari	28	U+1e0d
-ʒ	ʒ	hiʒuʔ, mat ʒis	asliankensiw, katuickantu, asliansemai, mundasantali, aslianjahai, mundamundari, bahnaricnhaheun, monicmon, bahnarickorcua, bahnaricbahnar, bahnaricma2, khmuicmlabri, bahnaricje, khmerickhmer, bahnaricma1, mundasora	28	U+0292
-343	<?>	tɨŋ.343ʔ, ci.343ʔ	vieticthomon, vieticcuoi	27	U+0033 U+0034 U+0033
-^lh	lh	lha, lhɛʔ	palaungwashuangdiang, palaungwamangan, palaungwaguanshuang, palaungwamane, palaungwawa, palaungwayongde, palaungwadeang, palaungwaplang, palaungwapangpin, palaungwagantang, palaungwarumai	27	U+005e U+006c U+0068
-y	y	jyaŋ.51, kyrteŋ	khasikhasi, palaungwamangan, mundabonda, monicmon, bahnaricsre, mundamundari, bahnaricmrolom	26	U+0079
-d$	d	med, mad	mundasora, asliantemiar, mundamundari, mundakorku, asliansemoqberi, mundasantali, khasikhasi	26	U+0064 U+0024
-B	<?>	mat.B khaʔlaŋ.C, cam.B khɨn.A	vieticthavung, bahnarichalang, pearicchongh, palaungwamane, pearickasong, palaungwawa, katuicbru, pearicchong, pearicsamre, vieticthavungso	25	U+0042
-b$	b	kalob, kab	mundakharia, mundajuang, mundasora, asliantemiar, mundakorku, mundamundari	24	U+0062 U+0024
-^nh	nh	nha, nham.51	palaungwapangpin, palaungwaplang, palaungwamangan, vieticvietnamese, palaungwamane, palaungwashuangdiang, bahnaricmbunong, bahnarickahochil, palaungwadeang, bahnaricsre, palaungwaguanshuang, palaungwawa, bahnaricma2, palaungwarumai, bahnaricje, bahnaricmrolom	24	U+005e U+006e U+0068
-^ḍ	ḍ	ḍoko, ḍata 	mundaparengi, mundajuang, mundakharia, mundabonda, monicmon, mundasantali, mundamundari	23	U+005e U+1e0d
-ɨ$	ɨ	sɨ , ʔaɨ	bahnaricoy, palaungwadeang, bahnaricarak, katuicpakoh, bahnaricstieng, bahnarictariang, vieticthavungso, bahnaricjru, khmuicpray, katuictri, khmuicbit, khmuiciduh, bahnarictempuan, vieticthavung, khmerickhmer, khmericksurin, bahnaricnhaheun, katuicdakkang, katuicong	23	U+0268 U+0024
-^ə	ə	əhoc.A, əsu	mundasora, bahnaricveh, katuicmak, palaungwakhamet, pearicchong, pearicchongh, palaungwamane, bahnaricma1	21	U+005e U+0259
-ʒ$	ʒ	goʒ, laʒ	mundakorku, mundasora, asliantemiar, mundakharia, mundasantali, mundajuang, asliankensiw	21	U+0292 U+0024
-^o	o	os, om.33	mundajuang, mundamundari, vieticmuongkoi, palaungwahu, palaungwakhamet, palaungwamangan, bahnaricsre, bahnarictempuan, mundaparengi, mundakharia, katuictri, mundasora	20	U+005e U+006f
-42$	<?>	laj.42, lɔj.42	vieticphongv, bahnaricje, vieticmalieng	20	U+0034 U+0032 U+0024
-jh	jh	riajh.T, ʔujh.N	vieticmalieng, bahnaricjeh, katuicbru, bahnaricrengao, bahnarichalang, khmuickhang, bahnarichre, bahnaricmdip, katuicpakoh, mangicpaliu, katuicong, katuicbruvk, katuictaoi	19	U+006a U+0068
-ú	ú	rúʔ, kúj-p<an>iw-á	nicobaricnancawri, mundasora, vieticvietnamese, mundaparengi, bahnaricma1	19	U+00fa
-ɦ	ɦ	pɦɨən na, pɦic ŋaɲ	bahnaricarak	18	U+0266
-ḍ$	ḍ	tomoḍ, moḍ	mundajuang, mundakharia	18	U+1e0d U+0024
-L	<?>	biʔ.L ...oh.L, < MALAY 	bahnaricrengao, bahnarichre, bahnaricdidra, aslianjahhut, mundajuang, bahnaricjeh, katuicbruvk	17	U+004c
-5$	<?>	khu.5, khuan.55 phɨt.5	vieticmuongkoi, vieticmalieng, palaungwamangan, khmuickxinhmul, palaungwahu, palaungwayongde	17	U+0035 U+0024
-^ṭ	ṭ	ṭaəm ʒhaə, ṭɔn.434	khmerickhmer, vieticthomon, vieticmalieng, katuictaoih, bahnaricma1, bahnaricveh	17	U+005e U+1e6d
-î	î	dî mîən, pîɲ	khmuiciduh, khmuicbit, khmericksurin	16	U+00ee
-35	<?>	mat.35 ṭəj.43, nhej.35 la.33	bahnaricje, khmuickhang, mangicbugan, vieticthomon, palaungwakhamet, vieticmalieng, palaungwapangpin, mangicmang, khmuickxinhmul, palaungwamane	16	U+0033 U+0035
-53	<?>	sak.53 nɔh.33, ɲi.53 <ŋeʔ.53>	palaungwakhamet, mangicpaliu, palaungwakhme	16	U+0035 U+0033
-ch	ch	dʌm chə, tənchət	pearicchong, bahnarickahochil, bahnaricsre, khmericksurin, bahnarichalang, nicobaricnancawri, pearicsamre, monicnyakur, katuickatu, bahnaricma2, mundasantali	16	U+0063 U+0068
-ṭ	ṭ	goṭoŋ, mat.35 ṭəj.43	mundajuang, vieticmalieng, vieticthomon, mundamundari, mundabonda, mundakharia, mundasantali, khmerickhmer	16	U+1e6d
-4$	<?>	jəm.4, sai.4	vieticruc, vieticmuongkoi, palaungwamane, vieticthomon, vieticthavungso	15	U+0034 U+0024
-^ŋh	ŋh	ŋhaŋ, ŋhaŋ.N	palaungwaguanshuang, katuicbru, katuicmak, palaungwapangpin, katuicpakoh, katuicnge, katuickatu, katuictaoih, palaungwashuangdiang, katuickui, khmuicmlabri, katuicbruvk	15	U+005e U+014b U+0068
-	<?>	tuək, caliŋ	nicobaricnancawri, vieticvietnamese, bahnaricpanong, bahnaricje, bahnarickorcua	15	U+f301
-ô	ô	côʔ, sŋôt	vieticvietnamese, khmericksurin, khmuiciduh	15	U+00f4
-^ɔ	ɔ	ɔn=ḍɔr, ɔt.33 theʔ.55	mundabonda, palaungwahu, palaungwakhamet, vieticmuongkoi, mundakharia, mangicbugan, nicobariccar	14	U+005e U+0254
-^đ	đ	đu'o'ng đi, đầy	vieticvietnamese	14	U+005e U+0111
-11$	<?>	kai.11, ni.11	mangicpaliu, palaungwashuangdiang, palaungwakhamet, palaungwayongde	14	U+0031 U+0031 U+0024
-D$	<?>	moj.D, mew.D	pearickasong, pearicchong	14	U+0044 U+0024
-^ç	ç	çɛ.33, çaŋ.55	mangicbugan, palaungwahu, vieticruc, mangicpaliu, palaungwayongde	13	U+005e U+00e7
-û	û	lûm, jûŋ	khmuiciduh, vieticthavung, khmericksurin	13	U+00fb
-^č	č	čem.51, čiak.31	palaungwagantang, bahnaricmbunong, palaungwapangpin, mangicmang, mangicpaliu, palaungwamane	13	U+005e U+010d
-̣	<?>	ko=pṛug, koṛa	mundamundari, mundakorku, mundakharia, mundasantali, mundabonda	13	U+0323
-24	<?>	muot.24 cuo.33, mʌt.24 kon.33	vieticphongv, vieticcuoi, vieticmalieng, vieticliha	12	U+0032 U+0034
-^dh	dh	dhuam.51, dhi.51	palaungwapangpin, palaungwashuangdiang, mundasantali, khmerickhmer, mundakorku, palaungwakhme	12	U+005e U+0064 U+0068
-^e	e	ere, eʔen	mundajuang, mundakharia, mangicbugan, palaungwagantang, mundaparengi, palaungwahu, mundasantali, khasikhasi	12	U+005e U+0065
-ɣ	ɣ	kaɣɨʌŋ.33 adɛʔ, plə.33 pɣɔ.33	palaungwahu, vieticmalieng, mangicmang, palaungwakhamet, mangicpaliu	12	U+0263
-^ćh	<?>	ćhyək.51, ćhɔ.31	palaungwamangan, palaungwashuangdiang, palaungwayongde	11	U+005e U+0107 U+0068
-43	<?>	kun.43 kun.24, səla.43ʔ	vieticliha, vietickhaphong, vieticthomon	11	U+0034 U+0033
-ph	ph	huan.31 phən.33, ri.33 phok.55	khmuicpray, palaungwamangan, palaungwakhamet, monicnyakur, palaungwahu, katuicneu, palaungwakhme, vieticthavungso	11	U+0070 U+0068
-ç	ç	uçuk.3, phik.31 çap.55	palaungwayongde, vieticruc, palaungwahu, palaungwakhamet, palaungwadeang, khmuicbit	11	U+00e7
-324$	<?>	kon.324 , po.324	khmuickhang	11	U+0033 U+0032 U+0034 U+0024
-ṛ	ṛ	ko=pṛug, koṛa	mundamundari, mundakorku, mundabonda, mundakharia, mundasantali	11	U+1e5b
-æ	æ	mầt karæŋ, hæl	vieticarem	11	U+00e6
-^ks	ks	ksɔʔ, ksaiʔ	khmuicphong, khmuicksinmul, khasikhasi, bahnaricdidra, bahnarictempuan, khmericksurin	11	U+005e U+006b U+0073
-	<?>	miə, kɨʔ	vieticarem, vieticvietnamese	11	U+f300
-'a	'a	m'andra, l'aŋ	mundasora, mundakharia	11	U+0027 U+0061
-v	v	ɛl-vaŋ, təvəj	nicobariccar, mangicmang, mundakorku, bahnarickadong, khmuicbit, palaungwayongde, bahnaricveh	11	U+0076
-â$	â	hantâ, kâ	khmuiciduh, khmericksurin, katuickatu, katuicneu	11	U+00e2 U+0024
-ầ	<?>	mầt karæŋ, ajầmʔ	vieticarem, vieticvietnamese	11	U+1ea7
-34	<?>	mɛŋ.34ʔ, ṭoŋ.34ʔ	vieticthomon, vieticcuoi, vieticliha, vieticmalieng	10	U+0033 U+0034
-	<?>	choəm, tok	palaungwadeang, khmuiciduh, vieticmalieng, katuictri, khmuicbit, vieticruc	10	U+f306
-ll	ll	kalləŋ.L, balla	khasikhasi, katuictaoih, mundakorku, katuicnge, katuicpakoh, katuicdakkang, mundasora	10	U+006c U+006c
-ù	ù	ŋùəlʔ, kùl	vieticarem, vieticvietnamese	10	U+00f9
-=s	<?>	saŋ=saŋ, sumu=siŋ	mundabonda, mundajuang, mundaparengi, mundasora	10	U+003d U+0073
-13	<?>	mat.13 səŋɛ.33, aka.13ʔ	vietickhaphong, khmuickxinhmul, vieticmalieng, palaungwakhme, khmuicbit	10	U+0031 U+0033
-ó	ó	taŋór, tóp	mundasora, vieticvietnamese, nicobaricnancawri	10	U+00f3
-^rh	rh	rhaŋ, rhuʔ.55	palaungwawa, palaungwadeang, palaungwaguanshuang, palaungwapangpin, palaungwamangan, palaungwarumai	10	U+005e U+0072 U+0068
-21	<?>	kaw.21 khlaŋ.21, lɛm.21 sɛm.44 	vieticphongv, vietictuum	10	U+0032 U+0031
-C	<?>	thaŋ.C at.A , thim.C nih.A	pearicchong, vieticthavung, pearicsamre, pearickasong, katuictaoi	9	U+0043
-y$	y	đầy, chấy	vieticvietnamese, mundabonda, bahnaricmrolom	9	U+0079 U+0024
-^ɣ	ɣ	ɣa.55 mɔ.33, ɣɔ.33	vieticmalieng, mangicbugan, palaungwahu, palaungwakhamet, mangicmang, palaungwadeang	9	U+005e U+0263
-R	<?>	sin-Rol, roRo	nicobariccar, mundakharia, mundamundari, mundabonda, mundakorku	9	U+0052
-^čh	čh	čhi.31, čhraŋ.35	palaungwapangpin, palaungwagantang, palaungwamane	9	U+005e U+010d U+0068
-ɛ̃	ɛ̃	hɛ̃ɲ, bəltɛ̃k	aslianjahai, asliankensiw, aslianjahhut, asliantemiar, bahnarichadang, asliansemelai	9	U+025b U+0303
-^ʒh	ʒh	ʒhɔr, ʒhamaoh	khmerickhmer, palaungwapangpin, asliansemai, bahnaricstieng, mundakharia, bahnaricmrolom	9	U+005e U+0292 U+0068
-á$	á	đá, kúj-p<an>iw-á	nicobaricnancawri, vieticvietnamese, mundasora	9	U+00e1 U+0024
-^gh	gh	ghoneʒ, ghiliŋ	mundakorku, palaungwashuangdiang, palaungwapangpin, bahnaricstieng	9	U+005e U+0067 U+0068
-<	<?>	ɲ<ut>um , kúj-k<an>uáŋ	nicobaricnancawri, palaungwakhme, asliansemai, mundasantali, mundamundari, nicobariccar	9	U+003c
-14$	<?>	teŋ.14, takɔjh.14	vieticmalieng	9	U+0031 U+0034 U+0024
-15$	<?>	ʔu.31 khot.15, ʔu.31 pat.15	palaungwayongde, vieticmalieng	9	U+0031 U+0035 U+0024
-ã	ã	pãwre, pə.55 mã.T.31	asliankensiw, mangicbugan, bahnarichre, aslianjahhut, mundakharia, nicobariccar	8	U+00e3
-	<?>	ʔidŋ, khlʔŋ.A	khmuicbit, vieticcuoi, pearicchongh, katuickantu	8	U+f1e4
-lh	lh	n'ʔər lha si, pəlheɲ.1	palaungwaguanshuang, palaungwamane, asliansemoqberi, khmuickxinhmul, monicnyakur, bahnaricmdip	8	U+006c U+0068
-^bh	bh	bhənom, bhət.55	khmerickhmer, palaungwapangpin, asliansemai, palaungwaguanshuang, mundakharia	8	U+005e U+0062 U+0068
-^x	x	xɔ.31 , xu'o'ng	palaungwamane, vieticvietnamese, vieticthomon, mangicbugan	8	U+005e U+0078
-^sh	sh	shoŋ, shòk-malēcha	khasikhasi, nicobaricnancawri	8	U+005e U+0073 U+0068
-^f	f	faŋ, fa-nəɲ-lə	nicobariccar, palaungwakhamet, khmuiciduh, palaungwapangpin, nicobaricnancawri, khmuicphong, palaungwakhme	8	U+005e U+0066
-^	<?>	te^n, uó^ng	vieticvietnamese, bahnaricsre, katuicnge	8	U+005e
-U	<?>	uthUk, mUh.24	vieticarem, palaungwadeang, vieticmalieng	8	U+0055
-mm	mm	təmmɛ, tamme	khmuiciduh, khmuickhmu, katuicnge, katuicpakoh, katuictaoih, khasikhasi, mundasora	8	U+006d U+006d
-^ɛ	ɛ	ɛ.51, ɛŋ	palaungwakhamet, nicobariccar, katuicmak, katuictri, palaungwarumai	7	U+005e U+025b
-44	<?>	mat.44 pləj.21, ke.44 ni.24	vieticphongv	7	U+0034 U+0034
-32$	<?>	hiəŋ.32, mot.35 diə.32	khmuickhang, khmuickxinhmul, vieticmalieng	7	U+0033 U+0032 U+0024
-^kw	kw	kwa, kwaj.43	bahnaricnhaheun, aslianjahhut, bahnarichadang, bahnarickadong, vieticthomon, bahnaricje, bahnaricmdip	7	U+005e U+006b U+0077
-ĩ	ĩ	kəlwĩl, tuĩ.T.55	nicobaricnancawri, aslianjahai, bahnaricdidra, mangicbugan, bahnarichre	7	U+0129
-0	<?>	kəl.0 khlaŋ.33, ka.0 aŋ.33	palaungwahu, vietictuum, palaungwarumai, vieticphongv	7	U+0030
-2	<?>	al.2 miʔ.2, kel.2 kel.2	palaungwaguanshuang, vieticmuongkoi, vieticthavungso	7	U+0032
-^ɫ	ɫ	ɫin.53, ɫɨəc.31	mangicpaliu, vieticliha	7	U+005e U+026b
-ɔ̂	ɔ̂	gatɔ̂ŋ, bɔ̂ɛ	khmuiciduh, katuiclaokatu	7	U+0254 U+0302
-é	é	itén, déreŋ	mundasora, nicobaricnancawri	7	U+00e9
-^cw	cw	cwaŋ, cwəʔ	bahnarickadong, bahnarickorcua, aslianjahhut, bahnarichadang, bahnaricpanong, bahnaricchrau	7	U+005e U+0063 U+0077
-11	<?>	lɔ.11 čjai.55, lɔ.11 lim.31	mangicpaliu, palaungwahu, palaungwakhamet, palaungwashuangdiang	7	U+0031 U+0031
-ṇ	ṇ	caṇḍbol, ʒuṇṭa	mundajuang, mundasantali, mundamundari, khmerickhmer	7	U+1e47
-ɔ̃	ɔ̃	nahɔ̃ʔ, macɔ̃t < *macɔn	asliansemai, aslianjahai, asliankensiw, aslianjahhut, asliantemiar	7	U+0254 U+0303
-nh	nh	hənhriəŋ.33, kanhah	asliansemoqberi, khmuickxinhmul, bahnarichre, bahnaricsre, bahnarickahochil, palaungwamane	6	U+006e U+0068
-ɛ̂	ɛ̂	naʔɛ̂ŋ, ŋɛ̂ŋ	khmuiciduh	6	U+025b U+0302
-41$	<?>	gâk.55 hâi.41, tɔ.41	vieticthomon, palaungwarumai, vieticmalieng	6	U+0034 U+0031 U+0024
-N	<?>	kuj.N thol.B, kuj.N kəpaj.N	mundamundari, katuickui, katuicbruvk, khmerickhmer	6	U+004e
-'o	'o	tʔ'oge, đu'o'ng đi	vieticvietnamese, mundasora	6	U+0027 U+006f
-âw$	âw	hantâw, plâ gadâw	khmuiciduh	6	U+00e2 U+0077 U+0024
-rh	rh	pərhem, murh.2	vieticruc, bahnaricsre, katuicnge, bahnaricstieng, bahnaricchrau	6	U+0072 U+0068
-ə̂	ə̂	phoŋ jə̂ŋ, cə̂ŋ	khmericksurin, katuiclaokatu	6	U+0259 U+0302
-^ɟ	ɟ	ɟʌŋ, ɟuh	palaungwahu, bahnaricjru	6	U+005e U+025f
->	<?>	ɲ<ut>um , kúj-k<an>uáŋ	nicobaricnancawri, mundasantali, mundamundari, nicobariccar	6	U+003e
-âh$	âh	ndâh, tâŋ ʔâh	katuicbruvk, khmericksurin, bahnaricveh	5	U+00e2 U+0068 U+0024
-ö	ö	ma.31 dö.35, hö.35	mangicmang, asliantemiar	5	U+00f6
-f	f	ʔuál=fáŋ, kɔk.31 fai.51	nicobaricnancawri, palaungwadeang, palaungwakhme, palaungwarumai, nicobariccar	5	U+0066
-gh	gh	khuan.51 ghu.55, nghe	palaungwapangpin, mundakharia, vieticvietnamese, palaungwashuangdiang, palaungwakhme	5	U+0067 U+0068
-^ns	ns	nsec, nsɔr	mundabonda, asliansemoqberi, katuictri, vietickhaphong, palaungwamane	5	U+005e U+006e U+0073
-^q	q	qai.55, qa.31 pai.53	mangicpaliu	5	U+005e U+0071
-ă	ă	jăm, năp	palaungwadeang, vieticvietnamese, vieticliha	5	U+0103
-^š	š	šeŋ.51, šok.51	palaungwapangpin, palaungwagantang	5	U+005e U+0161
-ns	ns	hɨnsaj.33, hɨnsaj.33 	mundasora, khmuickxinhmul, mundakharia	5	U+006e U+0073
-ɦw	ɦw	cɦwɔk, pɦwɔk	bahnaricarak	5	U+0266 U+0077
-4	<?>	məʌt.4 pləi.2, kuj.4 cal.3	vieticruc, palaungwamane, vieticmuongkoi	5	U+0034
-ć	<?>	sɨŋ.55 ćan.31, phi.31 ćoŋ.55	palaungwakhamet, palaungwayongde, palaungwakhme, palaungwashuangdiang	5	U+0107
-ɲʒ	ɲʒ	aɲʒum, koleɲʒa	mundakorku, aslianjahai, asliansemai	5	U+0272 U+0292
-à	à	dài, đàn ông	vieticvietnamese	5	U+00e0
-ò	ò	shòk-malēcha, mặt trò'i	vieticvietnamese, vieticarem, nicobaricnancawri	5	U+00f2
-^mw	mw	mwaj, mwõh	asliankensiw, bahnarickadong, monicmon, bahnaricmdip	4	U+005e U+006d U+0077
-^nn	nn	nnəh.L, nnəʔ.L	katuicong, bahnaricnhaheun, katuictaoih, katuicpakoh	4	U+005e U+006e U+006e
-	<?>	cʔ, ct	vieticarem	4	U+f131
-ćh	<?>	pa.31 ćhep.33, a.33 ćhim.33	palaungwayongde, palaungwamangan	4	U+0107 U+0068
-22$	<?>	teɲ.22, kəhnɛj.22	vieticmalieng, bahnaricje	4	U+0032 U+0032 U+0024
-'h	'h	m'ham, l'ha	bahnaricmdip	4	U+0027 U+0068
-32	<?>	hɛt.32 siən.33, ʔem.32 za.324	khmuickhang, khmuickxinhmul	4	U+0033 U+0032
-'u	'u	gog=ʒ'uŋ, ar'uʔm	mundasora, mundaparengi, mundakharia	4	U+0027 U+0075
-^nw	nw	nwəŋ, nwɛj	aslianjahhut, bahnaricnhaheun, bahnarichadang	4	U+005e U+006e U+0077
-q	q	ce.31 pau.31 qu, se.T.55 qou.33	mangicpaliu, mangicbugan	4	U+0071
-F$	<?>	tiɲ.F, ciŋ.F	vieticthavung	4	U+0046 U+0024
-41	<?>	kɛ.41ʔ nti.44, kuhɔj.41ʔ	vieticmalieng	4	U+0034 U+0031
-^jh	jh	jhauk, jhak.1	palaungwawa, palaungwamane, palaungwaguanshuang	4	U+005e U+006a U+0068
-lh$	lh	ʔulh, pənulh	katuicdakkang, khmuicmlabri	4	U+006c U+0068 U+0024
-ɔ̆	ɔ̆	tɔ̆ ʔ, blɔ̆ ʔ	palaungwadeang, khmuicbit, vieticthavung	4	U+0254 U+0306
-^pw	pw	pwak, pwac	bahnarichadang, bahnarickadong, bahnaricmdip	4	U+005e U+0070 U+0077
-5	<?>	mat.5 tləj.1, mat.5 tlaŋ.2	vieticmuongkoi	4	U+0035
-424$	<?>	khʌj.424, cəw.424	vieticliha, bahnaricje, vieticcuoi	4	U+0034 U+0032 U+0034 U+0024
-243	<?>	ŋoj.243ʔ, tɔj.243ʔ tɔj.	vieticcuoi	4	U+0032 U+0034 U+0033
-ũ	ũ	ɲũs, mũi	asliankensiw, vieticvietnamese, aslianjahai	4	U+0169
-muəjʔ/mojʔ	<???>	muəjʔ/mojʔ	bahnarickadong, bahnarichadang	4	U+006d U+0075 U+0259 U+006a U+0294 U+002f U+006d U+006f U+006a U+0294
-'i$	'i	ngu'ò'i, mặt trò'i	vieticvietnamese	4	U+0027 U+0069 U+0024
-kuj, guj	<???>	kuj, guj	bahnarichadang	4	U+006b U+0075 U+006a U+002c U+0020 U+0067 U+0075 U+006a
-ŋs	ŋs	b'aŋsa, thəŋsim	katuicbru, katuicneu, mundasora	3	U+014b U+0073
-E	<?>	geh E??, thaŋ.E ot.C 	asliankensiw, pearickasong, khmuicksinmul	3	U+0045
-212	<?>	lɛm.212 sɛm.2 , nɔ.212 mɛn.212	vietictuum	3	U+0032 U+0031 U+0032
-bh	bh	kəbhɔk, ba bha	bahnaricma2, khasikhasi, palaungwashuangdiang	3	U+0062 U+0068
-lw	lw	plwa, kəlwĩl	bahnarickadong, aslianjahai, bahnarichadang	3	U+006c U+0077
-kw	kw	mphun kwah, kûn kwɛ̂	mundabonda, khmuicpray, khmuiciduh	3	U+006b U+0077
-ɔ̂$	ɔ̂	rɔ̂, gatɔ̂	khmuiciduh	3	U+0254 U+0302 U+0024
-'i	'i	m'iɲam, por'iʔn	mundaparengi, khasikhasi, mundasora	3	U+0027 U+0069
-ắ	<?>	cắn, mắt	vieticvietnamese	3	U+1eaf
-^tw	tw	twar, twan	bahnarickadong, katuickui, katuickantu	3	U+005e U+0074 U+0077
-ḷ	ḷ	kaḷia, kuaḷesoŋ	mundajuang	3	U+1e37
-wh$	wh	gawh, mawh	bahnarictempuan, bahnaricoy	3	U+0077 U+0068 U+0024
-ú$	ú	palú, krú	vieticvietnamese, bahnaricma1, mundasora	3	U+00fa U+0024
-û$	û	mû , mû	khmuiciduh	3	U+00fb U+0024
-š	š	khik.55 šak.55, tšòh	palaungwagantang, vieticarem	3	U+0161
-č	č	lɔ.11 čjai.55, ŋai.35 čak.31	mangicpaliu, palaungwapangpin, mangicmang	3	U+010d
-^ṣ	ṣ	ṣaŋ.51, ṣɔk.51	palaungwashuangdiang	3	U+005e U+1e63
-^'a	'a	'amən, 'ar-re	mundasora	3	U+005e U+0027 U+0061
-45	<?>	cuʔ.45 meŋ.44, kɛn.45 mat.45	vieticphongv, khmuickxinhmul	3	U+0034 U+0035
-ùh$	ùh	kùh, ahAjʔ kùh	vieticarem	3	U+00f9 U+0068 U+0024
-ʔw	ʔw	kaʔwej, meʔw.B	bahnarictempuan, pearicchongh, bahnaricdidra	3	U+0294 U+0077
-^ʔʒ	ʔʒ	ʔʒəʔ, ʔʒə́ŋ	bahnaricveh, bahnaricma1, katuickantu	3	U+005e U+0294 U+0292
-^ʒ́	ʒ́	ʒ́âŋ.51, ʒ́ân.51	palaungwarumai, palaungwashuangdiang	3	U+005e U+0292 U+0301
-biɲ, bəɲ.L, p	<???>	biɲ, bəɲ.L, p	katuicpakoh	3	U+0062 U+0069 U+0272 U+002c U+0020 U+0062 U+0259 U+0272 U+002e U+004c U+002c U+0020 U+0070
-ʌ$	ʌ	cʌ, ci ɲʌ	vieticarem, katuictri, khmuicmlabri	3	U+028c U+0024
-^ʔw	ʔw	ʔwaj, ʔwej.T	bahnaricmbunong, bahnaricdidra, bahnaricrengao	3	U+005e U+0294 U+0077
-	<?>	ɔn=ḍɔr, môt	mundakharia, vieticvietnamese	3	U+f323
-	<?>	tɨaŋ.33 ʔəc., lɨaɨ.51ʔ	vieticmalieng, vieticthavung	3	U+f32f
-3	<?>	mɔŋ.3 khɔj.3, aŋ.3 kha.3	vieticmuongkoi	3	U+0033
-čh	čh	khik.55 čhak.55, pat.55 čhə.55	palaungwapangpin, palaungwagantang	3	U+010d U+0068
-1	<?>	tuh.1-trus.1, al.1 ŋoŋ.1	vieticthavungso, palaungwaguanshuang, monicnyakur	3	U+0031
-434	<?>	ʔə.434 cɨə.43, karaŋ.434ʔ	vieticmalieng, vietickhaphong, vieticthomon	3	U+0034 U+0033 U+0034
-^rw	rw	rwɨl, rwal	bahnaricmbunong, bahnaricmdip, bahnaricstieng	3	U+005e U+0072 U+0077
-^M	<?>	Mon, Mak	katuicong, khmuickhmu, nicobariccar	3	U+005e U+004d
-^ɲh	ɲh	ɲhuʔ, ɲhuk	bahnarickahochil, bahnaricmbunong, bahnaricsre	3	U+005e U+0272 U+0068
-ɲɨ, ne, neʔ	<???>	ɲɨ, ne, neʔ	katuiclaokatu	3	U+0272 U+0268 U+002c U+0020 U+006e U+0065 U+002c U+0020 U+006e U+0065 U+0294
-^sw	sw	sweh, swaʔ	khmuicpray, bahnaricma2	2	U+005e U+0073 U+0077
-mw	mw	sʌdn mwãʔ, səmwɛj	asliankensiw, aslianjahai	2	U+006d U+0077
-^c̣	c̣	c̣am.33 kauk.31	palaungwashuangdiang, palaungwaplang	2	U+005e U+0063 U+0323
-âh	âh	râh.B, bâh.N	katuicbru	2	U+00e2 U+0068
-ŋh	ŋh	ʔəŋhaŋ, gŋhəl	katuickantu, asliansemai	2	U+014b U+0068
-mh	mh	ghɔk.33 mhu.31, kəmho	bahnaricsre, palaungwashuangdiang	2	U+006d U+0068
-^'u	'u	'usa	mundabonda	2	U+005e U+0027 U+0075
-rr	rr	'ar-re, kúrraŋ	mundasora	2	U+0072 U+0072
-ớ	<?>	lớn, mới	vieticvietnamese	2	U+1edb
-14	<?>	ŋit.14 ṭok.14, ʔo.14ʔ	vieticmalieng	2	U+0031 U+0034
-ẽ	ẽ	pẽc, cẽre	mundasantali, nicobaricnancawri	2	U+1ebd
-'n	'n	xu'o'ng, sù'ng	vieticvietnamese	2	U+0027 U+006e
-é$	é	memé, ʒalé	mundasora	2	U+00e9 U+0024
-nh$	nh	xanh, lanh	vieticvietnamese	2	U+006e U+0068 U+0024
->$	<?>	ɲi.53 <ŋeʔ.53>, ŋaŋ.33 <ŋɔŋ.13>	palaungwakhme	2	U+003e U+0024
-toh, troh	<???>	toh, troh	bahnarickahochil	2	U+0074 U+006f U+0068 U+002c U+0020 U+0074 U+0072 U+006f U+0068
-nuk.31,no.T.31	<???>	nuk.31,no.T.31	mangicbugan	2	U+006e U+0075 U+006b U+002e U+0033 U+0031 U+002c U+006e U+006f U+002e U+0054 U+002e U+0033 U+0031
-ṭaw,pəntaw'	<???>	ṭaw,pəntaw'	bahnarictempuan	2	U+1e6d U+0061 U+0077 U+002c U+0070 U+0259 U+006e U+0074 U+0061 U+0077 U+0027
-fâh,kapâh (M)	<???>	fâh,kapâh (M)	nicobaricnancawri	2	U+0066 U+00e2 U+0068 U+002c U+006b U+0061 U+0070 U+00e2 U+0068 U+0020 U+0028 U+004d U+0029
-^S	<?>	So	bahnarictempuan, bahnaricma2	2	U+005e U+0053
-ó$	ó	chó, ləbó	vieticvietnamese, mundasora	2	U+00f3 U+0024
-^ŋw	ŋw	ŋwaj, ŋwaiʔ	katuicmak, bahnaricmbunong	2	U+005e U+014b U+0077
-ô$	ô	khô , si sô	vieticvietnamese, khmuicpray	2	U+00f4 U+0024
-hijə́h, hijə́s	<???>	hijə́h, hijə́s	nicobaricnancawri	2	U+0068 U+0069 U+006a U+0259 U+0301 U+0068 U+002c U+0020 U+0068 U+0069 U+006a U+0259 U+0301 U+0073
-^dw	dw	dwaj, dwan	bahnaricnhaheun, bahnarichadang	2	U+005e U+0064 U+0077
-ấ	<?>	đất, chấy	vieticvietnamese	2	U+1ea5
-22	<?>	mɛŋ.22ʔ, mat.22 atak.13	vietickhaphong	2	U+0032 U+0032
-ứ	<?>	đứng, trứng	vieticvietnamese	2	U+1ee9
-23	<?>	ta.23ʔ, usok.23 ʔo.51ʔ	vieticmalieng, vieticcuoi	2	U+0032 U+0033
-ʔs	ʔs	kaʔsaŋ, haʔsɔk	vieticthavung	2	U+0294 U+0073
-^ɲs	ɲs	ɲsok, ɲsok kɨʔ	khmuicpray	2	U+005e U+0272 U+0073
-'e	'e	bal'ed, por'ej	mundaparengi, mundasora	2	U+0027 U+0065
-'ʔ	'ʔ	n'ʔər lha si, lu'ʔa	vieticvietnamese, bahnaricmdip	2	U+0027 U+0294
-ɛ̂$	ɛ̂	ʔɛ̂, kûn kwɛ̂	khmuiciduh	2	U+025b U+0302 U+0024
-ciaŋ.L, ceaŋ.L	<???>	ciaŋ.L, ceaŋ.L	bahnaricsedang	2	U+0063 U+0069 U+0061 U+014b U+002e U+004c U+002c U+0020 U+0063 U+0065 U+0061 U+014b U+002e U+004c
-343$	<?>	maŋ.43 thəi.343, kaŋ.343	vieticcuoi, vieticthomon	2	U+0033 U+0034 U+0033 U+0024
-nʒ	nʒ	hənʒadn, kynʒat	asliankensiw, khasikhasi	2	U+006e U+0292
-=ʒ	<?>	gog=ʒ'uŋ, padoi=ʒiɲ	mundakharia, mundajuang	2	U+003d U+0292
-biŋ, ʔbiŋ	<???>	biŋ, ʔbiŋ	katuiclaokatu	2	U+0062 U+0069 U+014b U+002c U+0020 U+0294 U+0062 U+0069 U+014b
-^<	<?>	< MALAY 	aslianjahhut	2	U+005e U+003c
-M	<?>	< MALAY 	aslianjahhut	2	U+004d
-Y$	<?>	< MALAY 	aslianjahhut	2	U+0059 U+0024
-i, o	<???>	i, o	mundakorku	2	U+0069 U+002c U+0020 U+006f
-^ɔ$	ɔ	ɔ	katuicmak, katuictri	2	U+005e U+0254 U+0024
-$	<?>	th, h	vieticarem	2	U+f131 U+0024
-tai.51, tai.412	<???>	tai.51, tai.412	palaungwarumai	2	U+0074 U+0061 U+0069 U+002e U+0035 U+0031 U+002c U+0020 U+0074 U+0061 U+0069 U+002e U+0034 U+0031 U+0032
-ə́$	ə́	kə́, ŋə́	bahnarichadang, nicobaricnancawri	2	U+0259 U+0301 U+0024
-gə́l, kə́l	<???>	gə́l, kə́l	bahnaricpanong	2	U+0067 U+0259 U+0301 U+006c U+002c U+0020 U+006b U+0259 U+0301 U+006c
-amdáŋ, andáŋ	<???>	amdáŋ, andáŋ	mundasora	2	U+0061 U+006d U+0064 U+00e1 U+014b U+002c U+0020 U+0061 U+006e U+0064 U+00e1 U+014b
-(aɲ)ʒom	<???>	(aɲ)ʒom	mundasantali	2	U+0028 U+0061 U+0272 U+0029 U+0292 U+006f U+006d
-F	<?>	tuh.F caj.A , huə.F cai.A 	pearickasong, pearicsamre	2	U+0046
-draŋ, graŋ	<???>	draŋ, graŋ	monicmon	2	U+0064 U+0072 U+0061 U+014b U+002c U+0020 U+0067 U+0072 U+0061 U+014b
-hɔ.43, hɔ.33	<???>	hɔ.43, hɔ.33	vieticthomon	2	U+0068 U+0254 U+002e U+0034 U+0033 U+002c U+0020 U+0068 U+0254 U+002e U+0033 U+0033
-cha, cha (M)	<???>	cha, cha (M)	nicobaricnancawri	2	U+0063 U+0068 U+f1fc U+0061 U+002c U+0020 U+0063 U+0068 U+0061 U+0020 U+0028 U+004d U+0029
-E$	<?>	kha.E, pɔm.B sat.E	pearickasong	2	U+0045 U+0024
-akɨl, akel	<???>	akɨl, akel	katuictri	2	U+0061 U+006b U+0268 U+006c U+002c U+0020 U+0061 U+006b U+0065 U+006c
-rw	rw	kərwal, brwo	bahnaricnhaheun, aslianjahhut	2	U+0072 U+0077
-c̣h	c̣h	khik.33 c̣hak.3	palaungwashuangdiang	2	U+0063 U+0323 U+0068
-x	x	khxaʔ.35, -khxoŋ.31	palaungwamane	2	U+0078
-^R	<?>	Roj, Rə-ŋə	nicobariccar	2	U+005e U+0052
-$	<?>	ʔati, kaji	nicobaricnancawri	2	U+f301 U+0024
-^nʒ	nʒ	nʒaj, nʒe.55	katuicong, mangicbugan	2	U+005e U+006e U+0292
-^ʒ́h	ʒ́h	ʒ́hi.51, ʒ́haik.51	palaungwashuangdiang	2	U+005e U+0292 U+0301 U+0068
-phantrus, trus	<???>	phantrus, trus	katuiclaokatu	2	U+0070 U+0068 U+0061 U+006e U+0074 U+0072 U+0075 U+0073 U+002c U+0020 U+0074 U+0072 U+0075 U+0073
-ʔoŋ.33, ŋʔoŋ	<???>	ʔoŋ.33, ŋʔoŋ	vieticmalieng	2	U+0294 U+006f U+014b U+002e U+0033 U+0033 U+002c U+0020 U+014b U+0294 U+006f U+014b
-$	<?>	sajt, gi	katuicso, vieticvietnamese	2	U+f300 U+0024
-tra.33/tara.3	<???>	tra.33/tara.3	vietickhaphong	2	U+0074 U+0072 U+0061 U+002e U+0033 U+0033 U+002f U+0074 U+0061 U+0072 U+0061 U+002e U+0033
-khɔŋ, takhɔŋ	<???>	khɔŋ, takhɔŋ	katuiclaokatu	2	U+006b U+0068 U+0254 U+014b U+002c U+0020 U+0074 U+0061 U+006b U+0068 U+0254 U+014b
-	<?>	j.31 ɲiɛ.51, ŋ.55 m.51	mangicmang	2	U+f1fc
-ũ$	ũ	mũ	mundasantali, mundamundari	2	U+0169 U+0024
-ho-ə,öt	<???>	ho-ə,öt	nicobariccar	2	U+0068 U+006f U+002d U+0259 U+002c U+00f6 U+0074
-bɔ.55, mə.55	<???>	bɔ.55, mə.55	mangicbugan	2	U+0062 U+0254 U+002e U+0035 U+0035 U+002c U+0020 U+006d U+0259 U+002e U+0035 U+0035
-takhuj, khuj	<???>	takhuj, khuj	katuiclaokatu	2	U+0074 U+0061 U+006b U+0068 U+0075 U+006a U+002c U+0020 U+006b U+0068 U+0075 U+006a
-ṛ$	ṛ	kaṛ, hoṛ	mundasantali, mundakharia	2	U+1e5b U+0024
-'a$	'a	pat'a, mu'a	mundakharia, vieticvietnamese	2	U+0027 U+0061 U+0024
-gruaŋ.51, gruaŋ	<???>	gruaŋ.51, gruaŋ	palaungwashuangdiang	2	U+0067 U+0072 U+0075 U+0061 U+014b U+002e U+0035 U+0031 U+002c U+0020 U+0067 U+0072 U+0075 U+0061 U+014b
-h$	<?>	rih, amɨh	vieticarem	2	U+f300 U+0068 U+0024
-ʔbəc, ʔbʌc	<???>	ʔbəc, ʔbʌc	katuickatu	2	U+0294 U+0062 U+0259 U+0063 U+002c U+0020 U+0294 U+0062 U+028c U+0063
-lam.22/ləm.22	<???>	lam.22/ləm.22	vieticmalieng	2	U+006c U+0061 U+006d U+002e U+0032 U+0032 U+002f U+006c U+0259 U+006d U+002e U+0032 U+0032
-jɨŋ, jə̂ŋ	<???>	jɨŋ, jə̂ŋ	katuiclaokatu	2	U+006a U+0268 U+014b U+002c U+0020 U+006a U+0259 U+0302 U+014b
-klʌ.33/klo.33 	<???>	klʌ.33/klo.33 	vietickhaphong	2	U+006b U+006c U+028c U+002e U+0033 U+0033 U+002f U+006b U+006c U+006f U+002e U+0033 U+0033 U+0020
-hãj.L, haj.L	<???>	hãj.L, haj.L	bahnaricsedang	2	U+0068 U+00e3 U+006a U+002e U+004c U+002c U+0020 U+0068 U+0061 U+006a U+002e U+004c
-ặ	<?>	mặt trò'i, mặt trò'i 	vieticvietnamese	2	U+1eb7
-pɔŋɔr, pɔ̃ɔr	<???>	pɔŋɔr, pɔ̃ɔr	mundabonda	2	U+0070 U+0254 U+014b U+0254 U+0072 U+002c U+0020 U+0070 U+0254 U+0303 U+0254 U+0072
-tɔʔ, tɛʔ	<???>	tɔʔ, tɛʔ	bahnaricma1	2	U+0074 U+0254 U+0294 U+002c U+0020 U+0074 U+025b U+0294
-nɛ̂, ʔanɛ̂	<???>	nɛ̂, ʔanɛ̂	khmuiciduh	2	U+006e U+025b U+0302 U+002c U+0020 U+0294 U+0061 U+006e U+025b U+0302
-do, du	<???>	do, du	bahnaricma1	2	U+0064 U+006f U+002c U+0020 U+0064 U+0075
-nî, ʔanî	<???>	nî, ʔanî	khmuiciduh	2	U+006e U+00ee U+002c U+0020 U+0294 U+0061 U+006e U+00ee
-en, nen (M)	<???>	en, nen (M)	nicobaricnancawri	2	U+0065 U+006e U+002c U+0020 U+006e U+0065 U+006e U+0020 U+0028 U+004d U+0029
-mi, maj	<???>	mi, maj	bahnaricma1	2	U+006d U+0069 U+002c U+0020 U+006d U+0061 U+006a
-^ɛ$	ɛ	ɛ	palaungwadeang, bahnaricbahnar	2	U+005e U+025b U+0024
-me, meŋ (M)	<???>	me, meŋ (M)	nicobaricnancawri	2	U+006d U+0065 U+002c U+0020 U+006d U+0065 U+014b U+0020 U+0028 U+004d U+0029
-rəpe.L, rəpie.L	<???>	rəpe.L, rəpie.L	bahnaricsedang	2	U+0072 U+0259 U+0070 U+0065 U+002e U+004c U+002c U+0020 U+0072 U+0259 U+0070 U+0069 U+0065 U+002e U+004c
-laŋ, lan	<???>	laŋ, lan	mundakorku	2	U+006c U+0061 U+014b U+002c U+0020 U+006c U+0061 U+006e
-^lw	lw	lwaŋ, lwak	bahnaricpanong, bahnarichadang	2	U+005e U+006c U+0077
-ʒh	ʒh	ṭaəm ʒhaə	khmerickhmer	2	U+0292 U+0068
-i, ʒe	<???>	i, ʒe	mundakharia	2	U+0069 U+002c U+0020 U+0292 U+0065
-lui.55, lui.51	<???>	lui.55, lui.51	palaungwarumai	2	U+006c U+0075 U+0069 U+002e U+0035 U+0035 U+002c U+0020 U+006c U+0075 U+0069 U+002e U+0035 U+0031
-hʒ	hʒ	ʔnaŋ hʒi, naŋ hʒi	bahnarickadong, bahnarichadang	2	U+0068 U+0292
-z	z	ʔem.32 za.324, mu.5 za.5	vieticmuongkoi, khmuickhang	2	U+007a
-öh$	öh	kemböh	asliantemiar	1	U+00f6 U+0068 U+0024
-224$	<?>	bən.224	vieticmalieng	1	U+0032 U+0032 U+0034 U+0024
-ʯ$	ʯ	bɔʯ	katuicmak	1	U+02af U+0024
-553$	<?>	bə.31 jɨa.553	mangicmang	1	U+0035 U+0035 U+0033 U+0024
-Ah$	<?>	adAh	vieticarem	1	U+0041 U+0068 U+0024
-gu gu (lam)	<???>	gu gu (lam)	khmuicmlabri	1	U+0067 U+0075 U+0020 U+0067 U+0075 U+0020 U+0028 U+006c U+0061 U+006d U+0029
-ʔók-[ʔuɲiha]	<???>	ʔók-[ʔuɲiha]	nicobaricnancawri	1	U+0294 U+00f3 U+006b U+002d U+005b U+0294 U+0075 U+0272 U+0069 U+f301 U+0068 U+0061 U+005d
-[CHECK]	<???>	[CHECK]	bahnaricnhaheun	1	U+005b U+0043 U+0048 U+0045 U+0043 U+004b U+005d
-(h)mam	<???>	(h)mam	bahnaricma1	1	U+0028 U+0068 U+0029 U+006d U+0061 U+006d
-maham (B)	<???>	maham (B)	asliansemoqberi	1	U+006d U+0061 U+0068 U+0061 U+006d U+0020 U+0028 U+0042 U+0029
-ʔuŋ[=ʔɨŋ]	<???>	ʔuŋ[=ʔɨŋ]	nicobaricnancawri	1	U+0294 U+0075 U+014b U+005b U+003d U+0294 U+0268 U+f301 U+014b U+005d
-^mhw	mhw	mhwal	bahnaricsre	1	U+005e U+006d U+0068 U+0077
-^pp	pp	ppûəʔ	khmericksurin	1	U+005e U+0070 U+0070
-sədə~c	<???>	sədə~c	asliansemoqberi	1	U+0073 U+0259 U+0064 U+0259 U+007e U+0063
-èh$	èh	mèh	vieticarem	1	U+00e8 U+0068 U+0024
-v$	v	u-fov	nicobariccar	1	U+0076 U+0024
-pacaw (M)	<???>	pacaw (M)	nicobaricnancawri	1	U+0070 U+0061 U+0063 U+0061 U+0077 U+0020 U+0028 U+004d U+0029
-^jw	jw	jwɔʔ akaw	katuicneu	1	U+005e U+006a U+0077
-òh$	òh	tšòh	vieticarem	1	U+00f2 U+0068 U+0024
-dk-ta (M)	<???>	dk-ta (M)	nicobaricnancawri	1	U+0064 U+f430 U+006b U+002d U+0074 U+0061 U+0020 U+0028 U+004d U+0029
-^	<?>	lɛt ʒet beh	bahnaricma2	1	U+005e U+f30c
-sw	sw	kaswa	bahnaricpanong	1	U+0073 U+0077
-54$	<?>	ʔuk.54	khmuickxinhmul	1	U+0035 U+0034 U+0024
-^ʯ	ʯ	ʯɨp.33	palaungwamane	1	U+005e U+02af
-[CHECK]ŋ	<???>	[CHECK]ŋ	bahnarichre	1	U+005b U+0043 U+0048 U+0045 U+0043 U+004b U+005d U+014b
-R$	<?>	rohoR	mundasantali	1	U+0052 U+0024
-lok(h)or	<???>	lok(h)or	mundakorku	1	U+006c U+006f U+006b U+0028 U+0068 U+0029 U+006f U+0072
-tawr~	<???>	tawr~	bahnarictempuan	1	U+0074 U+0061 U+0077 U+0072 U+007e
-^u$	u	u	bahnaricsre	1	U+005e U+0075 U+0024
-^ă	ă	ăn	vieticvietnamese	1	U+005e U+0103
-ok-ŋôk (M)	<???>	ok-ŋôk (M)	nicobaricnancawri	1	U+006f U+006b U+002d U+014b U+00f4 U+006b U+0020 U+0028 U+004d U+0029
-213$	<?>	mət.213	vieticmalieng	1	U+0032 U+0031 U+0033 U+0024
-ŋŋ	ŋŋ	pəŋŋai 	khmuicbit	1	U+014b U+014b
-^rs	rs	rsaw	bahnaricmbunong	1	U+005e U+0072 U+0073
-^mm	mm	mmih	khmericksurin	1	U+005e U+006d U+006d
-gasɔ(2)ʔ	<???>	gasɔ(2)ʔ	khmuiciduh	1	U+0067 U+0061 U+0073 U+0254 U+0028 U+0032 U+0029 U+0294
-^ii	ii	iil	mundamundari	1	U+005e U+0069 U+0069
-ʔɨ~ɲ	<???>	ʔɨ~ɲ	bahnaricmrolom	1	U+0294 U+0268 U+007e U+0272
-ms	ms	timsoŋ	mundakharia	1	U+006d U+0073
-ta-mɨ~-jə	<???>	ta-mɨ~-jə	nicobariccar	1	U+0074 U+0061 U+002d U+006d U+0268 U+007e U+002d U+006a U+0259
-15	<?>	kadaŋ.15 ciŋ.3	vieticmalieng	1	U+0031 U+0035
-ć$	<?>	ʔa.31 kut.33 ć	palaungwakhme	1	U+0107 U+0024
-ks	ks	tiksuŋ	mundabonda	1	U+006b U+0073
-[kal-]Rən	<???>	[kal-]Rən	nicobariccar	1	U+005b U+006b U+0061 U+006c U+002d U+005d U+0052 U+0259 U+006e
-lâh (M)	<???>	lâh (M)	nicobaricnancawri	1	U+006c U+00e2 U+0068 U+0020 U+0028 U+004d U+0029
-posh (M)	<???>	posh (M)	nicobaricnancawri	1	U+0070 U+006f U+0073 U+0068 U+0020 U+0028 U+004d U+0029
-h$	<?>	dɛh	palaungwadeang	1	U+f306 U+0068 U+0024
-[ʔum-]kuám	<???>	[ʔum-]kuám	nicobaricnancawri	1	U+005b U+0294 U+0075 U+006d U+002d U+005d U+006b U+0075 U+00e1 U+006d
-ɲh	ɲh	təlir ɲhək	bahnaricsre	1	U+0272 U+0068
-îw$	îw	khîw	khmericksurin	1	U+00ee U+0077 U+0024
-52	<?>	kəi.52ʔ	vieticmalieng	1	U+0035 U+0032
-éh$	éh	jéh	nicobaricnancawri	1	U+00e9 U+0068 U+0024
-23$	<?>	kadaŋ.23	vieticmalieng	1	U+0032 U+0033 U+0024
-^ḷ	ḷ	ḷɨ	khmerickhmer	1	U+005e U+1e37
-c̣	c̣	ʒ́iak.31 c̣am.3	palaungwashuangdiang	1	U+0063 U+0323
-(uleʔ) laŋòh	<???>	(uleʔ) laŋòh	vieticarem	1	U+0028 U+0075 U+006c U+0065 U+0294 U+0029 U+0020 U+006c U+0061 U+014b U+00f2 U+0068
-O	<?>	tanOʔ	asliankensiw	1	U+004f
-hentp (M)	<???>	hentp (M)	nicobaricnancawri	1	U+0068 U+0065 U+006e U+0074 U+f3bf U+0070 U+0020 U+0028 U+004d U+0029
-424	<?>	pa.424 cet.24	vieticliha	1	U+0034 U+0032 U+0034
-	<?>	kacit.1	vieticthavungso	1	U+f30c
-or-ŋa-fâh(M)	<???>	or-ŋa-fâh(M)	nicobaricnancawri	1	U+006f U+0072 U+f267 U+002d U+014b U+0061 U+002d U+0066 U+00e2 U+0068 U+0028 U+004d U+0029
-(tâot.A) noj	<???>	(tâot.A) noj	pearicchongh	1	U+0028 U+0074 U+00e2 U+006f U+0074 U+002e U+0041 U+0029 U+0020 U+006e U+006f U+006a
-^ṭh	ṭh	ṭhehuna	mundakharia	1	U+005e U+1e6d U+0068
-ĩ$	ĩ	nĩ	bahnarickadong	1	U+0129 U+0024
-ế	<?>	biết	vieticvietnamese	1	U+1ebf
-^'o	'o	'ola	mundasora	1	U+005e U+0027 U+006f
-[ma-]Rɔ-ta	<???>	[ma-]Rɔ-ta	nicobariccar	1	U+005b U+006d U+0061 U+002d U+005d U+0052 U+0254 U+002d U+0074 U+0061
-$	<?>	ha.55 ɔn.31 tc	mangicmang	1	U+f1fc U+0024
-m'an(d)ra	<???>	m'an(d)ra	mundasora	1	U+006d U+0027 U+0061 U+006e U+0028 U+0064 U+0029 U+0072 U+0061
-en-kòiɲa (M)	<???>	en-kòiɲa (M)	nicobaricnancawri	1	U+0065 U+006e U+002d U+006b U+00f2 U+0069 U+0272 U+0061 U+0020 U+0028 U+004d U+0029
-ho (M)	<???>	ho (M)	nicobaricnancawri	1	U+0068 U+006f U+f430 U+0020 U+0028 U+004d U+0029
-^hw	hw	hwaʔ.1	monicnyakur	1	U+005e U+0068 U+0077
-Ãs$	<?>	mÃs	mundakharia	1	U+00c3 U+0073 U+0024
-ʔæ~h-a	<???>	ʔæ~h-a	nicobaricnancawri	1	U+0294 U+00e6 U+007e U+f301 U+0068 U+002d U+0061
-(mặt) trăng	<???>	(mặt) trăng	vieticvietnamese	1	U+0028 U+006d U+1eb7 U+0074 U+0029 U+0020 U+0074 U+0072 U+0103 U+006e U+0067
-ɛ́$	ɛ́	kahɛ́	nicobaricnancawri	1	U+025b U+0301 U+0024
-^qh	qh	qhɔŋ.13	mangicpaliu	1	U+005e U+0071 U+0068
-hen-yan (M)	<???>	hen-yan (M)	nicobaricnancawri	1	U+0068 U+0065 U+006e U+002d U+0079 U+f16b U+0061 U+006e U+0020 U+0028 U+004d U+0029
-ẹ	<?>	miẹng	vieticvietnamese	1	U+1eb9
-ɨ̂	ɨ̂	nɨ̂h	katuiclaokatu	1	U+0268 U+0302
-ɛɛ	ɛɛ	mi-nɛ-ɛɲ	nicobariccar	1	U+025b U+025b
-oŋ-lôŋa (M)	<???>	oŋ-lôŋa (M)	nicobaricnancawri	1	U+006f U+014b U+002d U+006c U+00f4 U+014b U+0061 U+0020 U+0028 U+004d U+0029
-æ$	æ	mæ	vieticarem	1	U+00e6 U+0024
-'ɔ	'ɔ	t'ɔnmɛ	mundakharia	1	U+0027 U+0254
-^ɦ	ɦ	ɦa pɦɨəʔ	bahnaricarak	1	U+005e U+0266
-'$	<?>	luŋ tabu'	katuicnge	1	U+0027 U+0024
-õ	õ	mwõh	asliankensiw	1	U+00f5
-h	<?>	mUh.24	vieticmalieng	1	U+f306 U+0068
-so di(ʔɔh)	<???>	so di(ʔɔh)	bahnaricma2	1	U+0073 U+006f U+0020 U+0064 U+0069 U+0028 U+0294 U+0254 U+0068 U+0029
-^	<?>	aŋ.3	vieticruc	1	U+005e U+f1df
-ʒʒ	ʒʒ	iʒʒa	mundasora	1	U+0292 U+0292
-ba(ŋ)	<???>	ba(ŋ)	mundasantali	1	U+0062 U+0061 U+0028 U+014b U+0029
-hat (M)	<???>	hat (M)	nicobaricnancawri	1	U+0068 U+0061 U+0074 U+0020 U+0028 U+004d U+0029
-(ʔa.31) mu.51	<???>	(ʔa.31) mu.51	palaungwashuangdiang	1	U+0028 U+0294 U+0061 U+002e U+0033 U+0031 U+0029 U+0020 U+006d U+0075 U+002e U+0035 U+0031
-kk	kk	takkuj	katuictaoih	1	U+006b U+006b
-'ò	'ò	ngu'ò'i	vieticvietnamese	1	U+0027 U+00f2
-^y	y	yar kmi	khmuicphong	1	U+005e U+0079
-h$	<?>	ʔamih	nicobaricnancawri	1	U+f301 U+0068 U+0024
-^ḳ	ḳ	ḳəsaw	katuicneu	1	U+005e U+1e33
-^c̣h	c̣h	c̣hraŋ.51	palaungwashuangdiang	1	U+005e U+0063 U+0323 U+0068
-taŋ.243ʔ (ti.2 	<???>	taŋ.243ʔ (ti.2 	vieticcuoi	1	U+0074 U+0061 U+014b U+002e U+0032 U+0034 U+0033 U+0294 U+0020 U+0028 U+0074 U+0069 U+002e U+0032 U+0020
-'	<?>	đu'o'ng đi	vieticvietnamese	1	U+0027 U+f300
-đ	đ	đu'o'ng đi	vieticvietnamese	1	U+0111
-'j	'j	r'jɛh	bahnaricmdip	1	U+0027 U+006a
-re^~	<???>	re^~	vieticvietnamese	1	U+0072 U+0065 U+005e U+007e
-??$	<?>	geh E??	khmuicksinmul	1	U+003f U+003f U+0024
-yiah (M)	<???>	yiah (M)	nicobaricnancawri	1	U+0079 U+0069 U+0061 U+0068 U+0020 U+0028 U+004d U+0029
-^V	<?>	Vehl	bahnaricma2	1	U+005e U+0056
-ŋw	ŋw	təŋwil	bahnarichalang	1	U+014b U+0077
-^khw	khw	khwaŋ.33	khmuickxinhmul	1	U+005e U+006b U+0068 U+0077
-[ʔu-]kĩl	<???>	[ʔu-]kĩl	nicobaricnancawri	1	U+005b U+0294 U+0075 U+002d U+005d U+006b U+0129 U+006c
-às$	às	bràs	bahnaricsre	1	U+00e0 U+0073 U+0024
-jj	jj	ku-jaj-jə	nicobariccar	1	U+006a U+006a
-ồ	<?>	ngồi	vieticvietnamese	1	U+1ed3
-^â	â	âk.55	palaungwarumai	1	U+005e U+00e2
-pöya (M)	<???>	pöya (M)	nicobaricnancawri	1	U+0070 U+00f6 U+0079 U+0061 U+0020 U+0028 U+004d U+0029
-ʔók[-ʔãh-a]	<???>	ʔók[-ʔãh-a]	nicobaricnancawri	1	U+0294 U+00f3 U+006b U+005b U+002d U+0294 U+00e3 U+0068 U+002d U+0061 U+005d
-ɟ	ɟ	ŋɛn ɟap	bahnaricjru	1	U+025f
-h$	<?>	ph	vieticarem	1	U+f131 U+0068 U+0024
-dd	dd	dib-m'ad-da	mundasora	1	U+0064 U+0064
-ɨɨ	ɨɨ	kɨɨʔ	katuictri	1	U+0268 U+0268
-*	<?>	macɔ̃t < *macɔn	asliansemai	1	U+002a
-^á	á	ánritid	mundasora	1	U+005e U+00e1
-^ʔh	ʔh	ʔhnuai.L	bahnaricjeh	1	U+005e U+0294 U+0068
-^ɲʒ	ɲʒ	ɲʒuj	bahnaricarak	1	U+005e U+0272 U+0292
-^ps	ps	psɛɲ	khmericksurin	1	U+005e U+0070 U+0073
-batâw [ʔɛ̂]	<???>	batâw [ʔɛ̂]	khmuiciduh	1	U+0062 U+0061 U+0074 U+00e2 U+0077 U+0020 U+005b U+0294 U+025b U+0302 U+005d
-tə(ʔ)jəŋ.A	<???>	tə(ʔ)jəŋ.A	katuictaoi	1	U+0074 U+0259 U+0028 U+0294 U+0029 U+006a U+0259 U+014b U+002e U+0041
-^ʒw	ʒw	ʒwɔŋ	aslianjahhut	1	U+005e U+0292 U+0077
-^ʒ̣	ʒ̣	ʒ̣rik.33	palaungwashuangdiang	1	U+005e U+0292 U+0323
-teŋgo(n)	<???>	teŋgo(n)	mundasantali	1	U+0074 U+0065 U+014b U+0067 U+006f U+0028 U+006e U+0029
-teŋgin(e)	<???>	teŋgin(e)	mundakorku	1	U+0074 U+0065 U+014b U+0067 U+0069 U+006e U+0028 U+0065 U+0029
-ok-shiak (M)	<???>	ok-shiak (M)	nicobaricnancawri	1	U+006f U+006b U+002d U+0073 U+0068 U+0069 U+0061 U+006b U+0020 U+0028 U+004d U+0029
-tt	tt	pattur	katuictaoih	1	U+0074 U+0074
-ē	ē	shòk-malēcha	nicobaricnancawri	1	U+0113
-(kə)mɔʔ.A	<???>	(kə)mɔʔ.A	pearicchongh	1	U+0028 U+006b U+0259 U+0029 U+006d U+0254 U+0294 U+002e U+0041
-maŋ-ŋe (M)	<???>	maŋ-ŋe (M)	nicobaricnancawri	1	U+006d U+0061 U+014b U+002d U+014b U+0065 U+0020 U+0028 U+004d U+0029
-ŋaj.33 [ven.3	<???>	ŋaj.33 [ven.3	khmuickhang	1	U+014b U+0061 U+006a U+002e U+0033 U+0033 U+0020 U+005b U+0076 U+0065 U+006e U+002e U+0033
-$	<?>	ćiŋ ŋ	khmuicbit	1	U+f1e4 U+0024
-ɛ́	ɛ́	hɛ́ŋ	nicobaricnancawri	1	U+025b U+0301
-š$	š	mat iš	asliantemiar	1	U+0161 U+0024
-kle.L (tea.L)	<???>	kle.L (tea.L)	bahnaricsedang	1	U+006b U+006c U+0065 U+002e U+004c U+0020 U+0028 U+0074 U+0065 U+0061 U+002e U+004c U+0029
-545$	<?>	ŋuəc.545	vieticmalieng	1	U+0035 U+0034 U+0035 U+0024
-ʔadoj.2,	<???>	ʔadoj.2,	vieticthavungso	1	U+0294 U+0061 U+0064 U+006f U+006a U+002e U+0032 U+002c
-412	<?>	mân.412 ɛm.51	palaungwarumai	1	U+0034 U+0031 U+0032
-õõ	õõ	põõre-	mundajuang	1	U+00f5 U+00f5
-^é	é	éŋ-da	mundasora	1	U+005e U+00e9
-ee	ee	veer	mundakorku	1	U+0065 U+0065
-âs$	âs	pâs	asliansemelai	1	U+00e2 U+0073 U+0024
-^kk	kk	kke	asliansemelai	1	U+005e U+006b U+006b
-(ta.33) na.33ʔ	<???>	(ta.33) na.33ʔ	vietickhaphong	1	U+0028 U+0074 U+0061 U+002e U+0033 U+0033 U+0029 U+0020 U+006e U+0061 U+002e U+0033 U+0033 U+0294
-ʔan [nan	<???>	ʔan [nan	khmuicpray	1	U+0294 U+0061 U+006e U+0020 U+005b U+006e U+0061 U+006e
-ee$	ee	dee	mundakorku	1	U+0065 U+0065 U+0024
-ane (M)	<???>	ane (M)	nicobaricnancawri	1	U+0061 U+006e U+0065 U+0020 U+0028 U+004d U+0029
-^a$	a	a	bahnarictempuan	1	U+005e U+0061 U+0024
-^ṇ	ṇ	ṇaʔ	monicmon	1	U+005e U+1e47
-~h$	<?>	t=ə~h	aslianjahai	1	U+007e U+0068 U+0024
-(ta.33) ni.22	<???>	(ta.33) ni.22	vietickhaphong	1	U+0028 U+0074 U+0061 U+002e U+0033 U+0033 U+0029 U+0020 U+006e U+0069 U+002e U+0032 U+0032
-^$	<?>	me^	bahnaricsre	1	U+005e U+0024
-'~	<?>	lu'o'~i	vieticvietnamese	1	U+0027 U+007e
-rh$	rh	ləarh	vieticthavungso	1	U+0072 U+0068 U+0024
-^ll	ll	llɔŋ	katuictaoih	1	U+005e U+006c U+006c
-h	<?>	ʔuɲiha	nicobaricnancawri	1	U+f301 U+0068
-4524$	<?>	hal.4524	vietictuum	1	U+0034 U+0035 U+0032 U+0034 U+0024
-bi(ɔ).31	<???>	bi(ɔ).31	mangicbugan	1	U+0062 U+0069 U+0028 U+0254 U+0029 U+002e U+0033 U+0031
-(ta.31) ʔa.51	<???>	(ta.31) ʔa.51	palaungwashuangdiang	1	U+0028 U+0074 U+0061 U+002e U+0033 U+0031 U+0029 U+0020 U+0294 U+0061 U+002e U+0035 U+0031
-ã$	ã	ʔã	nicobaricnancawri	1	U+00e3 U+0024
-^ấ	<?>	ấm	vieticvietnamese	1	U+005e U+1ea5
-'ó	'ó	nu'ó'c	vieticvietnamese	1	U+0027 U+00f3
-'c$	'c	nu'ó'c	vieticvietnamese	1	U+0027 U+0063 U+0024
-^ɨ	ɨ	ɨi.51	palaungwamangan	1	U+005e U+0268
-hē (M)	<???>	hē (M)	nicobaricnancawri	1	U+0068 U+0113 U+0020 U+0028 U+004d U+0029
-(new.33) ti.33	<???>	(new.33) ti.33	vietickhaphong	1	U+0028 U+006e U+0065 U+0077 U+002e U+0033 U+0033 U+0029 U+0020 U+0074 U+0069 U+002e U+0033 U+0033
-ʔh	ʔh	haʔhəʔ.B	vieticthavung	1	U+0294 U+0068
-chan (M)	<???>	chan (M)	nicobaricnancawri	1	U+0063 U+0068 U+0061 U+006e U+0020 U+0028 U+004d U+0029
-ch (M)	<???>	ch (M)	nicobaricnancawri	1	U+0063 U+0068 U+f267 U+0020 U+0028 U+004d U+0029
-à$	à	đàn bà	vieticvietnamese	1	U+00e0 U+0024
-(kAn) keʔ	<???>	(kAn) keʔ	vieticarem	1	U+0028 U+006b U+0041 U+006e U+0029 U+0020 U+006b U+0065 U+0294
-'o$	'o	ənsəl'o	mundasora	1	U+0027 U+006f U+0024
-en-kâna (M)	<???>	en-kâna (M)	nicobaricnancawri	1	U+0065 U+006e U+002d U+006b U+00e2 U+006e U+0061 U+0020 U+0028 U+004d U+0029
-а	а	ɲаɨ.31	mangicmang	1	U+0430
-aa	aa	mbjaaŋ.53	mangicpaliu	1	U+0061 U+0061
+Grapheme	IPA	SCA	FREQUENCY	EXAMPLES
+^	NULL		9714	"lɛʔ;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc;dɨŋ ndə"
+$	NULL		8470	"lɛʔ;lɛʔ lawʌn;lɛ mət;dɨŋ ndə;thuj"
+^$	NULL		1	me^
+'	NULL		54	"'usa;por'iʔn;m'ham;m'iɲam;sh'ieŋ"
+~	NULL		5	"sədə~c;ʔɨ~ɲ;ta-mɨ~-jə;t=ə~h;lu'o'~i"
+'$	NULL		2	"pəntaw';luŋ tabu'"
+-$	NULL		15	"ʔyk-;gei-;ga-;kek-;oŋ-"
+.$	NULL		5	"par.N.;kon.343ʔ laj.;kuluok.4 təkol.;khuan.55 khuit.;tɔj.243ʔ tɔj."
+^-	NULL		3	"-ju.B.1;-khxoŋ.31;-sai.N"
+~$	NULL		4	"tawr~;mo'~;re^~;gar~"
+E??$	NULL		1	geh E??
+^uó^ng$	uố/uo ŋ	Y N	1	uó^ng
+^ɲаɨ.31$	ɲ aɨ ³¹	N A 3	1	ɲаɨ.31
+^bu.ng$	b u̩/u ŋ	P Y N	1	bu.ng
+^co-n$	c o + n */ə	C U _ N E	1	co-n
+.11	¹¹	1	23	"qa.55 li.11;lat.11;lɔ.11 čjai.55;laʔ.53 sok.11;na.11"
+.22	²²	1	10	"tɛn.22;mat.22 atak.13;pəɨ.22;mɛŋ.22ʔ;mɨc.22"
+.A	A/³⁴	2	29	"ʔəjʔ.A sɔŋ.A;khɔm.A ʔuik.A;ʔic.A ek.B;ʔic.A ek.C;ʔic.A jur.B"
+.T	T/¹⁵	2	37	"diʔ.T daŋ.L;niʔ.T najh.T;khɔŋ.T.13;diʔ.T daŋ.L;se.T.31"
+.13	¹³	2	55	"khɔŋ.T.13;pak.13;thau.13;a çim.13;ʔa.31 sim.13"
+.14	¹⁴	2	11	"ʔo.14ʔ;teŋ.14;kicet.14;thot.14;kulok.14"
+.15	¹⁵	2	10	"zet.15;kadaŋ.15 ciŋ.3;lha.15;ʔu.31 khot.15;hɔt.15"
+.23	²³	2	4	"kasam.23;usok.23 ʔo.51ʔ;kadaŋ.23;ta.23ʔ"
+.24	²⁴	2	73	"buɲ.24;tapɛ.24 tɛn.44;cim.24;siaŋ.24;kum.24"
+.34	³⁴	2	47	"ka.34 het.34;ka.34 het.34;dul.34;ṭoŋ.34ʔ;baw.34ʔ"
+.35	³⁵	2	212	"plaŋ.51 plöʔ.35;ko.35;dɔ.31 hɔ.35;klak.35;mi.35"
+.45	⁴⁵	2	80	"vien.45;buɲ.45;bɔh.45;ʔe.45;dɔh.45"
+.T$	T/¹⁵	2	212	"tum.T;niʔ.T najh.T;blo.T;cɔi.T;hmok.T"
+.F	F/⁵¹	3	2	"huə.F cai.A;tuh.F caj.A"
+.21	²¹	3	51	"ka.44 het.21;kluŋ.21;kloŋ.21;ne.21;ni.21"
+.31	³¹	3	433	"mɔj.31;tɨŋ.31 pɨt.33;c̣am.33 kauk.31;ho.31 lɛn.51;taŋ.31 ʔəik.51"
+.32	³²	3	17	"ʔan.32;laŋ.32;tak.32 ʔɨŋ.45;muəŋ.32 suəŋ.45;kɔ.32 pɔl.32"
+.41	⁴¹	3	10	"gâk.55 hâi.41;mən.41;djaŋ.41ʔ;la.41;sot.41"
+.43	⁴³	3	78	"bɔn.43 bɔn.33;pɔoŋ.43;ta.43;cim.43;kat.43"
+.51	⁵¹	3	362	"plaŋ.51 plöʔ.35;ho.31 lɛn.51;taŋ.31 ʔəik.51;taŋ.31 ʔəik.51;gu.51 si.31"
+.53	⁵³	3	86	"ŋɛʔ.53;ŋiʔ.53;puŋ.31 jhi.53;san.53;kak.53"
+.F$	F/⁵¹	3	5	"lajʔ.F;ciŋ.F;nam loɔŋ.F;taʔma.F;tiɲ.F"
+.42$	⁴²	3	21	"mɛl.42;laj.42;ʔot.42;kuc.42;mɛŋ.42"
+.51ʔ	⁵¹ˀ/⁵¹	3	11	"ki.51ʔ;asam.51ʔ;pənu.51ʔ;mə.51ʔ;usok.23 ʔo.51ʔ"
+.52$	⁵³	3	1	hat.52
+.54$	⁵⁴	3	1	ʔuk.54
+.52ʔ$	⁵²ˀ/⁵²	3	1	kəi.52ʔ
+.33	³³	4	624	"bal.33 haj.33;bal.33 haj.33;suon.33;tu.33;tɨŋ.31 pɨt.33"
+.33ʔ	³³ˀ/³³	4	20	"ʔo.33ʔ;nsam.33ʔ;panu.33ʔ;teŋ.33ʔ;cɔ.33ʔ"
+.L	L/⁵⁵	5	14	"diʔ.L dɔŋ;diʔ.L dəgŋ.L;diʔ.L dɔŋ;diʔ.L dəgŋ.L;sak.L cim.L"
+.44	⁴⁴	5	51	"ka.44 het.21;tapɛ.24 tɛn.44;pɔŋ.44;kliaŋ.44;sam.44"
+.55	⁵⁵	5	372	"pa.55 pɛ.55 mɛh;pa.55 pɛ.55 mɛh;mbei.55;ɲi.55;a.33 niʔ.55"
+.L$	L/⁵⁵	5	241	"diʔ.T daŋ.L;diʔ.L dəgŋ.L;diʔ.T daŋ.L;diʔ.L dəgŋ.L;blɔ tanuh.L"
+.0	⁰	6	7	"ka.0 aŋ.33;haɨk.0 sim.A;a.0 plau.55;kul.0 kul.44;kəl.0 khlaŋ.33"
+.1	¹	6	4	"n.1 dau.53;al.1 ŋoŋ.1;tuh.1-trus.1;ʔasu.1 mus.1"
+.2	²	6	7	"taʔ.2 ɔm.1;si.2 kiat.2;oŋ.2 dɨə.3;al.2 miʔ.2;kel.2 kel.2"
+.3	³	6	3	"ko.3 laj.5;aŋ.3 kha.3;mɔŋ.3 khɔj.3"
+.4	⁴	6	5	"kuj.4 cal.3;kuluok.4 təkol.;lul.4 liel.1;məʌt.4 pləi.2;məʌt.4 pləi.2"
+.5	⁵	6	4	"mat.5 tlaŋ.2;mat.5 tləj.1;mat.5 tləj.1;mu.5 za.5"
+.B	B/²	6	26	"taŋ.B at.A;-ju.B.1;hluʔ.B.2;tût.B kuih.B;pai.B ʔɔm"
+.C	C/³	6	9	"thaŋ.C at.A;thaŋ.C at.A;krɨŋ.C lɛŋ.C;kon.C.1;phic.C lak.C"
+.E	E/⁵	6	1	thaŋ.E ot.C
+.N	N/⁵	6	4	"par.N.;kəal.N pahəm.N;kuj.N thol.B;kuj.N kəpaj.N"
+.1$	¹	6	201	"hɨt.1;uik.1;əik.1;pətiɲ.1;-ju.B.1"
+.2$	²	6	143	"thaŋ.2;katun bun.2;ɲɔʔ.2;da.2;hluʔ.B.2"
+.3$	³	6	86	"hit.3;kaɲ.3;maw.3;mem.3;tuc.3"
+.4$	⁴	6	18	"ka.4;kəʔtəl.4;kəʌm.4;nɔj.4;jəm.4"
+.5$	⁵	6	18	"tloŋ.5;leɲ.5;mat.5;mah.5;ʔɲeit.31 ćo.5"
+.A$	A/¹	6	284	"ʔəjʔ.A sɔŋ.A;taŋ.B at.A;thaŋ.C at.A;thaŋ.C at.A;khɔm.A ʔuik.A"
+.B$	B/²	6	255	"chim.B;bɔh.B;pɔh.B;bun.B;mpuaʔ.B"
+.C$	C/³	6	143	"thaŋ.E ot.C;bɔ.C;phoh.C;buɲ.C;phuŋ.C"
+.D$	D/⁴	6	14	"mew.D;me.D;toh.A maku.D;koŋ.D;moj.D"
+.E$	E/⁵	6	3	"kha.E;pɔm.B sat.E;klaw.E"
+.N$	N/⁵	6	137	"phâʔ.N;bâh.N;cɛm.N;cɛm.N;kap.N"
+.212	²¹²	6	33	"ka.212 het.212;ka.212 het.212;kat.212;sam.212;nəw.212"
+.343	³⁴³	6	2	"kaŋ.343;maŋ.43 thəi.343"
+.412	⁴¹²	6	34	"kə.55 faŋ.412;diaŋ.412;sim.412;nham.412;kə.55 aŋ.412"
+.424	⁴²⁴	6	5	"pa.424 cet.24;kɔo.424;cəw.424;khʌj.424;ta.424"
+.434	⁴³⁴	6	36	"zəm.434;cʌŋ.434;to.434;nou.434;mə.434"
+.213$	²¹³	6	1	mət.213
+.224$	²²⁴	6	1	bən.224
+.243ʔ	²⁴³ˀ/²⁴³	6	7	"nam.243ʔ cɔŋ.3;kɔ.243ʔ;taŋ.243ʔ;ŋoj.243ʔ;tɔj.243ʔ tɔj."
+.324$	³²⁴	6	12	"la.324;tol.324;ʔal.33 ɲɨ.324;tiək.35 loŋ.324;po.324"
+.343ʔ	³⁴³ˀ/³⁴³	6	29	"mɔj.343ʔ;pä.343ʔ;kan.343ʔ;zəm.343ʔ;maw.343ʔ"
+.545$	⁵⁴⁵	6	1	ŋuəc.545
+.553$	⁵⁵³	6	1	bə.31 jɨa.553
+.4524$	⁴⁵²⁴/⁴²⁴	6	1	hal.4524
+A	a	A	4	"trAi tim;kAn cmrawʔ;ahAjʔ kùh;tlAk"
+a	a	A	3889	"lɛʔ lawʌn;ʒəh ʔalaʔ;ʒəh ʔalaʔ;kaluh;diʔ.T daŋ.L"
+à	à/a	A	7	"dài;đàn ông;bràs;này;mày"
+á	á/a	A	46	"jága;máu;wá;əʒáŋ;tuáh"
+â	â/a	A	137	"tâŋ ʔâh;tâŋ ʔâh;phâʔ.N;phâʔ;bâh.N"
+ã	ã	A	10	"sʌdn mwãʔ;jã.T.13;ʔãm;ʔihãʔ;hãɲ"
+ä	ä/e	A	9	"plä.33;pä.343ʔ;kän;ʔidäŋ;khläʔŋ.A"
+ā	aː	A	2	"dāk-ta;hoā"
+ă	ă	A	7	"jăm;ăn;kloŋ.43 măt.31;năp;m blăm"
+ạ	a	A	1	hạt
+ấ	ấ/a	A	3	"đất;chấy;thấy"
+ầ	ầ/a	A	10	"mầt;đầy;pầɲ;đầu;ajầmʔ"
+ắ	ắ/ă	A	3	"cắn;mắt;trắng"
+ằ	ằ/ă	A	1	nằm
+ặ	ă	A	2	"mặt trò'i;mặt trò'i"
+^â	â/a	A	2	"âk;âk.55"
+^ấ	ấ/a	A	1	ấm
+aa	aː	A	1	mbjaaŋ.53
+ae	ae	A	5	"aeḷa;khae;bia.21 taem.45;ʒuaŋ=ḍae;maeʒiu"
+ai	ai	A	144	"pai tǔr;waic;nai.31 khlap.55;vaik;dait"
+ao	ao	A	27	"paoŋ.33;baoh;dhaom;lamcaok;ṭaoh"
+au	au	A	76	"c̣am.33 kauk.31;ɲauʔ;thau.13;sau.33;mau.34"
+aə	aə	A	17	"khaj.45 maə.21;bhlaəŋ;haər;ʒaəŋ;caə.33"
+aɛ	aɛ	A	1	ʔaɛ.33
+âi	âi/ai	A	3	"gâk.55 hâi.41;ʔâit;taŋ.55 hâi.412"
+awh$	h/au	A	3	"tawh;gawh;mawh"
+f	f	B	16	"kəfaŋ;kə.55 faŋ.412;fəŋ;fa.13;fa.13"
+v	v	B	49	"vien.45;voʔ;vaik;vɛʔ;vɔ.55"
+ɸ	ɸ	B	1	mɸt
+ʙ	ʙ	B	1	orī ŋa fʙh
+β	β	B	2	"βaŋ.3;βəw.33ʔ"
+^V	v	B	1	Vehl
+ɸ́	ɸ́/ɸ	B	3	"dɸ́t;tɸ́t;ɗâu ɡɸ́i"
+c	c	C	258	"toc ʔŋiaʔ;rɔc.33;ɣuəc.33;krɨjc.A;ʔacim"
+ç	ç	C	23	"çɛ.33;a.33 çim.55;a çim.13;çip.55;açam.1"
+ć	tɕ	C	40	"ćem;ćiaʔ;ćiŋʔal;ćeŋ.33;ćeŋ.31"
+ɟ	ɟ	C	7	"ɟɨŋ;ɟuk.55;ŋɛn ɟap;ɟʌŋ;ɟuh"
+^c	c	C	459	"cuŋ;caʔ;cɔi.T;ckɔp;crəih"
+c$	c	C	119	"lɛʔ rŋoc;hoc;toc;toc;gəluc"
+ch	cʰ	C	20	"choŋ.B cha;cɛn.B cha.A;ɲchɛŋ.C;nchɛɲ.N;nchiŋ"
+cɦ	cʰ	C	0	
+c̣	ʈʂ	C	1	ʒ́iak.31 c̣am.3
+ćh	tɕʰ	C	15	"ćhaŋ.33 kɔk.33;ćhim.31;a.33 ćhim.33;ćhɔ.31;ćhɔʔ.55"
+ʒh	dzʰ	C	14	"ʒham;ʒhu;ʒhola;ʒhip.55;ʒhelob"
+ʒ̣	ʒ̣/ɖʐ	C	1	ʒ̣rik.33
+^ch	cʰ	C	81	"chim.B;choə̌m;chiʔm.A;chim.C;chim.B"
+^c̣	ʈʂ	C	2	"c̣am.33 kauk.31;c̣am.33 kauk.31"
+c̣h	ʈʂʰ	C	2	"khik.33 c̣hak.3;khik.33 c̣hak.3"
+^c̣h	ʈʂʰ	C	1	c̣hraŋ.51
+E	e	E	1	gəʒEŋ
+e	e	E	879	"sweh;ʔape;həre luk;kemböh;ka.44 het.21"
+æ	æ	E	12	"athæmʔ;akæʔ;ulæʔ;ʔænʔ;kæŋʔ"
+è	è/e	E	2	"mèh;ɲcèh"
+é	é/e	E	12	"memé;kajéd;jéh;déreŋ;ʒalé"
+ē	ē/eː	E	3	"hēh-haŋa;shòk-malēcha;hē"
+ĕ	ĕ/e	E	1	tĕɲ.22
+ə	ə	E	1750	"lɛ mət;dɨŋ ndə;ʒəh;ʒəh ʔalaʔ;diʔ.L dəgŋ.L"
+ɛ	ɛ	E	628	"lɛʔ;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc;ɛtɲɛʔ"
+ɜ	ɜ	E	1	lhɛʔɜǒʔ
+ʌ	ʌ	E	96	"lɛʔ lawʌn;sʌdn mwãʔ;bɔʌh;cʔʌŋ;cʌŋ.434"
+ẹ	e	E	1	miẹng
+ẽ	ẽ	E	2	"cẽre;pẽc"
+ế	ə̯	E	1	chết
+ề	ề/e	E	1	nhiều
+ớ	ə́/ə	E	2	"lớn;mới"
+ea	ea	E	11	"klea.T;məheam.T;ceaŋ.L;saŋeak;akea"
+ee	eː	E	2	"veer;dee"
+ei	ei	E	26	"mbei.55;dypei;kən-hjeih;krimei;gei-"
+əa	əa	E	14	"məam.2;təak;məat;məat;kəal.N pahəm.N"
+əi	əi	E	27	"ʔəiʔ;taŋ.31 ʔəik.51;əik.1;taŋ.31 ʔəik.51;crəih"
+əʌ	əʌ	E	7	"kəʌm.4;məʌt.4;səʌk;ɲəʌp.4;məʌt.4 pləi.2"
+ə́	ə́/ə	E	39	"ʔup=kə́p;tə́jʔ;paɲə́p;hə́c;hijə́h"
+ə̂	ə̂/ə	E	7	"phlə̂ŋ;cə̂ŋ;kharjə̂k;jə̂ŋ;phoŋ jə̂ŋ"
+ə̌	ə̌/ə	E	1	choə̌m
+ə̩	ə̩/ə	E	1	pə̩wat.31
+ɛi	ɛi	E	8	"ntɛiŋ;tɛih;pɛiɲ;mɛiɲ;krɛi.55"
+ɛə	ɛə	E	4	"srɛəŋ.B;ntrɛəl;kanɛəŋ.B;ʔɛəŋ.B"
+ɛɛ	ɛː	E	0	
+ɛ́	ɛ́/ɛ	E	3	"kahɛ́;ŋɛ́;hɛ́ŋ"
+ɛ̂	ɛ̂/ɛ	E	10	"hampɛ̂r;ŋɛ̂ŋ;ʔɛ̂j;ʔɛ̂;naʔɛ̂ŋ"
+ɛ̃	ɛ̃	E	9	"bəltɛ̃k;ʔɛ̃m;kɛ̃ʔ;hɛ̃ɲ;kɛ̃t"
+ɛ̌	ɛ̌/ɛ	E	1	dɛ̌h
+æ̃́	æ̃́/æ	E	1	ʔæ̃́h-a
+əʌ̆	əʌ	E	1	ɲəʌ̆p.4
+ə́$	ə́/ə	E	2	"kə́;ŋə́"
+x	x	G	10	"xu'o'ng;xo.33;xanh;xɔ.31;xəŋ.35"
+ɣ	ɣ	G	22	"ɣuəc.33;hɣɔk.53;gɣua.35;ɣaʔ.55 ɣak.35;ɣaʔ.55 ɣak.35"
+h	h	H	1418	"sweh;ʒəh;ʒəh ʔalaʔ;kaluh;kaloh"
+ɦ	ɦ	H	16	"cɦwɔk;cɦɨŋ;kɦɨ;pəlaj cəŋɦɨm;cərɦwoŋ"
+ʔ	ʔ	H	2162	"lɛʔ;lɛʔ lawʌn;lɛʔ rŋoc;ʒəh ʔalaʔ;ʒəh ʔalaʔ"
+ʔh	ʔʰ	H	3	"mit ʔhəj;ʔhnuai.L;haʔhəʔ.B"
+i	i	I	1436	"diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L;sit;niʔ.T najh.T"
+ì	ì/i	I	10	"sìiəŋ;cìɲ;calìŋ;thìt;ukìn"
+í	í/i	I	6	"wíaŋ;mumíc;ʔamíh;kají;píat"
+î	î/i	I	19	"cîəm;sînɔm;mîm;ŋîər;pîɲ"
+ĩ	ĩ/i	I	9	"gəcĩh;məhĩm;kəlwĩl;nĩ;tuĩ.T.55"
+ī	ī/iː	I	2	"orī ŋa fʙh;chī"
+ǐ	ǐ/i	I	1	kacǐt.1
+ɨ	ɨ	I	393	"dɨŋ ndə;hɨt.1;mot pɨŋ;tɨŋ.31 pɨt.33;tɨŋ.31 pɨt.33"
+ɪ	ɪ	I	7	"icɪm;cɪt;thɪ;kacɪt;hɪ"
+ᵻ	ɨ	I	2	"ǯᵻʔ;lᵻ̯aᵻ.51ʔ"
+ứ	ɨ	I	2	"trứng;đứng"
+ia	ia	I	162	"toc ʔŋiaʔ;mak.31 kian.51;diaŋ.412;kiat;kiat.33"
+ie	ie	I	70	"vien.45;kəsieŋ.B;khieŋ;sh'ieŋ;kənieh"
+iu	iu	I	11	"həŋiu.T;chiu.55;khiu;khiu.33;shɲiuh"
+iə	iə	I	116	"ɲciəm.1;kiət;kiəʔ;phliət.2;hiəŋ"
+iɛ	iɛ	I	15	"kutiɛk.T;ɲiɛ.51;liɛm;si.33 ŋiɛn.33;ʔiɛt taŋ"
+i̩	i̩/i	I	1	thi̩t
+iế	ie	I	2	"ɡiết;biết"
+ɨa	ɨa	I	27	"bə.31 jɨa.553;trɨac;təŋɨam;kədɨaŋ;tɨak.T"
+ɨə	ɨə	I	57	"pɨət;pɨəŋ ham;grɨəŋ;kətɨəŋ;sɨəŋ.33"
+ɨɨ	ɨː	I	1	kɨɨʔ
+ɨ̂	ɨ̂/ɨ	I	2	"nɨ̂h;cɨ̂ŋ"
+ᵻ̀	ɨ̀/ɨ	I	5	"jᵻ̀l;kᵻ̀ʔ;lᵻ̀mʔ;mᵻ̀j;amᵻ̀h"
+ᵻ́	ᵻ́/ɨ	I	2	"hitᵻ́j;ʔᵻ́l"
+ᵻ̆	ɨ̆	I	1	rᵻ̆ŋ
+ᵻ̯	ᵻ̯/ɨ	I	2	"tᵻ̯aŋ.33 ʔəc;lᵻ̯aᵻ.51ʔ"
+^ii	iː	I	1	iil
+ᵻ́a	ᵻ́a/ɨa	I	1	ʔin-jᵻ́an
+u'o'	ɨə̯	I	2	"xu'o'ng;lu'o'~i"
+u’ò’	ɨə̯	I	1	ɗu’ò’nɡ ɗi
+j	j	J	1061	"thuj;bal.33 haj.33;paŋ ʔəjʔ;ʔəjʔ.A sɔŋ.A;səmwɛj"
+g	g	K	360	"diʔ.L dəgŋ.L;gəluc;gulay;diʔ.L dəgŋ.L;gŋhəl"
+k	k	K	2556	"kaluh;kaloh;həre luk;kemböh;ka.44 het.21"
+q	q	K	9	"qa.55 li.11;ai.T.33 qou.55;qɔ.53;se.T.55 qou.33;ce.31 pau.31 qu"
+ɡ	g	K	5	"ɡiết;ɗâu ɡɸ́i;ɗu’ò’nɡ ɗi;ɡəndäŋ;ɡì"
+^ḳ	ḳ/k	K	1	ḳəsaw
+gh	gʰ	K	15	"mogher;ghɨt.55 pu.51;nghe;ghiliŋ;khun.51 ghut.33"
+kh	kʰ	K	333	"khu;khɔŋ.T.13;khɔm.A ʔuik.A;kharom;nkhɔp"
+ks	ks	K	12	"kseŋ.L;ksew;ksɔʔ;tiksuŋ;ksaiʔ"
+kw	kʷ	K	10	"mphun kwah;kwaŋ;daʔtu=kwi;kwaj.43;kwo"
+^kk	k	K	1	kke
+^qh	qʰ	K	1	qhɔŋ.13
+^khw	kʷʰ	K	1	khwaŋ.33
+L	l	L	1	beLo
+l	l	L	1650	"lɛʔ;lɛʔ lawʌn;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc"
+ľ	ɭ	L	1	ľɛt ʒet beh
+ḷ	ɭ	L	4	"kaḷia;ḷɨ;aeḷa;kuaḷesoŋ"
+^ɫ	lˠ	L	7	"ɫɨt.53;ɫai.53 mat.31;ɫɨt.11;ɫu.34;ɫɨəc.31"
+lh	lʰ	L	41	"bəlhet;lhɔŋ.31;təlh.1;kərialh;lhɛʔɜǒʔ"
+ll	ɭ	L	11	"pəlluŋ;palluŋ;pylleŋ;balla;kalləŋ.L"
+lw	lʷ	L	5	"blwa;plwa;kəlwĩl;lwaŋ;lwak"
+m	m	M	2138	"lɛ mət;tum.T;lam;chim.B;thəŋsim"
+^M	m̥	M	3	"Mon;Mon;Mak"
+mh	mʰ	M	3	"kəmho;təmhmɔŋ;ghɔk.33 mhu.31"
+m̌	m	M	1	ʔgar m̌ɛh
+^mh	mʰ	M	31	"mhəw;mhok;mham;mham;mham"
+^mm	m	M	2	"mmih;mma"
+N	ŋ	N	3	"ceNe;caNḍuʔ;ʔəNtat"
+n	n	N	1444	"lɛʔ lawʌn;niʔ.T najh.T;niʔ.T najh.T;nahroh;sʌdn mwãʔ"
+ŋ	ŋ	N	2051	"lɛʔ rŋoc;dɨŋ ndə;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L"
+ɲ	ɲ	N	404	"ɛtɲɛʔ;ɲiʔ;ɲɛʔ;sə=ʔoɲ;pətiɲ.1"
+ṇ	ɳ	N	9	"saṇem;ʒuṇṭa;aṇṭu;caṇḍbol;ṇaʔ"
+nh	nh	N	8	"kanhah;lanh;daʔ nha chi;xanh;kənhaj"
+ŋh	ŋʰ	N	20	"gŋhəl;ŋhi.33;ŋham.N;ʔəŋhaŋ;ŋhaŋ"
+ŋw	ŋʷ	N	3	"ŋwaiʔ;ŋwaj;təŋwil"
+ŋŋ	ŋ	N	1	pəŋŋai
+ɲh	ɲʰ	N	4	"təlir ɲhək;ɲhuk;ɲhuʔ;ɲhuʔ"
+^nh	nʰ	N	26	"nham.51;nham.51;nham.51;nham;nham.1"
+^nn	ŋ	N	5	"nnih;nniah;nnujh;nnəh.L;nnəʔ.L"
+^ns	ns	N	13	"nsam.33ʔ;nsɔr;nsieŋ;nsɛŋ;nsiaŋ.T"
+b	b	P	682	"bal.33 haj.33;pəbət;səbəroh;kemböh;bən.224"
+p	p	P	997	"dap;ʔape;ʔap;paŋ ʔəjʔ;pəbət"
+bh	bʰ	P	3	"kəbhɔk;ba bha;khun.51 bhət.33"
+ph	pʰ	P	121	"phâʔ.N;phâʔ;phəh;phɛh;phoh.C"
+^bh	bʰ	P	8	"bhipm;bhənɛk;bhlaəŋ;bhore;bhɔm.1"
+^pp	p	P	1	ppûəʔ
+^ps	ps	P	1	psɛɲ
+^pw	pʷ	P	4	"pwac;pwak;pwak;pwak"
+^pɦ	pʰ	P	10	"pɦu;pɦɨəh;pɦiŋ;pɦic;pɦic ŋaɲ"
+R	r̥	R	15	"ki-Rəŋ;haRge;rohoR;roRo;aRɔŋ"
+r	r	R	653	"lɛʔ rŋoc;həre luk;səbəroh;nahroh;baroh"
+ṛ	ɻ	R	13	"miṛeʔ;ʒi kuṛam;ko=pṛug;koṛa;kaṛ"
+^r	r	R	239	"roc;rɔc.33;ram;ru;ram"
+r$	r	R	269	"pai tǔr;par;kəpur;ʔəŋkar;ŋkar"
+rh	rʰ	R	7	"tulurh.3;parh.1;pərhem;murh.2;pərhe"
+rr	r	R	3	"kúrraŋ;kərriajh.T;karrias.T"
+^rh	rʰ	R	11	"rhim;rhɨp;rhǒp;rhɔm;rhuʔ.55"
+^rw	rʷ	R	3	"rwɨl;rwaŋ;rwal"
+s	s	S	1098	"sit;ʔəjʔ.A sɔŋ.A;səbəroh;sʌdn mwãʔ;səmwɛj"
+z	z	S	36	"zəm.343ʔ;zəm.1;zəm.434;zaʔn;zeŋ"
+š	ʂ	S	10	"šip.31 thi.51;tšòh;šo.55;šok.51;šok.55"
+ʒ	dʒ	S	212	"ʒəh;ʒəh ʔalaʔ;ʒoto;ʔeʒ;ʔeʒ"
+ʝ	ʝ	S	1	taʔkəʝʔ
+^S	ʃ	S	3	"So;So;So"
+^ṣ	ʂ	S	3	"ṣɔk.51;ṣu.31;ṣaŋ.51"
+sh	sʰ	S	2	"posh;ok-shiak"
+^sh	sʰ	S	9	"sh'ieŋ;shadem;shkor;shɲiuh;shaniah"
+T	t	T	1	muɲTo
+d	d	T	494	"dɨŋ ndə;diʔ.L dɔŋ;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.T daŋ.L"
+t	t	T	2207	"lɛ mət;tum.T;sit;tiʔ;toc"
+č	tʃ	T	17	"čip.55;čən.55;čaŋ.31;lɔ.11 čjai.55;čeŋ.51"
+ǯ	ǯ/dʒ	T	1	ǯᵻʔ
+ɗ	ɗ	T	3	"ɗâu ɡɸ́i;ɗu’ò’nɡ ɗi;ɗu’ò’nɡ ɗi"
+ḍ	ɖ	T	72	"kontheḍ;konteḍ;akeḍ;aḍo;ram'aḍ"
+ṭ	ʈ	T	39	"ṭoŋ.34ʔ;ṭaoh;ṭut;ṭoh;ṭaw"
+^đ	ɗ	T	13	"đen;đi;đất;đầy;đầu"
+d̤	dʱ	T	2	"ɔn=d̤ɔr;ɔn=d̤ɔr"
+jh	dʒʰ	T	73	"niʔ.T najh.T;puŋ.31 jhi.53;tɔjh;tajh;kərɔjh"
+nd	ⁿd	T	55	"dɨŋ ndə;dɨŋ ndə;ndo;ndrɔh;ndɔh"
+nʒ	ⁿdʒ	T	6	"nʒiŋ;kynʒat;nʒaj;nʒɛk;hənʒadn"
+th	tʰ	T	169	"thuj;thəŋsim;thaŋ.2;thaŋ.C at.A;thaŋ.E ot.C"
+t̀	t̀/t	T	2	"ʔat̀i;sajt̀"
+čh	tʃʰ	T	13	"čhim.51;čhɔʔ.55;čhak.35;čhiat.31;khik.55 čhak.55"
+^dh	dʰ	T	13	"dhaom;dhuʔ.53;dhap.33;dhap.55;dhaiŋ.31 pi.51"
+^dw	dʷ	T	2	"dwan;dwaj"
+^ʒ́	ʒ́/dʒ	T	3	"ʒ́ân.51;ʒ́iak.31 c̣am.3;ʒ́âŋ.51"
+^ʔʒ	ˀdʒ	T	4	"ʔʒiŋ;ʔʒə́ŋ;ʔʒuŋ;ʔʒəʔ"
+^ṭh	ʈʰ	T	1	ṭhehuna
+^ʒ́h	ʒ́ʰ/dʒʰ	T	3	"ʒ́hip.33;ʒ́hi.51;ʒ́haik.51"
+O	o	U	1	tanOʔ
+o	o	U	1197	"lɛʔ rŋoc;kaloh;hoc;toc;toc"
+ò	ò/o	U	8	"lòm;en-kòiɲa;ngu'ò'i;tròn;tlòn"
+ó	ó/o	U	14	"móng;kinsód;tóp;pujól;tóc"
+ô	ô/o	U	15	"sŋôt;ok-ŋôk;lông;tôi;đàn ông"
+õ	õ/o	U	1	mwõh
+ö	ö/o	U	10	"kemböh;plaŋ.51 plöʔ.35;döŋ.33;blaʔög;ma.31 dö.35"
+ō	ō/oː	U	1	hentōp
+ŏ	ŏ	U	2	"tŏk;kŏm"
+ǒ	ǒ/o	U	2	"rhǒp;lhɛʔɜǒʔ"
+ɔ	ɔ	U	1198	"diʔ.L dɔŋ;ʔəjʔ.A sɔŋ.A;mɔj.31;mɔj.343ʔ;khɔŋ.T.13"
+ồ	ồ/o	U	1	ngồi
+oa	oa	U	16	"kəmoa.L;doan;soat;kboaŋ;ʔoaʔ"
+oe	oe	U	2	"toroeʔ;goeʔ"
+oi	oi	U	24	"sabroi;ŋgoic;hoik;padoi=ʒiɲ;noih"
+ou	ou	U	24	"pouŋ.31;nou.434;ai.T.33 qou.55;lou.31;cou"
+oɔ	oɔ	U	5	"nam loɔŋ.F;loɔm.2;loɔm.C;haʔmoɔŋ.C;si.C loɔk"
+o̩	o̩/o	U	1	mo̩maŋ
+ó$	ó/o	U	2	"chó;ləbó"
+ô$	ô/o	U	2	"khô;si sô"
+õõ	õː/oː	U	1	põõre-
+ɔa	ɔa	U	7	"lɔaʔ;cɔa;ʔguŋ sɔaʔ;klɔak ndɛʔ;nɔa"
+ɔi	ɔi	U	24	"cɔi.T;sulɔi;haʔ cɔi;aʔ.33 ɔin.33;ŋɔi.31"
+ɔɛ	ɔɛ	U	2	"mɔɛʔ;mɔɛʔ tamuk"
+ɔ̂	ɔ̂/ɔ	U	11	"bɔ̂;bɔ̂ɛ;cɔ̂n;rɔ̂;hampɔ̂r"
+ɔ̃	ɔ̃/ɔ	U	9	"katɔ̃ŋ;hɔ̃j;sŋʔɔ̃j;təhɔ̃ɲ;macɔ̃t"
+ɔ̆	ɔ̆	U	4	"nɔ̆ k;pɔ̆ h ka.C;tɔ̆ ʔ;blɔ̆ ʔ"
+w	w	W	355	"lɛʔ lawʌn;sʌdn mwãʔ;səmwɛj;mhəw;mwak"
+ʔw	ˀw	W	3	"meʔw.B;ŋʔwaj;kaʔwej"
+^ʔw	ˀw	W	3	"ʔwɛh;ʔwej.T;ʔwaj"
+U	u	Y	8	"ʔaɲUmʔ;ulUlʔ;uthUk;ulUk;ŋkUɲʔ"
+u	u	Y	1351	"thuj;kaluh;khu;tum.T;gəluc"
+y	y	Y	44	"gulay;dypei;ʔyk-;tyrsim;mây"
+ù	ù/u	Y	14	"pùŋ;ɲùʔ;tlùŋ;kùh;sù'ng"
+ú	ú/u	Y	25	"ʔum-túm;kúmab;kúrraŋ;klúŋ;kəmpúŋ"
+û	û/u	Y	18	"pûm;tût.B kuih.B;ppûəʔ;mû;ɲûʔ.B"
+ü	y	Y	5	"chüa;ha.55 ɔn.31 tcü;ŋ.55 mü.51;lü.51;jü.31 ɲiɛ.51"
+ũ	ũ/u	Y	7	"mũi;mũ;mũ;sũ;ɲũs"
+ū	ū/uː	Y	1	hen-yūan
+ŭ	ŭ	Y	1	mŭh.24
+ǔ	ǔ/u	Y	2	"pai tǔr;ʔǔj"
+^ʯ	ʯ	Y	1	ʯɨp.33
+ua	ua	Y	108	"mpuaʔ.B;si.55 khruak.51;hua;kəjuaŋ;cuaŋ.51"
+ui	ui	Y	51	"paʔuit;khɔm.A ʔuik.A;uik.1;tût.B kuih.B;tuih"
+uo	uo	Y	32	"suon.33;luok;muok;luoɲ;kuon sao"
+uə	uə	Y	75	"ŋkuər;puəh;ɣuəc.33;kluəŋ.A;muəŋ.32 suəŋ.45"
+ʯ$	ʯ	Y	1	bɔʯ
+-	+	_	126	"ʔum-túm;ti-sum;ki-Rəŋ;sat-slap;cɛ-hɛ-con"
+=	+	_	65	"sə=ʔoɲ;ʔup=kə́p;siʔ=saŋ;daʔtu=kwi;tirib=ḍak"
+Ah$	a h	A H	1	adAh
+Ãs$	a s	A S	1	mÃs
+^cw	c w	C W	7	"cwa;cwəʔ;cwaŋ;cwaŋ;cwoh"
+^hw	h w	H W	1	hwaʔ.1
+^mhw	m hʷ	M H	1	mhwal
+ns	n s	N S	6	"kinsód;hansɛm.B;hɨnsaj.33;hɨnsaj.33;konsel=ḍug"
+^ɲs	ɲ s	N S	2	"ɲsok;ɲsok kɨʔ"
+rh$	r h	R H	1	ləarh
+rs	r s	R S	1	tyrsim
+rw	r w	R W	3	"crwes;kərwal;brwo"
+^sw	s w	S W	4	"sweh;swaʔ;swaʔ;swak"
+^ʒw	dʒ w	T W	1	ʒwɔŋ
+òh$	ò/o h	U H	2	"tšòh;laŋòh"
+ʔs	ʔ + s	H _ S	3	"kaʔsam;haʔsɔk;kaʔsaŋ"
+$iaid$	i ai d	I A T	0	
+kk	k + k	K _ K	1	takkuj
+mm	m + m	M _ M	9	"sammɔh;təmmɛ;təmmɛ;tammɛʔ;həmmeʔ"
+ms	m + s	M _ S	3	"tamsoŋ;tamsoŋ;timsoŋ"
+ŋs	ŋ + s	N _ S	4	"thəŋsim;b'aŋsa;pəŋsɛŋ;məŋsɛm.N"
+ɲʒ	ɲ + dʒ	N _ T	6	"aɲʒum;aɲʒum;koleɲʒa;ɲʒuj;həɲʒaɲ"
+sw	s + w	S _ W	1	kaswa
+tt	t + t	T _ T	2	"pattur;cuttha"
+ʒʒ	dʒ + dʒ	T _ T	1	iʒʒa

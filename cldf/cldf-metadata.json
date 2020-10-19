@@ -1,17 +1,24 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Peiros, I. I. (2004): Geneti\u010deskaja klassifikacija avstroaziatskix jazykov [Genetic classification of Austro-Asiatic languages]. Russian State University for the Humanities, Russian State University for the Humanities, Moscow.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Lexicostatistic classification of a larger range of Austro-Asiatic languages.",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Starostin-1991-110"
+    ],
+    "dc:identifier": "https://rusneb.ru/catalog/000199_000009_002728473/",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset derived from Peiros' \"Genetic classification of Austro-Asiatic languages\" from 2004",
     "dcat:accessURL": "https://github.com/lexibank/peirosaustroasiatic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/peirosaustroasiatic",
-            "dc:created": "7ba076f"
+            "dc:created": "8fd5a4f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -50,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 9769,
+            "dc:extent": 10706,
             "tableSchema": {
                 "columns": [
                     {
@@ -119,6 +126,10 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LoanSource"
                     }
                 ],
                 "foreignKeys": [
@@ -212,7 +223,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Doculect"
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [
@@ -223,7 +234,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 91,
+            "dc:extent": 100,
             "tableSchema": {
                 "columns": [
                     {
@@ -245,14 +256,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "note"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "similarity"
                     }
                 ],
                 "primaryKey": [
@@ -260,6 +263,80 @@
                 ]
             },
             "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 10706,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "name": "Form_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "name": "Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
+                        "name": "Cognateset_ID"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Doubt"
+                    },
+                    {
+                        "datatype": "string",
+                        "default": "expert",
+                        "name": "Cognate_Detection_Method"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
+                        "separator": " ",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment_Method"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment_Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "cognates.csv"
         }
     ]
 }

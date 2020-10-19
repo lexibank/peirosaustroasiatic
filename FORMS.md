@@ -9,9 +9,9 @@ The value-to-form processing is divided into two steps, implemented as methods:
 
 These methods use the attributes of a `FormSpec` instance to configure their behaviour.
 
-- `brackets`: `{'(': ')'}`
+- `brackets`: `{'[': ']', '(': ')', '<': '>'}`
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
-- `separators`: `(';', '/', ',')`
+- `separators`: `('/', ',')`
   Iterable of single character tokens that should be recognized as word separator
 - `missing_data`: `('?', '-')`
   Iterable of strings that are used to mark missing data
@@ -25,3 +25,8 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Flag signaling whether to normalize whitespace - stripping leading and trailing whitespace and collapsing multi-character whitespace to single spaces
 - `normalize_unicode`: `None`
   UNICODE normalization form to use for input of `split` (`None`, 'NFD' or 'NFC')
+
+### Replacement of invalid lexemes
+
+Source lexemes may be impossible to interpret correctly. 96 such lexemes are listed
+in [`etc/lexemes.csv`](etc/lexemes.csv) and replaced as specified in this file.
