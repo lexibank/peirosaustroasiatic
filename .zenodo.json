@@ -1,0 +1,30 @@
+{
+    "title": "CLDF dataset derived from Peiros' \"Genetic classification of Austro-Asiatic languages\" from 2004",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Ilia Peiros"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Mei-Shin Wu",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Peiros, I. I. (2004): Geneti\u010deskaja klassifikacija avstroaziatskix jazykov [Genetic classification of Austro-Asiatic languages]. Russian State University for the Humanities, Russian State University for the Humanities, Moscow.</p>\n</blockquote>"
+}

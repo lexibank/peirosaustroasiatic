@@ -29,15 +29,16 @@ Conceptlists in Concepticon:
 - **Cognacy:** 10,706 cognates in 1,936 cognate sets (808 singletons)
 - **Cognate Diversity:** 0.17
 - **Invalid lexemes:** 0
-- **Tokens:** 45,870
-- **Segments:** 265 (0 BIPA errors, 0 CTLS sound class errors, 265 CLTS modified)
-- **Inventory size (avg):** 41.07
+- **Tokens:** 45,871
+- **Segments:** 277 (0 BIPA errors, 0 CTLS sound class errors, 278 CLTS modified)
+- **Inventory size (avg):** 41.90
 
 # Contributors
 
 Name | GitHub user | Description | Role
  --- | --- | --- | --- 
-Johann-Mattis List | @LinguList | patron, code | Author
-Mei-Shin Wu | @MacyL | orthography profile | Author
+Johann-Mattis List | @LinguList | patron, code | Other 
+Mei-Shin Wu | @MacyL | orthography profile | Other
+Ilia Peiros | | original data compilation | Author
 
 

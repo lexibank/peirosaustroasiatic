@@ -13,7 +13,7 @@ E??$	NULL		1	geh E??
 ^uó^ng$	uố/uo ŋ	Y N	1	uó^ng
 ^ɲаɨ.31$	ɲ aɨ ³¹	N A 3	1	ɲаɨ.31
 ^bu.ng$	b u̩/u ŋ	P Y N	1	bu.ng
-^co-n$	c o + n */ə	C U _ N E	1	co-n
+^co-n$	c/ts o + n */ə	C U _ N E	1	co-n
 .11	¹¹	1	23	"qa.55 li.11;lat.11;lɔ.11 čjai.55;laʔ.53 sok.11;na.11"
 .22	²²	1	10	"tɛn.22;mat.22 atak.13;pəɨ.22;mɛŋ.22ʔ;mɨc.22"
 .A	A/³⁴	2	29	"ʔəjʔ.A sɔŋ.A;khɔm.A ʔuik.A;ʔic.A ek.B;ʔic.A ek.C;ʔic.A jur.B"
@@ -106,7 +106,7 @@ au	au	A	76	"c̣am.33 kauk.31;ɲauʔ;thau.13;sau.33;mau.34"
 aə	aə	A	17	"khaj.45 maə.21;bhlaəŋ;haər;ʒaəŋ;caə.33"
 aɛ	aɛ	A	1	ʔaɛ.33
 âi	âi/ai	A	3	"gâk.55 hâi.41;ʔâit;taŋ.55 hâi.412"
-awh$	h/au	A	3	"tawh;gawh;mawh"
+awh$	awh/au	A	3	"tawh;gawh;mawh"
 f	f	B	16	"kəfaŋ;kə.55 faŋ.412;fəŋ;fa.13;fa.13"
 v	v	B	49	"vien.45;voʔ;vaik;vɛʔ;vɔ.55"
 ɸ	ɸ	B	1	mɸt
@@ -118,18 +118,18 @@ c	c	C	258	"toc ʔŋiaʔ;rɔc.33;ɣuəc.33;krɨjc.A;ʔacim"
 ç	ç	C	23	"çɛ.33;a.33 çim.55;a çim.13;çip.55;açam.1"
 ć	tɕ	C	40	"ćem;ćiaʔ;ćiŋʔal;ćeŋ.33;ćeŋ.31"
 ɟ	ɟ	C	7	"ɟɨŋ;ɟuk.55;ŋɛn ɟap;ɟʌŋ;ɟuh"
-^c	c	C	459	"cuŋ;caʔ;cɔi.T;ckɔp;crəih"
-c$	c	C	119	"lɛʔ rŋoc;hoc;toc;toc;gəluc"
-ch	cʰ	C	20	"choŋ.B cha;cɛn.B cha.A;ɲchɛŋ.C;nchɛɲ.N;nchiŋ"
-cɦ	cʰ	C	0	
+^c	c/ts	C	459	"cuŋ;caʔ;cɔi.T;ckɔp;crəih"
+c$	c/ts	C	119	"lɛʔ rŋoc;hoc;toc;toc;gəluc"
+ch	c/tsʰ	C	20	"choŋ.B cha;cɛn.B cha.A;ɲchɛŋ.C;nchɛɲ.N;nchiŋ"
+cɦ	c/tsʱ	C	0	
 c̣	ʈʂ	C	1	ʒ́iak.31 c̣am.3
-ćh	tɕʰ	C	15	"ćhaŋ.33 kɔk.33;ćhim.31;a.33 ćhim.33;ćhɔ.31;ćhɔʔ.55"
-ʒh	dzʰ	C	14	"ʒham;ʒhu;ʒhola;ʒhip.55;ʒhelob"
-ʒ̣	ʒ̣/ɖʐ	C	1	ʒ̣rik.33
-^ch	cʰ	C	81	"chim.B;choə̌m;chiʔm.A;chim.C;chim.B"
-^c̣	ʈʂ	C	2	"c̣am.33 kauk.31;c̣am.33 kauk.31"
-c̣h	ʈʂʰ	C	2	"khik.33 c̣hak.3;khik.33 c̣hak.3"
-^c̣h	ʈʂʰ	C	1	c̣hraŋ.51
+ćh	ćh/tɕʰ	C	15	"ćhaŋ.33 kɔk.33;ćhim.31;a.33 ćhim.33;ćhɔ.31;ćhɔʔ.55"
+ʒh	ʒh/dʑʰ	C	14	"ʒham;ʒhu;ʒhola;ʒhip.55;ʒhelob"
+ʒ̣	ʒ̣/dʑ	C	1	ʒ̣rik.33
+^ch	ch/tsʰ	C	81	"chim.B;choə̌m;chiʔm.A;chim.C;chim.B"
+^c̣	c̣/ʈʂ	C	2	"c̣am.33 kauk.31;c̣am.33 kauk.31"
+c̣h	c̣h/ʈʂʰ	C	2	"khik.33 c̣hak.3;khik.33 c̣hak.3"
+^c̣h	c̣h/ʈʂʰ	C	1	c̣hraŋ.51
 E	e	E	1	gəʒEŋ
 e	e	E	879	"sweh;ʔape;həre luk;kemböh;ka.44 het.21"
 æ	æ	E	12	"athæmʔ;akæʔ;ulæʔ;ʔænʔ;kæŋʔ"
@@ -208,89 +208,89 @@ k	k	K	2556	"kaluh;kaloh;həre luk;kemböh;ka.44 het.21"
 q	q	K	9	"qa.55 li.11;ai.T.33 qou.55;qɔ.53;se.T.55 qou.33;ce.31 pau.31 qu"
 ɡ	g	K	5	"ɡiết;ɗâu ɡɸ́i;ɗu’ò’nɡ ɗi;ɡəndäŋ;ɡì"
 ^ḳ	ḳ/k	K	1	ḳəsaw
-gh	gʰ	K	15	"mogher;ghɨt.55 pu.51;nghe;ghiliŋ;khun.51 ghut.33"
-kh	kʰ	K	333	"khu;khɔŋ.T.13;khɔm.A ʔuik.A;kharom;nkhɔp"
-ks	ks	K	12	"kseŋ.L;ksew;ksɔʔ;tiksuŋ;ksaiʔ"
-kw	kʷ	K	10	"mphun kwah;kwaŋ;daʔtu=kwi;kwaj.43;kwo"
+gh	gh/gʰ	K	15	"mogher;ghɨt.55 pu.51;nghe;ghiliŋ;khun.51 ghut.33"
+kh	kh/kʰ	K	333	"khu;khɔŋ.T.13;khɔm.A ʔuik.A;kharom;nkhɔp"
+ks	ks/kˢ	K	12	"kseŋ.L;ksew;ksɔʔ;tiksuŋ;ksaiʔ"
+kw	kw/kʷ	K	10	"mphun kwah;kwaŋ;daʔtu=kwi;kwaj.43;kwo"
 ^kk	k	K	1	kke
-^qh	qʰ	K	1	qhɔŋ.13
-^khw	kʷʰ	K	1	khwaŋ.33
+^qh	qh/qʰ	K	1	qhɔŋ.13
+^khw	khw/kʷʰ	K	1	khwaŋ.33
 L	l	L	1	beLo
 l	l	L	1650	"lɛʔ;lɛʔ lawʌn;lɛʔ lawʌn;lɛ mət;lɛʔ rŋoc"
 ľ	ɭ	L	1	ľɛt ʒet beh
 ḷ	ɭ	L	4	"kaḷia;ḷɨ;aeḷa;kuaḷesoŋ"
 ^ɫ	lˠ	L	7	"ɫɨt.53;ɫai.53 mat.31;ɫɨt.11;ɫu.34;ɫɨəc.31"
-lh	lʰ	L	41	"bəlhet;lhɔŋ.31;təlh.1;kərialh;lhɛʔɜǒʔ"
+lh	lh/l̥	L	41	"bəlhet;lhɔŋ.31;təlh.1;kərialh;lhɛʔɜǒʔ"
 ll	ɭ	L	11	"pəlluŋ;palluŋ;pylleŋ;balla;kalləŋ.L"
-lw	lʷ	L	5	"blwa;plwa;kəlwĩl;lwaŋ;lwak"
+lw	lw/lʷ	L	5	"blwa;plwa;kəlwĩl;lwaŋ;lwak"
 m	m	M	2138	"lɛ mət;tum.T;lam;chim.B;thəŋsim"
 ^M	m̥	M	3	"Mon;Mon;Mak"
-mh	mʰ	M	3	"kəmho;təmhmɔŋ;ghɔk.33 mhu.31"
+mh	mh/m̥	M	3	"kəmho;təmhmɔŋ;ghɔk.33 mhu.31"
 m̌	m	M	1	ʔgar m̌ɛh
-^mh	mʰ	M	31	"mhəw;mhok;mham;mham;mham"
-^mm	m	M	2	"mmih;mma"
+^mh	mh/m̥	M	31	"mhəw;mhok;mham;mham;mham"
+^mm	mm/mː	M	2	"mmih;mma"
 N	ŋ	N	3	"ceNe;caNḍuʔ;ʔəNtat"
 n	n	N	1444	"lɛʔ lawʌn;niʔ.T najh.T;niʔ.T najh.T;nahroh;sʌdn mwãʔ"
 ŋ	ŋ	N	2051	"lɛʔ rŋoc;dɨŋ ndə;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.L dəgŋ.L"
 ɲ	ɲ	N	404	"ɛtɲɛʔ;ɲiʔ;ɲɛʔ;sə=ʔoɲ;pətiɲ.1"
 ṇ	ɳ	N	9	"saṇem;ʒuṇṭa;aṇṭu;caṇḍbol;ṇaʔ"
-nh	nh	N	8	"kanhah;lanh;daʔ nha chi;xanh;kənhaj"
-ŋh	ŋʰ	N	20	"gŋhəl;ŋhi.33;ŋham.N;ʔəŋhaŋ;ŋhaŋ"
-ŋw	ŋʷ	N	3	"ŋwaiʔ;ŋwaj;təŋwil"
+nh	nh/n̥	N	8	"kanhah;lanh;daʔ nha chi;xanh;kənhaj"
+ŋh	ŋh/ŋ̊	N	20	"gŋhəl;ŋhi.33;ŋham.N;ʔəŋhaŋ;ŋhaŋ"
+ŋw	ŋw/ŋʷ	N	3	"ŋwaiʔ;ŋwaj;təŋwil"
 ŋŋ	ŋ	N	1	pəŋŋai
-ɲh	ɲʰ	N	4	"təlir ɲhək;ɲhuk;ɲhuʔ;ɲhuʔ"
+ɲh	ɲh/ɲ̊	N	4	"təlir ɲhək;ɲhuk;ɲhuʔ;ɲhuʔ"
 ^nh	nʰ	N	26	"nham.51;nham.51;nham.51;nham;nham.1"
 ^nn	ŋ	N	5	"nnih;nniah;nnujh;nnəh.L;nnəʔ.L"
-^ns	ns	N	13	"nsam.33ʔ;nsɔr;nsieŋ;nsɛŋ;nsiaŋ.T"
+^ns	n s	N	13	"nsam.33ʔ;nsɔr;nsieŋ;nsɛŋ;nsiaŋ.T"
 b	b	P	682	"bal.33 haj.33;pəbət;səbəroh;kemböh;bən.224"
 p	p	P	997	"dap;ʔape;ʔap;paŋ ʔəjʔ;pəbət"
-bh	bʰ	P	3	"kəbhɔk;ba bha;khun.51 bhət.33"
-ph	pʰ	P	121	"phâʔ.N;phâʔ;phəh;phɛh;phoh.C"
-^bh	bʰ	P	8	"bhipm;bhənɛk;bhlaəŋ;bhore;bhɔm.1"
-^pp	p	P	1	ppûəʔ
-^ps	ps	P	1	psɛɲ
-^pw	pʷ	P	4	"pwac;pwak;pwak;pwak"
-^pɦ	pʰ	P	10	"pɦu;pɦɨəh;pɦiŋ;pɦic;pɦic ŋaɲ"
+bh	bh/bʰ	P	3	"kəbhɔk;ba bha;khun.51 bhət.33"
+ph	ph/pʰ	P	121	"phâʔ.N;phâʔ;phəh;phɛh;phoh.C"
+^bh	bh/bʰ	P	8	"bhipm;bhənɛk;bhlaəŋ;bhore;bhɔm.1"
+^pp	pp/pː	P	1	ppûəʔ
+^ps	pˢ	P	1	psɛɲ
+^pw	pw/pʷ	P	4	"pwac;pwak;pwak;pwak"
+^pɦ	pɦ/pʱ	P	10	"pɦu;pɦɨəh;pɦiŋ;pɦic;pɦic ŋaɲ"
 R	r̥	R	15	"ki-Rəŋ;haRge;rohoR;roRo;aRɔŋ"
 r	r	R	653	"lɛʔ rŋoc;həre luk;səbəroh;nahroh;baroh"
-ṛ	ɻ	R	13	"miṛeʔ;ʒi kuṛam;ko=pṛug;koṛa;kaṛ"
+ṛ	ṛ/ɽ	R	13	"miṛeʔ;ʒi kuṛam;ko=pṛug;koṛa;kaṛ"
 ^r	r	R	239	"roc;rɔc.33;ram;ru;ram"
 r$	r	R	269	"pai tǔr;par;kəpur;ʔəŋkar;ŋkar"
-rh	rʰ	R	7	"tulurh.3;parh.1;pərhem;murh.2;pərhe"
+rh	rh/rʰ	R	7	"tulurh.3;parh.1;pərhem;murh.2;pərhe"
 rr	r	R	3	"kúrraŋ;kərriajh.T;karrias.T"
-^rh	rʰ	R	11	"rhim;rhɨp;rhǒp;rhɔm;rhuʔ.55"
-^rw	rʷ	R	3	"rwɨl;rwaŋ;rwal"
+^rh	rh/rʰ	R	11	"rhim;rhɨp;rhǒp;rhɔm;rhuʔ.55"
+^rw	rw/rʷ	R	3	"rwɨl;rwaŋ;rwal"
 s	s	S	1098	"sit;ʔəjʔ.A sɔŋ.A;səbəroh;sʌdn mwãʔ;səmwɛj"
 z	z	S	36	"zəm.343ʔ;zəm.1;zəm.434;zaʔn;zeŋ"
-š	ʂ	S	10	"šip.31 thi.51;tšòh;šo.55;šok.51;šok.55"
-ʒ	dʒ	S	212	"ʒəh;ʒəh ʔalaʔ;ʒoto;ʔeʒ;ʔeʒ"
+š	ʃ	S	10	"šip.31 thi.51;tšòh;šo.55;šok.51;šok.55"
+ʒ	dʑ	S	212	"ʒəh;ʒəh ʔalaʔ;ʒoto;ʔeʒ;ʔeʒ"
 ʝ	ʝ	S	1	taʔkəʝʔ
-^S	ʃ	S	3	"So;So;So"
+^S	S/ʃ	S	3	"So;So;So"
 ^ṣ	ʂ	S	3	"ṣɔk.51;ṣu.31;ṣaŋ.51"
-sh	sʰ	S	2	"posh;ok-shiak"
-^sh	sʰ	S	9	"sh'ieŋ;shadem;shkor;shɲiuh;shaniah"
+sh	sh/sʰ	S	2	"posh;ok-shiak"
+^sh	sh/sʰ	S	9	"sh'ieŋ;shadem;shkor;shɲiuh;shaniah"
 T	t	T	1	muɲTo
 d	d	T	494	"dɨŋ ndə;diʔ.L dɔŋ;diʔ.L dɔŋ;diʔ.T daŋ.L;diʔ.T daŋ.L"
 t	t	T	2207	"lɛ mət;tum.T;sit;tiʔ;toc"
 č	tʃ	T	17	"čip.55;čən.55;čaŋ.31;lɔ.11 čjai.55;čeŋ.51"
 ǯ	ǯ/dʒ	T	1	ǯᵻʔ
 ɗ	ɗ	T	3	"ɗâu ɡɸ́i;ɗu’ò’nɡ ɗi;ɗu’ò’nɡ ɗi"
-ḍ	ɖ	T	72	"kontheḍ;konteḍ;akeḍ;aḍo;ram'aḍ"
-ṭ	ʈ	T	39	"ṭoŋ.34ʔ;ṭaoh;ṭut;ṭoh;ṭaw"
+ḍ	ḍ/ɖ	T	72	"kontheḍ;konteḍ;akeḍ;aḍo;ram'aḍ"
+ṭ	ṭ/ʈ	T	39	"ṭoŋ.34ʔ;ṭaoh;ṭut;ṭoh;ṭaw"
 ^đ	ɗ	T	13	"đen;đi;đất;đầy;đầu"
 d̤	dʱ	T	2	"ɔn=d̤ɔr;ɔn=d̤ɔr"
 jh	dʒʰ	T	73	"niʔ.T najh.T;puŋ.31 jhi.53;tɔjh;tajh;kərɔjh"
-nd	ⁿd	T	55	"dɨŋ ndə;dɨŋ ndə;ndo;ndrɔh;ndɔh"
-nʒ	ⁿdʒ	T	6	"nʒiŋ;kynʒat;nʒaj;nʒɛk;hənʒadn"
-th	tʰ	T	169	"thuj;thəŋsim;thaŋ.2;thaŋ.C at.A;thaŋ.E ot.C"
+nd	nd/ⁿd	T	55	"dɨŋ ndə;dɨŋ ndə;ndo;ndrɔh;ndɔh"
+nʒ	nʒ/ⁿdʑ	T	6	"nʒiŋ;kynʒat;nʒaj;nʒɛk;hənʒadn"
+th	th/tʰ	T	169	"thuj;thəŋsim;thaŋ.2;thaŋ.C at.A;thaŋ.E ot.C"
 t̀	t̀/t	T	2	"ʔat̀i;sajt̀"
 čh	tʃʰ	T	13	"čhim.51;čhɔʔ.55;čhak.35;čhiat.31;khik.55 čhak.55"
-^dh	dʰ	T	13	"dhaom;dhuʔ.53;dhap.33;dhap.55;dhaiŋ.31 pi.51"
-^dw	dʷ	T	2	"dwan;dwaj"
+^dh	dh/dʰ	T	13	"dhaom;dhuʔ.53;dhap.33;dhap.55;dhaiŋ.31 pi.51"
+^dw	dw/dʷ	T	2	"dwan;dwaj"
 ^ʒ́	ʒ́/dʒ	T	3	"ʒ́ân.51;ʒ́iak.31 c̣am.3;ʒ́âŋ.51"
-^ʔʒ	ˀdʒ	T	4	"ʔʒiŋ;ʔʒə́ŋ;ʔʒuŋ;ʔʒəʔ"
-^ṭh	ʈʰ	T	1	ṭhehuna
-^ʒ́h	ʒ́ʰ/dʒʰ	T	3	"ʒ́hip.33;ʒ́hi.51;ʒ́haik.51"
+^ʔʒ	ʔʒ/ˀdʑ	T	4	"ʔʒiŋ;ʔʒə́ŋ;ʔʒuŋ;ʔʒəʔ"
+^ṭh	ṭh/ʈʰ	T	1	ṭhehuna
+^ʒ́h	ʒ́h/dʒʰ	T	3	"ʒ́hip.33;ʒ́hi.51;ʒ́haik.51"
 O	o	U	1	tanOʔ
 o	o	U	1197	"lɛʔ rŋoc;kaloh;hoc;toc;toc"
 ò	ò/o	U	8	"lòm;en-kòiɲa;ngu'ò'i;tròn;tlòn"
@@ -319,8 +319,8 @@ o̩	o̩/o	U	1	mo̩maŋ
 ɔ̃	ɔ̃/ɔ	U	9	"katɔ̃ŋ;hɔ̃j;sŋʔɔ̃j;təhɔ̃ɲ;macɔ̃t"
 ɔ̆	ɔ̆	U	4	"nɔ̆ k;pɔ̆ h ka.C;tɔ̆ ʔ;blɔ̆ ʔ"
 w	w	W	355	"lɛʔ lawʌn;sʌdn mwãʔ;səmwɛj;mhəw;mwak"
-ʔw	ˀw	W	3	"meʔw.B;ŋʔwaj;kaʔwej"
-^ʔw	ˀw	W	3	"ʔwɛh;ʔwej.T;ʔwaj"
+ʔw	ʔw/ˀw	W	3	"meʔw.B;ŋʔwaj;kaʔwej"
+^ʔw	ʔw/ˀw	W	3	"ʔwɛh;ʔwej.T;ʔwaj"
 U	u	Y	8	"ʔaɲUmʔ;ulUlʔ;uthUk;ulUk;ŋkUɲʔ"
 u	u	Y	1351	"thuj;kaluh;khu;tum.T;gəluc"
 y	y	Y	44	"gulay;dypei;ʔyk-;tyrsim;mây"
@@ -342,16 +342,16 @@ uə	uə	Y	75	"ŋkuər;puəh;ɣuəc.33;kluəŋ.A;muəŋ.32 suəŋ.45"
 =	+	_	65	"sə=ʔoɲ;ʔup=kə́p;siʔ=saŋ;daʔtu=kwi;tirib=ḍak"
 Ah$	a h	A H	1	adAh
 Ãs$	a s	A S	1	mÃs
-^cw	c w	C W	7	"cwa;cwəʔ;cwaŋ;cwaŋ;cwoh"
-^hw	h w	H W	1	hwaʔ.1
-^mhw	m hʷ	M H	1	mhwal
-ns	n s	N S	6	"kinsód;hansɛm.B;hɨnsaj.33;hɨnsaj.33;konsel=ḍug"
+^cw	cw/tsʷ	C W	7	"cwa;cwəʔ;cwaŋ;cwaŋ;cwoh"
+^hw	hw/w̥	H W	1	hwaʔ.1
+^mhw	mhw/m̥ʷ	M H	1	mhwal
+ns	n + s	N S	6	"kinsód;hansɛm.B;hɨnsaj.33;hɨnsaj.33;konsel=ḍug"
 ^ɲs	ɲ s	N S	2	"ɲsok;ɲsok kɨʔ"
-rh$	r h	R H	1	ləarh
+rh$	rh/r̥	R H	1	ləarh
 rs	r s	R S	1	tyrsim
-rw	r w	R W	3	"crwes;kərwal;brwo"
-^sw	s w	S W	4	"sweh;swaʔ;swaʔ;swak"
-^ʒw	dʒ w	T W	1	ʒwɔŋ
+rw	rw/rʷ	R W	3	"crwes;kərwal;brwo"
+^sw	sw/sʷ	S W	4	"sweh;swaʔ;swaʔ;swak"
+^ʒw	ʒw/dʑʷ	T W	1	ʒwɔŋ
 òh$	ò/o h	U H	2	"tšòh;laŋòh"
 ʔs	ʔ + s	H _ S	3	"kaʔsam;haʔsɔk;kaʔsaŋ"
 $iaid$	i ai d	I A T	0	
