@@ -28,5 +28,5 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
 
 ### Replacement of invalid lexemes
 
-Source lexemes may be impossible to interpret correctly. 96 such lexemes are listed
+Source lexemes may be impossible to interpret correctly. 97 such lexemes are listed
 in [`etc/lexemes.csv`](etc/lexemes.csv) and replaced as specified in this file.
