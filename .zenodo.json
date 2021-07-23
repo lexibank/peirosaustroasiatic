@@ -26,5 +26,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Peiros, I. I. (2004): Geneti\u010deskaja klassifikacija avstroaziatskix jazykov [Genetic classification of Austro-Asiatic languages]. Russian State University for the Humanities, Russian State University for the Humanities, Moscow.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Peiros, I. I. (2004): Geneti\u010deskaja klassifikacija avstroaziatskix jazykov [Genetic classification of Austro-Asiatic languages]. Russian State University for the Humanities, Russian State University for the Humanities, Moscow.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

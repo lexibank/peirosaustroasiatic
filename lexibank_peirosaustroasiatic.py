@@ -23,10 +23,9 @@ class Dataset(BaseDataset):
     id = "peirosaustroasiatic"
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
+    cross_concept_cognates = True
     form_spec = FormSpec(
-        separators=("/", ","),
-        strip_inside_brackets=True,
-        brackets={"[": "]", "(": ")", "<": ">"},
+        separators=("/", ","), strip_inside_brackets=True, brackets={"[": "]", "(": ")", "<": ">"}
     )
 
     def cmd_makecldf(self, args):
@@ -34,8 +33,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         # add concepts
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
-            lookup_factory="Name",
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
         # fix concept
         concepts["fat (n.)"] = concepts["fat n."]
@@ -55,9 +53,7 @@ class Dataset(BaseDataset):
             self.raw_dir.read_csv("Peiros2004-data by etymology.txt", delimiter="\t")
         ):
             if "".join(row_).strip():
-                row = dict(
-                    zip(["CONCEPT", "SUBGROUP", "LANGUAGE", "FORM", "COGNACY"], row_)
-                )
+                row = dict(zip(["CONCEPT", "SUBGROUP", "LANGUAGE", "FORM", "COGNACY"], row_))
                 bsource = ""
                 if row["COGNACY"].isdigit():
                     cogid = int(row["COGNACY"])
@@ -75,6 +71,4 @@ class Dataset(BaseDataset):
                     LoanSource=bsource,
                     Loan=True if bsource else False,
                 ):
-                    args.writer.add_cognate(
-                        lexeme, Cognateset_ID=cogid, Source=["Peiros2004a"],
-                    )
+                    args.writer.add_cognate(lexeme, Cognateset_ID=cogid, Source=["Peiros2004a"])

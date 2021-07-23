@@ -14,10 +14,7 @@ setup(
     py_modules=["lexibank_peirosaustroasiatic"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={
-        "lexibank.dataset":
-        ["peirosaustroasiatic=lexibank_peirosaustroasiatic:Dataset"],
-        },
-    install_requires=["pylexibank>=2.1"],
+    entry_points={"lexibank.dataset": ["peirosaustroasiatic=lexibank_peirosaustroasiatic:Dataset"]},
+    install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )
