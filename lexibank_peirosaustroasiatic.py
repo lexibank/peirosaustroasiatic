@@ -21,6 +21,8 @@ class CustomLanguage(Language):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "peirosaustroasiatic"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     cross_concept_cognates = True

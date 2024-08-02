@@ -25,14 +25,14 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/lexibank/peirosaustroasiatic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/peirosaustroasiatic/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 62%](https://img.shields.io/badge/Glottolog-62%25-orange.svg "Glottolog: 62%")
+![Glottolog: 87%](https://img.shields.io/badge/Glottolog-87%25-yellowgreen.svg "Glottolog: 87%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 109
-- **Concepts:** 100
+- **Varieties:** 109 (linked to 85 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 10,706
 - **Sources:** 1
 - **Synonymy:** 1.02
@@ -40,14 +40,14 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.17
 - **Invalid lexemes:** 0
 - **Tokens:** 45,870
-- **Segments:** 277 (0 BIPA errors, 0 CTLS sound class errors, 278 CLTS modified)
+- **Segments:** 277 (0 BIPA errors, 0 CLTS sound class errors, 278 CLTS modified)
 - **Inventory size (avg):** 41.90
 
 # Contributors
 
 Name | GitHub user | Description | Role
- --- | --- | --- | --- 
-Johann-Mattis List | @LinguList | patron, code | Other 
+ --- | --- | --- | ---
+Johann-Mattis List | @LinguList | patron, code | Editor
 Mei-Shin Wu | @MacyL | orthography profile | Other
 Ilia Peiros | | original data compilation | Author
 
